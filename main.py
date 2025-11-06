@@ -5,7 +5,7 @@ import json
 def clean(s):
     if not s:
         return None
-    s = re.sub(r"[\d\*\s\.,;:\"'?!>]+$", "", s.strip())
+    s = re.sub(r"[\d\*\s\.,;:\"'?!>\(]+$", "", s.strip())
     s = re.sub(r"TM+$", "", s)
     return s.strip()
 
@@ -20,9 +20,9 @@ entries.pop()
 
 # Regex patterns used to extract data
 title_pattern = r"(?m)^(?:\d{4}/\d{1,2}\s+)?(.+?)\bMusic"
-composer_pattern = r"Music(?:\s*\([^)]+\))*.*?(?:attributed to|by)\s+([^\n\d]*)"
-writer_pattern = r"Text(?:\s*\([^)]+\))*.*?(?:attributed to|by)\s+([^\n\d]*)"
-venue_pattern = r"Performed at\s*([^\n\d]+)(?:\bSEASON:)"
+composer_pattern = r"Music(?:\s*\([^)]+\))*.*?(?:by|attributed to|attrib. to|adapted from)\s+([^\n\d]*)"
+writer_pattern = r"(?:Text|Libretto)(?:\s*\([^)]+\))*.*?(?:attrib. to|attributed|attributed to|by|derived from|revised from|adapted by|adapted from|adapted anonymously from|possibly adapted from)\s+([^\n\d]*)"
+venue_pattern = r"(?:Performed|Given|Opened) at\s*([^\n\d]+)(?:\bSEASON:)"
 date_pattern = r"SORTING DATE:\s*(\d{4}-\d{1,2}-\d{1,2})"
 
 results = []
@@ -30,11 +30,11 @@ results = []
 # Uses regex patterns to extract all relevant data
 for entry in entries:
     data = {
-        "title": clean(re.search(title_pattern, entry).group(1) if re.search(title_pattern, entry) else None),
-        "composer": clean(re.search(composer_pattern, entry).group(1) if re.search(composer_pattern, entry) else None),
-        "writer": clean(re.search(writer_pattern, entry).group(1) if re.search(writer_pattern, entry) else None),
-        "venue": clean(re.search(venue_pattern, entry).group(1) if re.search(venue_pattern, entry) else None),
-        "sorting_date": re.search(date_pattern, entry).group(1) if re.search(date_pattern, entry) else None
+        "title": clean(re.search(title_pattern, entry, re.IGNORECASE).group(1) if re.search(title_pattern, entry) else None),
+        "composer": clean(re.search(composer_pattern, entry, re.IGNORECASE).group(1) if re.search(composer_pattern, entry) else None),
+        "writer": clean(re.search(writer_pattern, entry, re.IGNORECASE).group(1) if re.search(writer_pattern, entry) else None),
+        "venue": clean(re.search(venue_pattern, entry, re.IGNORECASE).group(1) if re.search(venue_pattern, entry) else None),
+        "sorting_date": re.search(date_pattern, entry, re.IGNORECASE).group(1) if re.search(date_pattern, entry) else None
     }
 
     results.append(data)

@@ -12409,19 +12409,6 @@ No musical sources known
 
 Listed as Bonlini 398; Groppo 402; Wiel 47; Alm 526, 527, 528
 
-6 A Venetian citizen (literally a cittadino, the middle rank in the Venetian social structure). His name is given as Meli in the libretto.
-
-| According to a note in the libretto, her name was changed here to Anagilda to make a better sound in the music.
-
-' The Historia della perdita e riaquisto della Spagna occupata da Mori (Bologna: Gioseffo Longhi, 1676)] by[Bartolomeo de] Rogatis is
-credited with the outlines of the story. Rogatis (1596-1656) was a Venetian who had traveled to Valencia.
-
-'8 Groppo (MS, p. 152) says that one version only of the libretto indicates a ballo at the end of the work; two other versions lack the indication.
-Alm's listings 526, 527, and 528 all contain three balli.
-
-4 The title-page is dated 1706, but all histories seem to classify it as a 1705 work. Some copies of the libretto (e.g., US-LAu 525) conclude
-with a list of the musical works recently published [like the libretto] by Antonio Bortoli.
-
 OPERA PRODUCTIONS (1700-09) 269
 
 1705/9 Creso tolto a le fiamme Music attributed to Girolamo Polani
@@ -18152,7 +18139,13 @@ The 1720s: Chronology
 
 [PARIS]
 A dramma per musica (5)
-Performed at San Giovanni Grisostomo
+
+Music by Giuseppe Maria Orlandini
+
+Text by Francesco Muazzo!
+Performed at San Giovanni Grisostomo SEASON: Winter (Carnival)
+SORTING DATE: 1720-01-13
+
 With a ballo
 rs Without dedicatee
 In this variant of the myth recounted in 1706/5, Paris, the son of Priam and Hecuba, having been raised
@@ -18169,11 +18162,6 @@ A Arias in D-B (2), Shs, SWI; F-Pc; GB-Mp; I-Re
 
 Listed as Bonlini 536; Groppo 540; Wiel 184; Alm 687
 
-Music by Giuseppe Maria Orlandini
-
-Text by Francesco Muazzo!
-SEASON: Winter (Carnival)
-SORTING DATE: 1720-01-13
 
 M1
 
@@ -22390,147 +22378,6 @@ della costanza in Statira, vedova d' Alessandro (cf. 1731/1). L odio placato was
 in 1627 (see Riccoboni, Histoire, p. 172).
 
 3 Diario ordinario, No. 1939, p. 10.
-
-The 1730s: Overview
-
-Ge Doge Giovanni Mocenigo's ten-year tenure as
-doge (1722-32) was noted for its social excesses
-YAKS and moral decline, the next two doges  Carlo
-Ruzzini (1732-35) and Alvise Pisani (1735-41)  enjoyed
-substantial diplomatic careers. Ruzzini was a negotiator of
-European stature. Pisani exhibited a substantial interest in
-public well-being. Some evidences of this were vested in
-the Accademia Albrizziana and the Ospedale della Pieta.
-Despite such investments, the declining influence of the Most
-Serene Republic was increasingly hard to hide. Legions of
-central Europeans arrived, while countless desperate
-noblemen risked their dwindling savings on ventures in India
-or the New World.
-
-The decline in Venetian power generally and in the
-lagoon's drawing power is apparent from an overall decrease
-of twenty per cent in the number of operas given and almost
-forty per cent in the number of meta-operas. In theatrical
-affairs, the most consequential shift of the decade was caused
-by the resurgence of comedy performed in a wholly new
-manner  with music. Evidences abound that music had
-played a minor role in comedies for a long time (Song and
-Season, Chs. 4.1, 8.1). The question of authorship of such
-works is a contentious one, since scripted comedy was still
-arelative novelty. In contrast to opera librettists, comedians
-were not accustomed to editing their works with a view
-towards publication. Comedians were still engaged in
-troupes, though audiences of the time began to single out
-individual figures. One of the stars of Giuseppe Imer's troupe
-was the young widow Zanetta Farassi Casanova (mother of
-Giacomo). Musical satires of serious opera performed at San
-Samuele gradually changed the course of Venetian opera.
-Experiments with musical comedy inspired Carlo Goldoni,
-whose later impact on Venetian theater was hardly evident
-when he resumed residence in Venice in 1732.
-
-Meanwhile, opera continued on its set course. The
-composer who enjoyed the greatest respect in the 1730s, at
-least at San Giovanni Grisostomo, was Johann Adolf Hasse,
-a Saxon trained in Naples. In 1730, after extraordinary
-successes with Artaserse (1730/7) and Dalisa (1730/8),
-Hasse took the Venetian virtuosa Faustina Bordoni as his
-wife. Bordoni's own successes in London in the 1720s and
-her extravagant fees, in combination with Hasse's assimila-
-
-tion of diverse musical cultures, rendered the pair singular
-examples ofa rising synthesis of musical values which came
-to identify European taste. Despite a subsequent 25-year
-tenure in Dresden, the composer and his wife maintained
-ties with Venice for the rest of their long lives. Hasse's
-works were also well regarded in Vienna, for many were
-on texts by Metastasio. The works also had reprieves in
-London. Singers such as Carlo Broschi (Farinelli) and
-Gaetano Majorana (Caffariello) competed for the distinc-
-tion of singing the most difficult virtuoso passages in operas
-of the time.
-
-In contrast to the Hasse-Metastasio axis of opera, the
-repertory of Sant' Angelo, which was equally active, drifted
-towards revivals and pastiches. Its most energetic composer,
-Vivaldi, spent more time managing touring companies
-scattered from the provinces of northern Italy to those of
-Central Europe, than at home. Apart from the faithful but
-aging Albinoni, Sant'Angelo employed such novices as
-Bartolomeo Cordans, Antonio Galeazzi, and Gio. Battista
-Lampugnani. Among the newcomers, the one with the
-greatest musical future was Baldassare Galuppi, who would
-eventually become maestro di cappella at San Marco. Many
-of Sant'Angelo's singers were, like Galuppi, Venetian.
-Among its many economies, Sant' Angelo increasingly cast
-women in male roles.
-
-The spring season became entrenched in three theaters
- Sant' Angelo, San Moise, and San Samuele. Two spring
-works of the decade stand out  the Hasse/Metastasio
-Dalisa (1730/8) and the Vivaldi/Goldoni Griselda (1735/5)
- but each for different reasons. Dalisa, which starred
-Bordoni, was one of the most expensive works, on a cost-
-per-day basis, ever to be produced in Venice. Even so, it lost
-money. Since the house was packed for every performance,
-this indicates that at the wages it offered, San Samuele stood
-no chance, ever, of making ends meet. Griselda represented
-one of the few interactions between Vivaldi and the young
-Goldoni. It was also the only work by Vivaldi ever to be
-produced at San Giovanni. Memorable as Goldoni's account
-of the interaction is, it appears that an important message
-was left unsaid: either the working relationship was as
-unacceptable to Vivaldi as it was to Goldoni, or the product
-of their collaboration was poorly received.
-
-414
-
-A NEW CHRONOLOGY OF VENETIAN OPERA
-
-354
-
-304
-
-25411]
-
-O Sant'Angelo
-O San Cassiano
-
-20+]
-
-| @ San Gio. Grisostomo
-@ San Moise
-
-15-41
-
-@ San Salvatore |
-O San Samuele |
-
-1044
-
-FIGURE 26. Productions by theater, 1720s vs. 1730s.
-
-On balance, the reputations of the smaller theaters were
-increasingly eclipsed by those of the star providers. San
-Samuele was now the third most active venue for operas but
-a distant one behind San Giovanni, which trailed Sant' An-
-gelo (Figure 26). Activities of San Cassiano and San Moise
-withered. The autumn/winter continuum developed a bipolar
-symmetry insofar as comedy troupes gave great publicity
-to their autumn opening nights, while the opera houses
-trumpeted the last nights of Carnival.
-
-| @ Other sf
-
-The survival rate of scores (almost thirty per cent) is
-improved over that of recent decades. In particular, many
-works by Hasse and Vivaldi have been preserved. However,
-statistics mute the role of extant scores from performances
-given elsewhere and/or with different casts. Among news
-sources, avvisi are preserved for most years. The residues
-of many which are lost can be found in the Diario ordinario.
-The quality of the papal legate's records declines, but the
-quantity remains steady.
 
 The 1730s: Chronology
 
