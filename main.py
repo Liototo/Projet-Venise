@@ -21,7 +21,7 @@ entries.pop()
 # Regex patterns used to extract data
 title_pattern = r"(?m)^(?:\d{4}/\d{1,2}\s+)?(.+?)\bMusic"
 composer_pattern = r"Music(?:\s*\([^)]+\))*.*?(?:by|attributed to|attrib. to|adapted from)\s+([^\n\d]*)"
-writer_pattern = r"(?:Text|Libretto)(?:\s*\([^)]+\))*.*?(?:attrib. to|attributed|attributed to|by|derived from|revised from|adapted by|adapted from|adapted anonymously from|possibly adapted from)\s+([^\n\d]*)"
+writer_pattern = r"(?:Text|Libretto)(?:\s*\([^)]+\))*.*?(?:attrib. to|attributed to|by|derived from|revised from|adapted by|adapted from|adapted anonymously from|possibly adapted from)\s+([^\n\d]*)"
 venue_pattern = r"(?:Performed|Given|Opened) at\s*([^\n\d]+)(?:\bSEASON:)"
 date_pattern = r"SORTING DATE:\s*(\d{4}-\d{1,2}-\d{1,2})"
 
