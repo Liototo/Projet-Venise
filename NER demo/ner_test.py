@@ -16,13 +16,13 @@ doc = nlp(demo_text)
 results = []
 
 for ent in doc.ents:
-    if ent.label_ in ["PERSON", "GPE", "LOC"]:
+    if ent.label_ in ["PERSON", "GPE", "LOC", "DATE"]:
         results.append({
             "text": ent.text,
             "label": ent.label_
         })
 
-print('Done!\n')
+print(f'Done! {len(results)} entities found\n')
 
 print('Writing to file...')
 
