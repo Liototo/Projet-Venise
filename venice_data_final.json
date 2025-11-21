@@ -4,5438 +4,6215 @@
     "composer": "Carlo Pallavicino",
     "writer": "Giacomo dall' Angelo",
     "venue": "San Moise",
-    "sorting_date": "1666-01-04"
+    "sorting_date": "1666-01-04",
+    "uid": 1
   },
   {
     "title": "L'Orontea",
     "composer": "Antonio Cesti",
     "writer": "Giacinto Andrea Cicognini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1666-01-11"
+    "sorting_date": "1666-01-11",
+    "uid": 2
   },
   {
     "title": "La Zenobia",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Matteo Noris",
     "venue": "San Cassiano",
-    "sorting_date": "1666-01-18"
+    "sorting_date": "1666-01-18",
+    "uid": 3
   },
   {
     "title": "Seleuco",
     "composer": "Antonio Sartorio",
     "writer": "Nicolò Minato",
     "venue": "San Salvatore",
-    "sorting_date": "1666-01-23"
+    "sorting_date": "1666-01-23",
+    "uid": 4
   },
   {
     "title": "Il Tito",
     "composer": "Antonio Cesti",
     "writer": "Nicolò Beregan",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1666-02-13"
+    "sorting_date": "1666-02-13",
+    "uid": 5
   },
   {
     "title": "Il Giasone",
     "composer": "Francesco Cavalli",
     "writer": "Giacinto Andrea Cicognini",
     "venue": "San Cassiano",
-    "sorting_date": "1666-02-23"
+    "sorting_date": "1666-02-23",
+    "uid": 6
   },
   {
     "title": "L'Aureliano",
     "composer": "Carlo Pallavicino",
     "writer": "Count Giacomo dall' Angelo",
     "venue": "San Moise",
-    "sorting_date": "1666-02-25"
+    "sorting_date": "1666-02-25",
+    "uid": 7
   },
   {
     "title": "Pompeo Magno",
     "composer": "Francesco Cavalli",
     "writer": "Nicolò Minato",
     "venue": "San Salvatore",
-    "sorting_date": "1666-02-27"
+    "sorting_date": "1666-02-27",
+    "uid": 8
   },
   {
     "title": "L'Alciade",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Giovanni Faustini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1666-12-14"
+    "sorting_date": "1666-12-14",
+    "uid": 9
   },
   {
     "title": "La Dori, overo Lo schiavo reggio",
     "composer": "Antonio Cesti",
     "writer": "Giovanni Filippo Apolloni",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1667-01-20"
+    "sorting_date": "1667-01-20",
+    "uid": 10
   },
   {
     "title": "La prosperita d'Elio Seiano",
     "composer": "Antonio Sartorio",
     "writer": "Nicolò Minato",
     "venue": "San Salvatore",
-    "sorting_date": "1667-01-22"
+    "sorting_date": "1667-01-22",
+    "uid": 11
   },
   {
     "title": "L' Alessandro amante",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Giacinto Andrea Cicognini, rev. Sebastian Enno",
     "venue": "San Moise",
-    "sorting_date": "1667-01-30"
+    "sorting_date": "1667-01-30",
+    "uid": 12
   },
   {
     "title": "La caduta d'Elio Seiano",
     "composer": "Antonio Sartorio",
     "writer": "Nicolò Minato",
     "venue": "San Salvatore",
-    "sorting_date": "1667-02-03"
+    "sorting_date": "1667-02-03",
+    "uid": 13
   },
   {
     "title": "I tiranno umiliato d'Amore",
     "composer": "Carlo Pallavicino",
     "writer": "Giovanni Faustini, rev. Nicolo Beregan",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1667-12-14"
+    "sorting_date": "1667-12-14",
+    "uid": 14
   },
   {
     "title": "Eliogabalo",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1667-12-30"
+    "sorting_date": "1667-12-30",
+    "uid": 15
   },
   {
     "title": "Seleuco",
     "composer": "Antonio Sartorio",
     "writer": "Nicolò Minato",
     "venue": "San Salvatore",
-    "sorting_date": "1668-01-17"
+    "sorting_date": "1668-01-17",
+    "uid": 16
   },
   {
     "title": "L'Artaserse",
     "composer": "Antonio Cesti",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1668-12-30"
+    "sorting_date": "1668-12-30",
+    "uid": 17
   },
   {
     "title": "L'Argia",
     "composer": "Antonio Cesti",
     "writer": "Giovanni Filippo Apolloni",
     "venue": "San Salvatore",
-    "sorting_date": "1669-01-19"
+    "sorting_date": "1669-01-19",
+    "uid": 18
   },
   {
     "title": "Il Genserico",
     "composer": "Antonio Cesti and Gian Domenico Partenio",
     "writer": "Nicolò Beregan",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1669-02-04"
+    "sorting_date": "1669-02-04",
+    "uid": 19
   },
   {
     "title": "Tiridate",
     "composer": "Giovanni Legrenzi",
     "writer": "Ippolito Bentivoglio",
     "venue": "San Salvatore",
-    "sorting_date": "1669-02-07"
+    "sorting_date": "1669-02-07",
+    "uid": 20
   },
   {
     "title": "L'Ermengarda, regina de' longobardi",
     "composer": "Ant. Sartorio",
     "writer": "Pietro Dolfin",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1669-12-26"
+    "sorting_date": "1669-12-26",
+    "uid": 21
   },
   {
     "title": "Marcello in Siracusa",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1670-01-19"
+    "sorting_date": "1670-01-19",
+    "uid": 22
   },
   {
     "title": "L'Antigona delusa da Alceste",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1670-01-20"
+    "sorting_date": "1670-01-20",
+    "uid": 23
   },
   {
     "title": "L'Erismena",
     "composer": "Francesco Cavalli",
     "writer": "Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1670-02-13"
+    "sorting_date": "1670-02-13",
+    "uid": 24
   },
   {
     "title": "La Semiramide",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Giovanni Andrea Moniglia",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1670-12-12"
+    "sorting_date": "1670-12-12",
+    "uid": 25
   },
   {
     "title": "L'Ercole in Tebe",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Gio. Andrea Moniglia, rev. Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1670-12-13"
+    "sorting_date": "1670-12-13",
+    "uid": 26
   },
   {
     "title": "La Dori ovvero Lo schiavo reggio",
     "composer": "Antonio Cesti",
     "writer": "Giovanni Filippo Apolloni",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1670-12-26"
+    "sorting_date": "1670-12-26",
+    "uid": 27
   },
   {
     "title": "L'Eraclio",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Nicolò Beregan",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1671-01-19"
+    "sorting_date": "1671-01-19",
+    "uid": 28
   },
   {
     "title": "Dario in Babilonia",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Francesco Beverini",
     "venue": "San Salvatore",
-    "sorting_date": "1671-01-26"
+    "sorting_date": "1671-01-26",
+    "uid": 29
   },
   {
     "title": "Claudio Cesare",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1671-12-14"
+    "sorting_date": "1671-12-14",
+    "uid": 30
   },
   {
     "title": "Caligola delirante",
     "composer": "Giovanni Maria Pagliardi",
     "writer": "Domenico Gisberti",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1671-12-26"
+    "sorting_date": "1671-12-26",
+    "uid": 31
   },
   {
     "title": "Attila",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1672-02-12"
+    "sorting_date": "1672-02-12",
+    "uid": 32
   },
   {
     "title": "L' Adelaide",
     "composer": "Antonio Sartorio",
     "writer": "Pietro Dolfin",
     "venue": "San Salvatore",
-    "sorting_date": "1672-02-19"
+    "sorting_date": "1672-02-19",
+    "uid": 33
   },
   {
     "title": "L'Orfeo",
     "composer": "Antonio Sartorio",
     "writer": "Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1672-12-14"
+    "sorting_date": "1672-12-14",
+    "uid": 34
   },
   {
     "title": "Domiziano",
     "composer": "Giovanni Antonio Boretti",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1672-12-30"
+    "sorting_date": "1672-12-30",
+    "uid": 35
   },
   {
     "title": "La costanza trionfante",
     "composer": "Gian Domenico Partenio",
     "writer": "Cristoforo Ivanovich",
     "venue": "San Moise",
-    "sorting_date": "1672-12-30"
+    "sorting_date": "1672-12-30",
+    "uid": 36
   },
   {
     "title": "Massenzio",
     "composer": "Antonio Sartorio",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Salvatore",
-    "sorting_date": "1673-01-28"
+    "sorting_date": "1673-01-28",
+    "uid": 37
   },
   {
     "title": "Lisimaco",
     "composer": "Giovanni Maria Pagliardi",
     "writer": "Cristoforo Ivanovich",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1673-12-12"
+    "sorting_date": "1673-12-12",
+    "uid": 38
   },
   {
     "title": "La schiava fortunata",
     "composer": "Antonio Cesti, rev. Marc' Antonio Ziani",
     "writer": "Gio. Andrea Moniglia, rev. Giulio Cesare Corradi",
     "venue": "San Moise",
-    "sorting_date": "1674-01-13"
+    "sorting_date": "1674-01-13",
+    "uid": 39
   },
   {
     "title": "Numa Pompilio",
     "composer": "Giovanni Maria Pagliardi",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1674-01-13"
+    "sorting_date": "1674-01-13",
+    "uid": 40
   },
   {
     "title": "L'Almerico in Cipro",
     "composer": "Antonio Dal Gaudio",
     "writer": "Girolamo Castelli",
     "venue": "San Moise",
-    "sorting_date": "1674-12-01"
+    "sorting_date": "1674-12-01",
+    "uid": 41
   },
   {
     "title": "Diocleziano",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1674-12-11"
+    "sorting_date": "1674-12-11",
+    "uid": 42
   },
   {
     "title": "Eteocle e Polinice",
     "composer": "Giovanni Legrenzi",
     "writer": "Tebaldo Fattorini'",
     "venue": "San Salvatore",
-    "sorting_date": "1674-12-13"
+    "sorting_date": "1674-12-13",
+    "uid": 43
   },
   {
     "title": "Enea in Italia",
     "composer": "Carlo Pallavicino",
     "writer": "Giacomo Francesco Bussani",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1675-12-04"
+    "sorting_date": "1675-12-04",
+    "uid": 44
   },
   {
     "title": "La divisione del mondo",
     "composer": "Giovanni Legrenzi",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Salvatore",
-    "sorting_date": "1675-12-06"
+    "sorting_date": "1675-12-06",
+    "uid": 45
   },
   {
     "title": "Medea in Atene",
     "composer": "Antonio Giannettini",
     "writer": "Aurelio Aureli",
     "venue": "San Moise",
-    "sorting_date": "1675-12-17"
+    "sorting_date": "1675-12-17",
+    "uid": 46
   },
   {
     "title": "Adone in Cipro",
     "composer": "Giovanni Legrenzi",
     "writer": "Giovanni Matteo Giannini",
     "venue": "San Salvatore",
-    "sorting_date": "1675-12-19"
+    "sorting_date": "1675-12-19",
+    "uid": 47
   },
   {
     "title": "Germanico sul Reno",
     "composer": "Giovanni Legrenzi",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Salvatore",
-    "sorting_date": "1676-01-28"
+    "sorting_date": "1676-01-28",
+    "uid": 48
   },
   {
     "title": "Gallieno",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1676-02-03"
+    "sorting_date": "1676-02-03",
+    "uid": 49
   },
   {
     "title": "Leonida in Tegea",
     "composer": "Antonio Draghi; rev. attributed to M. A. Ziani",
     "writer": "Nicolò Minato",
     "venue": "San Moise",
-    "sorting_date": "1676-02-09"
+    "sorting_date": "1676-02-09",
+    "uid": 50
   },
   {
     "title": "Giocasta, regina d'Armenia",
     "composer": "Antonio Cesti",
     "writer": "Gio. Andrea Moniglia, rev. Giacomo Castoreo",
     "venue": "San Moise",
-    "sorting_date": "1676-12-17"
+    "sorting_date": "1676-12-17",
+    "uid": 51
   },
   {
     "title": "Astiage",
     "composer": "Giovanni Bonaventura Viviani",
     "writer": "Giovanni Filippo Apolloni",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1676-12-23"
+    "sorting_date": "1676-12-23",
+    "uid": 52
   },
   {
     "title": "Giulio Cesare in Egitto",
     "composer": "Antonio Sartorio",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Salvatore",
-    "sorting_date": "1676-12-26"
+    "sorting_date": "1676-12-26",
+    "uid": 53
   },
   {
     "title": "Elena rapita da Paride",
     "composer": "Domenico Freschi",
     "writer": "Giacomo Fr. Bussani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1677-01-11"
+    "sorting_date": "1677-01-11",
+    "uid": 54
   },
   {
     "title": "Totila",
     "composer": "Giovanni Legrenzi",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1677-02-04"
+    "sorting_date": "1677-02-04",
+    "uid": 55
   },
   {
     "title": "Il Nicomede in Bitinia",
     "composer": "Carlo Grossi",
     "writer": "Giovanni Matteo Giannini",
     "venue": "San Moise",
-    "sorting_date": "1677-02-06"
+    "sorting_date": "1677-02-06",
+    "uid": 56
   },
   {
     "title": "Antonino e Pompeiano",
     "composer": "Antonio Sartorio",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Salvatore",
-    "sorting_date": "1677-02-10"
+    "sorting_date": "1677-02-10",
+    "uid": 57
   },
   {
     "title": "Arsinoe",
     "composer": "Petronio Franceschini",
     "writer": "Tomaso Stanzani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1677-11-29"
+    "sorting_date": "1677-11-29",
+    "uid": 58
   },
   {
     "title": "Anacreonte tiranno",
     "composer": "Antonio Sartorio",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Salvatore",
-    "sorting_date": "1677-12-02"
+    "sorting_date": "1677-12-02",
+    "uid": 59
   },
   {
     "title": "Scipione africano",
     "composer": "Fr. Cavalli, rev. Gio. Bonaventura Viviani",
     "writer": "Nicolò Minato, rev. Tebaldo Fattorini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1677-12-19"
+    "sorting_date": "1677-12-19",
+    "uid": 60
   },
   {
     "title": "Medea in Atene",
     "composer": "Antonio Giannettini",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1678-01-05"
+    "sorting_date": "1678-01-05",
+    "uid": 61
   },
   {
     "title": "Il Vespasiano",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1678-01-24"
+    "sorting_date": "1678-01-24",
+    "uid": 62
   },
   {
     "title": "Ercole sul Termodonte",
     "composer": "Antonio Sartorio",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Salvatore",
-    "sorting_date": "1678-01-26"
+    "sorting_date": "1678-01-26",
+    "uid": 63
   },
   {
     "title": "Tullia superba",
     "composer": "Domenico Freschi",
     "writer": "Antonio Medolago",
     "venue": "Sant' Angelo",
-    "sorting_date": "1678-01-29"
+    "sorting_date": "1678-01-29",
+    "uid": 64
   },
   {
     "title": "L' Aurora in Atene",
     "composer": "Antonio Giannettini",
     "writer": "Girolamo Frisari",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1678-02-10"
+    "sorting_date": "1678-02-10",
+    "uid": 65
   },
   {
     "title": "Sesto Tarquinio",
     "composer": "Giovanni Battista Tomasi",
     "writer": "Camillo Badovaro",
     "venue": "San Salvatore",
-    "sorting_date": "1678-12-09"
+    "sorting_date": "1678-12-09",
+    "uid": 66
   },
   {
     "title": "Sardanapalo",
     "composer": "Domenico Freschi",
     "writer": "Carlo Maderni",
     "venue": "Sant' Angelo",
-    "sorting_date": "1678-12-10"
+    "sorting_date": "1678-12-10",
+    "uid": 67
   },
   {
     "title": "Il Nerone",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1678-12-31"
+    "sorting_date": "1678-12-31",
+    "uid": 68
   },
   {
     "title": "Alessandro Magno in Sidone",
     "composer": "Marc' Antonio Ziani",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1679-01-07"
+    "sorting_date": "1679-01-07",
+    "uid": 69
   },
   {
     "title": "I due tiranni al soglio",
     "composer": "Antonio Sartori",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1679-01-21"
+    "sorting_date": "1679-01-21",
+    "uid": 70
   },
   {
     "title": "La Circe",
     "composer": "Domenico Freschi",
     "writer": "Cristoforo Ivanovich",
     "venue": "Sant' Angelo",
-    "sorting_date": "1679-01-23"
+    "sorting_date": "1679-01-23",
+    "uid": 71
   },
   {
     "title": "Le amazzoni nelle isole fortunate",
     "composer": "Carlo Pallavicino",
     "writer": "Francesco Maria Piccioli",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1679-11-11"
+    "sorting_date": "1679-11-11",
+    "uid": 72
   },
   {
     "title": "Candaule",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Adriano Morselli",
     "venue": "San Cassiano",
-    "sorting_date": "1679-12-02"
+    "sorting_date": "1679-12-02",
+    "uid": 73
   },
   {
     "title": "L'Alcibiade",
     "composer": "Marc' Antonio Ziani",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1679-12-21"
+    "sorting_date": "1679-12-21",
+    "uid": 74
   },
   {
     "title": "Messalina",
     "composer": "Carlo Pallavicino",
     "writer": "Francesco Maria Piccioli",
     "venue": "San Salvatore",
-    "sorting_date": "1679-12-30"
+    "sorting_date": "1679-12-30",
+    "uid": 75
   },
   {
     "title": "L'Odoacre",
     "composer": "Giovanni Varischino",
     "writer": "Novello Bonis",
     "venue": "Sant' Angelo",
-    "sorting_date": "1680-01-04"
+    "sorting_date": "1680-01-04",
+    "uid": 76
   },
   {
     "title": "Il ratto delle Sabine",
     "composer": "Pier Simone Agostini",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1680-01-17"
+    "sorting_date": "1680-01-17",
+    "uid": 77
   },
   {
     "title": "Il Vespasiano",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1680-02-10"
+    "sorting_date": "1680-02-10",
+    "uid": 78
   },
   {
     "title": "Tomiri",
     "composer": "Angelo Vitali",
     "writer": "Antonio Medolago",
     "venue": "San Cassiano",
-    "sorting_date": "1680-01-30"
+    "sorting_date": "1680-01-30",
+    "uid": 79
   },
   {
     "title": "Il don Chisciot della Mancia",
     "composer": "Carlo Fedeli",
     "writer": "Marco Morosini",
     "venue": "the Teatro di Cannaregio",
-    "sorting_date": "1680-02-03"
+    "sorting_date": "1680-02-03",
+    "uid": 80
   },
   {
     "title": "Berenice vendicativa",
     "composer": "Domenico Freschi",
     "writer": "Giovanni Maria Rapparini",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1680-11-08"
+    "sorting_date": "1680-11-08",
+    "uid": 81
   },
   {
     "title": "L'amante muto loquace",
     "composer": "Domenico Freschi",
     "writer": "Niccole Leonardi",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1680-11-10"
+    "sorting_date": "1680-11-10",
+    "uid": 82
   },
   {
     "title": "L'Erginda",
     "composer": null,
     "writer": "Antonia Fontana",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1680-11-10"
+    "sorting_date": "1680-11-10",
+    "uid": 83
   },
   {
     "title": "Irene e Costantino",
     "composer": "Antonio Giannettini",
     "writer": "Andrea Rossini",
     "venue": "San Salvatore",
-    "sorting_date": "1680-12-13"
+    "sorting_date": "1680-12-13",
+    "uid": 84
   },
   {
     "title": "La Flora",
     "composer": "Antonio Sartorio, Marc' Antonio Ziani",
     "writer": "Novello Bonis",
     "venue": "Sant' Angelo",
-    "sorting_date": "1680-12-26"
+    "sorting_date": "1680-12-26",
+    "uid": 85
   },
   {
     "title": "Dionisio",
     "composer": "Petronio Franceschini (Act 1), Gian Dom. Partenio (Sinf.; Acts 2, 3)",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1681-01-13"
+    "sorting_date": "1681-01-13",
+    "uid": 86
   },
   {
     "title": "Il Creso",
     "composer": "Giovanni Legrenzi",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1681-02-08"
+    "sorting_date": "1681-02-08",
+    "uid": 87
   },
   {
     "title": "Pompeo Magno in Cilicia",
     "composer": "Domenico Freschi",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1681-02-08"
+    "sorting_date": "1681-02-08",
+    "uid": 88
   },
   {
     "title": "Ermelinda",
     "composer": "Domenico Freschi",
     "writer": "Francesco Maria Piccioli",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1681-11-11"
+    "sorting_date": "1681-11-11",
+    "uid": 89
   },
   {
     "title": "Flavio Cuniberto",
     "composer": "Gian Domenico Partenio",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1681-11-29"
+    "sorting_date": "1681-11-29",
+    "uid": 90
   },
   {
     "title": "Il Pausania",
     "composer": "Giovanni Legrenzi",
     "writer": "Girolamo Frisari",
     "venue": "San Salvatore",
-    "sorting_date": "1681-12-06"
+    "sorting_date": "1681-12-06",
+    "uid": 91
   },
   {
     "title": "Bassiano",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1681-12-08"
+    "sorting_date": "1681-12-08",
+    "uid": 92
   },
   {
     "title": "Antioco il Grande",
     "composer": "Giovanni Legrenzi",
     "writer": "Girolamo Frisari",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1682-01-09"
+    "sorting_date": "1682-01-09",
+    "uid": 93
   },
   {
     "title": "Dionisio",
     "composer": "Petronio Franceschini (Act 1), Gian Dom. Partenio (Sinf.; Acts 2, 3)",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1682-01-10"
+    "sorting_date": "1682-01-10",
+    "uid": 94
   },
   {
     "title": "Giulio Cesare trionfante",
     "composer": "Domenico Freschi",
     "writer": "Luigi Orlandi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1682-01-11"
+    "sorting_date": "1682-01-11",
+    "uid": 95
   },
   {
     "title": "La bugia regnante",
     "composer": "Gian Domenico Partenio",
     "writer": "Nicolò Minato",
     "venue": "the Teatro di Cannaregio",
-    "sorting_date": "1682-01-18"
+    "sorting_date": "1682-01-18",
+    "uid": 96
   },
   {
     "title": "Carlo, re d'Italia",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1682-01-20"
+    "sorting_date": "1682-01-20",
+    "uid": 97
   },
   {
     "title": "Lisimaco riamato da Alessandro",
     "composer": "Giovanni Legrenzi",
     "writer": "Giacomo Sinibaldi, rev. Aurelio Aureli",
     "venue": "San Salvatore",
-    "sorting_date": "1682-01-23"
+    "sorting_date": "1682-01-23",
+    "uid": 98
   },
   {
     "title": "Temistocle in bando",
     "composer": "Antonio Giannettini",
     "writer": "Adriano Morselli",
     "venue": "San Cassiano",
-    "sorting_date": "1682-12-04"
+    "sorting_date": "1682-12-04",
+    "uid": 99
   },
   {
     "title": "Ottone il Grande",
     "composer": "Paolo Biego",
     "writer": "Francesco Silvani",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1682-12-15"
+    "sorting_date": "1682-12-15",
+    "uid": 100
   },
   {
     "title": "Appio Claudio",
     "composer": "Giovanni Marco Martini",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1682-12-15"
+    "sorting_date": "1682-12-15",
+    "uid": 101
   },
   {
     "title": "I due Cesari",
     "composer": "Giovanni Legrenzi",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Salvatore",
-    "sorting_date": "1682-12-19"
+    "sorting_date": "1682-12-19",
+    "uid": 102
   },
   {
     "title": "Il re infante",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1683-01-10"
+    "sorting_date": "1683-01-10",
+    "uid": 103
   },
   {
     "title": "Cidippe",
     "composer": "Antonio Draghi",
     "writer": "Nicolò Minato",
     "venue": "the Teatro di Cannaregio",
-    "sorting_date": "1683-01-22"
+    "sorting_date": "1683-01-22",
+    "uid": 104
   },
   {
     "title": "Marzio Coriolano",
     "composer": "Giacomo Antonio Perti",
     "writer": "Francesco Silvani",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1683-01-23"
+    "sorting_date": "1683-01-23",
+    "uid": 105
   },
   {
     "title": "L'innocenza risorta, ovvero Ezio",
     "composer": "Pietr' Andrea Ziani",
     "writer": "Adriano Morselli",
     "venue": "San Cassiano",
-    "sorting_date": "1683-02-06"
+    "sorting_date": "1683-02-06",
+    "uid": 106
   },
   {
     "title": "Silla",
     "composer": "Domenico Freschi",
     "writer": "Andrea Rossini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1683-02-06"
+    "sorting_date": "1683-02-06",
+    "uid": 107
   },
   {
     "title": "Il Giustino",
     "composer": "Giovanni Legrenzi",
     "writer": "Nicolò Beregan",
     "venue": "San Salvatore",
-    "sorting_date": "1683-02-07"
+    "sorting_date": "1683-02-07",
+    "uid": 108
   },
   {
     "title": "L'Orontea",
     "composer": "Antonio Cesti",
     "writer": "Giacinto Andrea Cicognini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1683-02-17"
+    "sorting_date": "1683-02-17",
+    "uid": 109
   },
   {
     "title": "La Virti sublimata dal Grande",
     "composer": "Marc' Antonio Ziani",
     "writer": "Aurelio Aureli",
     "venue": "the Teatro di Cannaregio",
-    "sorting_date": "1683-02-15"
+    "sorting_date": "1683-02-15",
+    "uid": 110
   },
   {
     "title": "Falaride, tiranno di Agrigento",
     "composer": "Giovanni Battista Bassani",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1683-11-29"
+    "sorting_date": "1683-11-29",
+    "uid": 111
   },
   {
     "title": "L'anarchia dell'imperio",
     "composer": "Giovanni Legrenzi",
     "writer": "Tomaso Stanzani",
     "venue": "San Salvatore",
-    "sorting_date": "1683-12-04"
+    "sorting_date": "1683-12-04",
+    "uid": 112
   },
   {
     "title": "Licinio imperatore",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1683-12-17"
+    "sorting_date": "1683-12-17",
+    "uid": 113
   },
   {
     "title": "Traiano",
     "composer": "Giuseppe Felice Tosi",
     "writer": "Matteo Noris",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1683-12-26"
+    "sorting_date": "1683-12-26",
+    "uid": 114
   },
   {
     "title": "L'incoronazione di Dario",
     "composer": "Domenico Freschi",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1684-01-04"
+    "sorting_date": "1684-01-04",
+    "uid": 115
   },
   {
     "title": "Ricimero, re de' vandali",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1684-01-22"
+    "sorting_date": "1684-01-22",
+    "uid": 116
   },
   {
     "title": "Publio Elio Pertinace",
     "composer": "Giovanni Legrenzi",
     "writer": "Pietro d' Averara",
     "venue": "San Salvatore",
-    "sorting_date": "1684-01-22"
+    "sorting_date": "1684-01-22",
+    "uid": 117
   },
   {
     "title": "L'amante fortunato per forza",
     "composer": "Giovanni Varischino",
     "writer": "Pietro d'Averara",
     "venue": "Sant' Angelo",
-    "sorting_date": "1684-11-29"
+    "sorting_date": "1684-11-29",
+    "uid": 118
   },
   {
     "title": "Ariberto e Flavio, regi de' Longobardi",
     "composer": "Carlo Ambrogio Lonati'",
     "writer": "Rinaldo Cialli",
     "venue": "San Salvatore",
-    "sorting_date": "1684-12-26"
+    "sorting_date": "1684-12-26",
+    "uid": 119
   },
   {
     "title": "Massimo Puppieno",
     "composer": "Carlo Pallavicino",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1685-01-04"
+    "sorting_date": "1685-01-04",
+    "uid": 120
   },
   {
     "title": "Dario",
     "composer": "Domenico Freschi",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1685-01-07"
+    "sorting_date": "1685-01-07",
+    "uid": 121
   },
   {
     "title": "Rodoaldo, re d'Italia",
     "composer": "Domenico Gabrielli",
     "writer": "Tomaso Stanzani",
     "venue": "San Moise",
-    "sorting_date": "1685-01-10"
+    "sorting_date": "1685-01-10",
+    "uid": 122
   },
   {
     "title": "Penelope la casta",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1685-01-28"
+    "sorting_date": "1685-01-28",
+    "uid": 123
   },
   {
     "title": "Teseo tra le rivali",
     "composer": "Domenico Freschi",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1685-02-04"
+    "sorting_date": "1685-02-04",
+    "uid": 124
   },
   {
     "title": "Tullo Ostilio",
     "composer": "Marc' Antonio Ziani",
     "writer": "Adriano Morselli",
     "venue": "San Salvatore",
-    "sorting_date": "1685-02-10"
+    "sorting_date": "1685-02-10",
+    "uid": 125
   },
   {
     "title": "Gli amori d'Alidaura",
     "composer": "Domenico Freschi",
     "writer": "Francesco Maria Piccioli",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1685-08-05"
+    "sorting_date": "1685-08-05",
+    "uid": 126
   },
   {
     "title": "Ermelinda",
     "composer": "Domenico Freschi",
     "writer": "Francesco Maria Piccioli",
     "venue": "the Villa Contarini (Piazzola)",
-    "sorting_date": "1685-08-07"
+    "sorting_date": "1685-08-07",
+    "uid": 127
   },
   {
     "title": "La Didone delirante",
     "composer": "Carlo Pallavicino",
     "writer": "Antonio Franceschi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1685-12-26"
+    "sorting_date": "1685-12-26",
+    "uid": 128
   },
   {
     "title": "Il Demone amante, overo Giugurta",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1685-12-29"
+    "sorting_date": "1685-12-29",
+    "uid": 129
   },
   {
     "title": "Teodora augusta",
     "composer": "Domenico Gabrielli",
     "writer": "Adriano Morselli",
     "venue": "San Salvatore",
-    "sorting_date": "1685-12-26"
+    "sorting_date": "1685-12-26",
+    "uid": 130
   },
   {
     "title": "Amore innamorato",
     "composer": "Carlo Pallavicino",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1686-01-19"
+    "sorting_date": "1686-01-19",
+    "uid": 131
   },
   {
     "title": "L'amazzone corsara",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1686-02-04"
+    "sorting_date": "1686-02-04",
+    "uid": 132
   },
   {
     "title": "Il Licurgo, ovvero II cieco d'acuta vista",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1686-02-05"
+    "sorting_date": "1686-02-05",
+    "uid": 133
   },
   {
     "title": "Le generose gare tra Cesare e Pompeo",
     "composer": "Domenico Gabrielli",
     "writer": "Rinaldo Cialli",
     "venue": "San Salvatore",
-    "sorting_date": "1686-02-09"
+    "sorting_date": "1686-02-09",
+    "uid": 134
   },
   {
     "title": "Il Seiano moderno della Tracia",
     "composer": "Francesco Rossi",
     "writer": "Antonio Girapoli",
     "venue": "San Moise",
-    "sorting_date": "1686-02-09"
+    "sorting_date": "1686-02-09",
+    "uid": 135
   },
   {
     "title": "Clearco in Negroponte",
     "composer": "Domenico Gabrielli",
     "writer": "Antonio Arcoleo",
     "venue": "San Moise",
-    "sorting_date": "1686-02-16"
+    "sorting_date": "1686-02-16",
+    "uid": 136
   },
   {
     "title": "Zenocrate, ambasciatore a' macedoni",
     "composer": "Pietro Porfiri",
     "writer": "Marc' Antonio Gasparini",
     "venue": "San Moise",
-    "sorting_date": "1686-11-29"
+    "sorting_date": "1686-11-29",
+    "uid": 137
   },
   {
     "title": "Elmiro, re di Corinto",
     "composer": "Carlo Pallavicino",
     "writer": "Vincenzo Grimani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1686-12-26"
+    "sorting_date": "1686-12-26",
+    "uid": 138
   },
   {
     "title": "Il Maurizio",
     "composer": "Domenico Gabrielli",
     "writer": "Adriano Morselli",
     "venue": "San Salvatore",
-    "sorting_date": "1686-12-26"
+    "sorting_date": "1686-12-26",
+    "uid": 139
   },
   {
     "title": "Il Vizio depresso e la Virti' coronata",
     "composer": "Teofilo Orgiani",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1686-12-27"
+    "sorting_date": "1686-12-27",
+    "uid": 140
   },
   {
     "title": "La Gierusalemme liberata",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1686-12-28"
+    "sorting_date": "1686-12-28",
+    "uid": 141
   },
   {
     "title": "Il Dioclete",
     "composer": "Teofilo Orgiani",
     "writer": "Andrea Rossini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1687-01-21"
+    "sorting_date": "1687-01-21",
+    "uid": 142
   },
   {
     "title": "Elena rapita da Paride",
     "composer": "Domenico Freschi",
     "writer": "Giacomo Fr. Bussani",
     "venue": "San Moise",
-    "sorting_date": "1687-01-21"
+    "sorting_date": "1687-01-21",
+    "uid": 143
   },
   {
     "title": "Flavio Cuniberto",
     "composer": "Gian Domenico Partenio",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1687-01-25"
+    "sorting_date": "1687-01-25",
+    "uid": 144
   },
   {
     "title": "L'inganno regnante",
     "composer": "Marc' Antonio Ziani",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1687-12-26"
+    "sorting_date": "1687-12-26",
+    "uid": 145
   },
   {
     "title": "La fortuna tra le disgrazie",
     "composer": "Paolo Biego",
     "writer": "Rinaldo Cialli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1688-01-19"
+    "sorting_date": "1688-01-19",
+    "uid": 146
   },
   {
     "title": "Il Gordiano",
     "composer": "Domenico Gabrielli",
     "writer": "Adriano Morselli",
     "venue": "San Salvatore",
-    "sorting_date": "1688-01-21"
+    "sorting_date": "1688-01-21",
+    "uid": 147
   },
   {
     "title": "La Corilda",
     "composer": "Francesco Rossi",
     "writer": "Paolo Emilio Badi*",
     "venue": "San Moise",
-    "sorting_date": "1688-01-22"
+    "sorting_date": "1688-01-22",
+    "uid": 148
   },
   {
     "title": "L'amazzone corsara, ovvero L' Alvilda, regina de' Goti",
     "composer": "Carlo Pallavicino",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1688-01-24"
+    "sorting_date": "1688-01-24",
+    "uid": 149
   },
   {
     "title": "Orazio",
     "composer": "Giuseppe Felice Tosi",
     "writer": "Vincenzo Grimani, N.V",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1688-01-24"
+    "sorting_date": "1688-01-24",
+    "uid": 150
   },
   {
     "title": "La Floridea, regina di Cipro",
     "composer": "multiple composers",
     "writer": "Giulio Pancieri",
     "venue": "SS. Apostoli",
-    "sorting_date": "1688-01-24"
+    "sorting_date": "1688-01-24",
+    "uid": 151
   },
   {
     "title": "Carlo il Grande",
     "composer": "Domenico Gabrielli",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1688-02-14"
+    "sorting_date": "1688-02-14",
+    "uid": 152
   },
   {
     "title": "La pena degli occhi",
     "composer": "Francesco Rossi",
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1688-02-26"
+    "sorting_date": "1688-02-26",
+    "uid": 153
   },
   {
     "title": "La fortuna tra le disgrazie",
     "composer": "Paolo Biego",
     "writer": "Rinaldo Cialli",
     "venue": "San Salvatore",
-    "sorting_date": "1688-12-26"
+    "sorting_date": "1688-12-26",
+    "uid": 154
   },
   {
     "title": "Il gran Tamerlano",
     "composer": "Marc' Antonio Ziani",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1688-12-30"
+    "sorting_date": "1688-12-30",
+    "uid": 155
   },
   {
     "title": "Amulio e Numitore",
     "composer": "Giuseppe Felice Tosi",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1689-01-11"
+    "sorting_date": "1689-01-11",
+    "uid": 156
   },
   {
     "title": "La Rosaura",
     "composer": "Giacomo Antonio Perti",
     "writer": "Antonio Arcoleo",
     "venue": "Sant' Angelo",
-    "sorting_date": "1689-01-13"
+    "sorting_date": "1689-01-13",
+    "uid": 157
   },
   {
     "title": "II trionfo d'Amor e di Marte",
     "composer": "Antonio Lombardini",
     "writer": "Paolo Emilio Badi",
     "venue": "San Moise",
-    "sorting_date": "1689-01-15"
+    "sorting_date": "1689-01-15",
+    "uid": 158
   },
   {
     "title": "Il Pertinace",
     "composer": "Paolo Biego",
     "writer": null,
     "venue": "San Salvatore",
-    "sorting_date": "1689-01-29"
+    "sorting_date": "1689-01-29",
+    "uid": 159
   },
   {
     "title": "Le gare dell'Inganno e dell' Amore",
     "composer": "Teofilo Orgiani",
     "writer": "Paolo Emilio Badi",
     "venue": "San Moise",
-    "sorting_date": "1689-02-05"
+    "sorting_date": "1689-02-05",
+    "uid": 160
   },
   {
     "title": "Brenno in Effeso",
     "composer": "Giacomo Antonio Perti",
     "writer": "Antonio Arcoleo",
     "venue": "San Salvatore",
-    "sorting_date": "1690-01-04"
+    "sorting_date": "1690-01-04",
+    "uid": 161
   },
   {
     "title": "Pirro e Demetrio",
     "composer": "Giuseppe Felice Tosi",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1690-01-11"
+    "sorting_date": "1690-01-11",
+    "uid": 162
   },
   {
     "title": "L'amor di Curzio per la patria",
     "composer": "Paris Alghisi",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1690-01-15"
+    "sorting_date": "1690-01-15",
+    "uid": 163
   },
   {
     "title": "La Falsirena",
     "composer": "Marc' Antonio Ziani",
     "writer": "Rinaldo Cialli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1690-01-15"
+    "sorting_date": "1690-01-15",
+    "uid": 164
   },
   {
     "title": "Il gran Macedone",
     "composer": "Giuseppe Boniventi",
     "writer": "Giulio Pancieri",
     "venue": "San Cassiano",
-    "sorting_date": "1690-12-14"
+    "sorting_date": "1690-12-14",
+    "uid": 165
   },
   {
     "title": "L'incoronazione di Serse",
     "composer": "Giuseppe Felice Tosi",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1690-12-26"
+    "sorting_date": "1690-12-26",
+    "uid": 166
   },
   {
     "title": "Il trionfo della continenza",
     "composer": "Paris Alghisi",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1690-12-26"
+    "sorting_date": "1690-12-26",
+    "uid": 167
   },
   {
     "title": "Creonte",
     "composer": "Marc' Antonio Ziani",
     "writer": "Rinaldo Cialli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1691-12-27"
+    "sorting_date": "1691-12-27",
+    "uid": 168
   },
   {
     "title": "L'inganno scoperto per vendetta",
     "composer": "Giacomo Antonio Perti",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1690-12-28"
+    "sorting_date": "1690-12-28",
+    "uid": 169
   },
   {
     "title": "L'Almerinda",
     "composer": "Giuseppe Boniventi",
     "writer": "Giulio Pancieri",
     "venue": "San Cassiano",
-    "sorting_date": "1691-01-20"
+    "sorting_date": "1691-01-20",
+    "uid": 170
   },
   {
     "title": "Marte delusa",
     "composer": "Marc' Antonio Ziani",
     "writer": "Rinaldo Cialli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1691-01-21"
+    "sorting_date": "1691-01-21",
+    "uid": 171
   },
   {
     "title": "L'amante eroe",
     "composer": "Marc' Antonio Ziani",
     "writer": "Domenico David",
     "venue": "San Salvatore",
-    "sorting_date": "1691-01-20"
+    "sorting_date": "1691-01-20",
+    "uid": 172
   },
   {
     "title": "La pace fra Tolomeo e Seleuco",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1691-01-23"
+    "sorting_date": "1691-01-23",
+    "uid": 173
   },
   {
     "title": "L'Alboino in Italia",
     "composer": "Gius. Felice Tosi and C. F. Pollarolo",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1691-01-27"
+    "sorting_date": "1691-01-27",
+    "uid": 174
   },
   {
     "title": "L'Almira",
     "composer": "Giuseppe Boniventi",
     "writer": "Giulio Pancieri",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1691-11-22"
+    "sorting_date": "1691-11-22",
+    "uid": 175
   },
   {
     "title": "La Virtù trionfante",
     "composer": "Marc' Antonio Ziani",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1691-12-26"
+    "sorting_date": "1691-12-26",
+    "uid": 176
   },
   {
     "title": "L'Ibraim Sultano",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Adriano Morselli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1691-12-27"
+    "sorting_date": "1691-12-27",
+    "uid": 177
   },
   {
     "title": "La Gelidaura",
     "composer": "Francesco Quesnda",
     "writer": "Giulio Pancieri",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1692-01-12"
+    "sorting_date": "1692-01-12",
+    "uid": 178
   },
   {
     "title": "Furio Camillo",
     "composer": "Giacomo Antonio Perti",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1692-02-02"
+    "sorting_date": "1692-02-02",
+    "uid": 179
   },
   {
     "title": "Onorio in Roma",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giovanni Matteo Giannini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1692-02-03"
+    "sorting_date": "1692-02-03",
+    "uid": 180
   },
   {
     "title": "L'oppresso sollevato",
     "composer": "Giovanni Sebenico",
     "writer": null,
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1692-02-04"
+    "sorting_date": "1692-02-04",
+    "uid": 181
   },
   {
     "title": "La Rosalinda",
     "composer": "Marc' Antonio Ziani",
     "writer": "Antonio Marchi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1692-11-15"
+    "sorting_date": "1692-11-15",
+    "uid": 182
   },
   {
     "title": "Iole, regina di Napoli",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1692-11-18"
+    "sorting_date": "1692-11-18",
+    "uid": 183
   },
   {
     "title": "La Fede creduta tradimento",
     "composer": "Giovanni Frezza",
     "writer": "Michel Angelo Gasparini",
     "venue": "San Moise",
-    "sorting_date": "1692-11-27"
+    "sorting_date": "1692-11-27",
+    "uid": 184
   },
   {
     "title": "Il trionfo dell'innocenza",
     "composer": "Antonio Lotti",
     "writer": "Rinaldo Cialli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1692-12-26"
+    "sorting_date": "1692-12-26",
+    "uid": 185
   },
   {
     "title": "Nerone fatto Cesare",
     "composer": "Giacomo Antonio Perti",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1692-12-27"
+    "sorting_date": "1692-12-27",
+    "uid": 186
   },
   {
     "title": "La forza della Virti",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Domenico David",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1692-12-29"
+    "sorting_date": "1692-12-29",
+    "uid": 187
   },
   {
     "title": "Gli avvenimenti d'Erminia",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giulio Cesare Corradi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1693-01-07"
+    "sorting_date": "1693-01-07",
+    "uid": 188
   },
   {
     "title": "Amage, regina de' sarmati",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giulio Cesare Corradi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1693-11-10"
+    "sorting_date": "1693-11-10",
+    "uid": 189
   },
   {
     "title": "La moglie nemica",
     "composer": "Marc' Antonio Ziani",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1694-01-11"
+    "sorting_date": "1694-01-11",
+    "uid": 190
   },
   {
     "title": "Ottone",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1694-01-14"
+    "sorting_date": "1694-01-14",
+    "uid": 191
   },
   {
     "title": "Alfonso primo",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1694-01-24"
+    "sorting_date": "1694-01-24",
+    "uid": 192
   },
   {
     "title": "L'Amore, figlio del Merito",
     "composer": "Marc' Antonio Ziani",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1694-02-06"
+    "sorting_date": "1694-02-06",
+    "uid": 193
   },
   {
     "title": "Zenobia, regina de' palmireni",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Marchi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1694-11-13"
+    "sorting_date": "1694-11-13",
+    "uid": 194
   },
   {
     "title": "La schiaviti fortunata",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Fulgenzio Gualazzi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1694-11-15"
+    "sorting_date": "1694-11-15",
+    "uid": 195
   },
   {
     "title": "Irene",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1694-12-26"
+    "sorting_date": "1694-12-26",
+    "uid": 196
   },
   {
     "title": "Laodicea e Berenice",
     "composer": "Giacomo Antonio Perti",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1694-12-26"
+    "sorting_date": "1694-12-26",
+    "uid": 197
   },
   {
     "title": "Il prencipe selvaggio",
     "composer": "Michel Angelo Gasparini",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1695-01-12"
+    "sorting_date": "1695-01-12",
+    "uid": 198
   },
   {
     "title": "Il pastore d'Anfriso",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1695-01-22"
+    "sorting_date": "1695-01-22",
+    "uid": 199
   },
   {
     "title": "Il prodigio dell'innocenza",
     "composer": "Tomaso Albinoni",
     "writer": "Fulgenzio Gualazzi",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1695-01-24"
+    "sorting_date": "1695-01-24",
+    "uid": 200
   },
   {
     "title": "La costanza vince il destino",
     "composer": "Pietro Romolo Pignatta",
     "writer": "Pietro Romolo Pignatta",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1695-10-15"
+    "sorting_date": "1695-10-15",
+    "uid": 201
   },
   {
     "title": "Gl'inganni felici",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Apostolo Zeno'",
     "venue": "Sant' Angelo",
-    "sorting_date": "1695-11-26"
+    "sorting_date": "1695-11-26",
+    "uid": 202
   },
   {
     "title": "Basilio, re d'Oriente",
     "composer": "Francesco Navarra",
     "writer": "Giovanni Battista Neri",
     "venue": "San Cassiano",
-    "sorting_date": "1696-01-04"
+    "sorting_date": "1696-01-04",
+    "uid": 203
   },
   {
     "title": "La finta pazzia d' Ulisse",
     "composer": "Marc' Antonio Ziani",
     "writer": "Matteo Noris",
     "venue": "San Salvatore",
-    "sorting_date": "1696-01-07"
+    "sorting_date": "1696-01-07",
+    "uid": 204
   },
   {
     "title": "Rosimonda",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1696-01-09"
+    "sorting_date": "1696-01-09",
+    "uid": 205
   },
   {
     "title": "Sigismondo primo al diadema",
     "composer": "Pietro Romolo Pignatta",
     "writer": "Giovanni Grimani",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1696-01-11"
+    "sorting_date": "1696-01-11",
+    "uid": 206
   },
   {
     "title": "Il Domizio",
     "composer": "Marc' Antonio Ziani",
     "writer": "Giulio Cesare Corradi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1696-02-06"
+    "sorting_date": "1696-02-06",
+    "uid": 207
   },
   {
     "title": "Eraclea",
     "composer": "Bernardo Sabadini",
     "writer": "Giulio Cesare Godi",
     "venue": "San Salvatore",
-    "sorting_date": "1696-02-08"
+    "sorting_date": "1696-02-08",
+    "uid": 208
   },
   {
     "title": "Ercole in Cielo",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1696-02-11"
+    "sorting_date": "1696-02-11",
+    "uid": 209
   },
   {
     "title": "La Clotilde",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Giovanni Battista Neri",
     "venue": "San Cassiano",
-    "sorting_date": "1696-02-18"
+    "sorting_date": "1696-02-18",
+    "uid": 210
   },
   {
     "title": "L'Asmiro, re di Corinto",
     "composer": "Pietro Romolo Pignatta",
     "writer": "Pietro Romolo Pignatta",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1696-02-18"
+    "sorting_date": "1696-02-18",
+    "uid": 211
   },
   {
     "title": "Il Tirsi",
     "composer": "Lotti (Act 1), Caldara (2), Ariosti (3), Uncertain (4, 5)",
     "writer": "Apostolo Zeno",
     "venue": "San Salvatore",
-    "sorting_date": "1696-11-03"
+    "sorting_date": "1696-11-03",
+    "uid": 212
   },
   {
     "title": "La costanza in trionfo",
     "composer": "Marc' Antonio Ziani",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1696-11-05"
+    "sorting_date": "1696-11-05",
+    "uid": 213
   },
   {
     "title": "Zenone, imperatore d'Oriente",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Marchi",
     "venue": "San Cassiano",
-    "sorting_date": "1696-11-14"
+    "sorting_date": "1696-11-14",
+    "uid": 214
   },
   {
     "title": "La Mariamme",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Lorenzo Burlini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1696-11-25"
+    "sorting_date": "1696-11-25",
+    "uid": 215
   },
   {
     "title": "Amor' e dover",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Domenico David",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1696-12-26"
+    "sorting_date": "1696-12-26",
+    "uid": 216
   },
   {
     "title": "L'Erifile",
     "composer": "Attilio Ariosti",
     "writer": "Giovanni Battista Neri",
     "venue": "San Salvatore",
-    "sorting_date": "1696-12-27"
+    "sorting_date": "1696-12-27",
+    "uid": 217
   },
   {
     "title": "I regi equivoci",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1697-01-12"
+    "sorting_date": "1697-01-12",
+    "uid": 218
   },
   {
     "title": "Il Tigrane, re d'Armenia",
     "composer": "Tomaso Albinoni",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Cassiano",
-    "sorting_date": "1697-01-19"
+    "sorting_date": "1697-01-19",
+    "uid": 219
   },
   {
     "title": "I rivali generosi",
     "composer": "Marc' Antonio Ziani",
     "writer": "Apostolo Zeno",
     "venue": "San Salvatore",
-    "sorting_date": "1697-01-21"
+    "sorting_date": "1697-01-21",
+    "uid": 220
   },
   {
     "title": "Tito Manlio",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1697-01-31"
+    "sorting_date": "1697-01-31",
+    "uid": 221
   },
   {
     "title": "La promessa serbata al primo",
     "composer": "Antonio Caldara",
     "writer": null,
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1697-02-07"
+    "sorting_date": "1697-02-07",
+    "uid": 222
   },
   {
     "title": "Primislao, primo re di Boemia",
     "composer": "Tomaso Albinoni",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Cassiano",
-    "sorting_date": "1697-11-09"
+    "sorting_date": "1697-11-09",
+    "uid": 223
   },
   {
     "title": "Eumene",
     "composer": "Marc' Antonio Ziani",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1697-11-12"
+    "sorting_date": "1697-11-12",
+    "uid": 224
   },
   {
     "title": "Circe abbandonata da Ulisse",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Aurelio Aureli",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1697-11-13"
+    "sorting_date": "1697-11-13",
+    "uid": 225
   },
   {
     "title": "Tito Manlio",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1697-12-26"
+    "sorting_date": "1697-12-26",
+    "uid": 226
   },
   {
     "title": "Odoardo",
     "composer": "Marc' Antonio Ziani",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1698-01-04"
+    "sorting_date": "1698-01-04",
+    "uid": 227
   },
   {
     "title": "L'ingratitudine gastigata",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1698-01-17"
+    "sorting_date": "1698-01-17",
+    "uid": 228
   },
   {
     "title": "La forza d'amore",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Lorenzo Burlini",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1698-01-17"
+    "sorting_date": "1698-01-17",
+    "uid": 229
   },
   {
     "title": "Marzio Coriolano",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1698-01-18"
+    "sorting_date": "1698-01-18",
+    "uid": 230
   },
   {
     "title": "Camilla, regina de' volsci",
     "composer": "Giovanni Bononcini",
     "writer": "Silvio Stampiglia",
     "venue": "San Salvatore",
-    "sorting_date": "1698-10-06"
+    "sorting_date": "1698-10-06",
+    "uid": 231
   },
   {
     "title": "L'Egisto, re di Cipro",
     "composer": "Marc' Antonio Ziani",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Cassiano",
-    "sorting_date": "1698-11-08"
+    "sorting_date": "1698-11-08",
+    "uid": 232
   },
   {
     "title": "Radamisto",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Marchi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1698-11-17"
+    "sorting_date": "1698-11-17",
+    "uid": 233
   },
   {
     "title": "La saggia pazzia di Giunio Bruto",
     "composer": "Gio. Maria Ruggieri",
     "writer": "Lotto Lotti",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1698-11-26"
+    "sorting_date": "1698-11-26",
+    "uid": 234
   },
   {
     "title": "L'innocenza giustificata",
     "composer": "Benedetto Vinaccesi",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1698-12-26"
+    "sorting_date": "1698-12-26",
+    "uid": 235
   },
   {
     "title": "Faramondo",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1698-12-27"
+    "sorting_date": "1698-12-27",
+    "uid": 236
   },
   {
     "title": "Gl'amori tra gl'odi",
     "composer": "Marc' Antonio Ziani",
     "writer": "Marc' Antonio Remena",
     "venue": "San Cassiano",
-    "sorting_date": "1699-01-10"
+    "sorting_date": "1699-01-10",
+    "uid": 237
   },
   {
     "title": "ll ripudio d'Ottavia",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1699-02-13"
+    "sorting_date": "1699-02-13",
+    "uid": 238
   },
   {
     "title": "La fortezza al cimento",
     "composer": "Giuseppe Aldrovandini",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1699-02-14"
+    "sorting_date": "1699-02-14",
+    "uid": 239
   },
   {
     "title": "Teodosio",
     "composer": "Marc' Antonio Ziani",
     "writer": "Vincenzo Grimani",
     "venue": "San Cassiano",
-    "sorting_date": "1699-02-14"
+    "sorting_date": "1699-02-14",
+    "uid": 240
   },
   {
     "title": "Milziade",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Lotto Lotti",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1699-02-25"
+    "sorting_date": "1699-02-25",
+    "uid": 241
   },
   {
     "title": "L'amar per virtù",
     "composer": "Antonio Draghi",
     "writer": "Donato Cupeda",
     "venue": "San Salvatore",
-    "sorting_date": "1699-11-07"
+    "sorting_date": "1699-11-07",
+    "uid": 242
   },
   {
     "title": "Rossane, imperatrice degli Assiri",
     "composer": "multiple composers",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1699-11-22"
+    "sorting_date": "1699-11-22",
+    "uid": 243
   },
   {
     "title": "Il Paolo Emilio",
     "composer": "Pietro Romolo Pignatta",
     "writer": "Francesco Rossi",
     "venue": "the Teatro di Cannaregio",
-    "sorting_date": "1699-12-01"
+    "sorting_date": "1699-12-01",
+    "uid": 244
   },
   {
     "title": "Lucio Vero",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1699-12-26"
+    "sorting_date": "1699-12-26",
+    "uid": 245
   },
   {
     "title": "Il duello d'amore e di vendetta",
     "composer": "Marc' Antonio Ziani",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1699-12-27"
+    "sorting_date": "1699-12-27",
+    "uid": 246
   },
   {
     "title": "L'oracolo in sogno",
     "composer": "Antonio Caldara (1), Antonio Quintavalle (2), Carlo Francesco Pollarolo (3)",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1700-01-13"
+    "sorting_date": "1700-01-13",
+    "uid": 247
   },
   {
     "title": "Il colore fa la regina",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1700-01-30"
+    "sorting_date": "1700-01-30",
+    "uid": 248
   },
   {
     "title": "La pace generosa",
     "composer": "Marc' Antonio Ziani",
     "writer": "Francesco Silvani",
     "venue": "San Salvatore",
-    "sorting_date": "1700-02-10"
+    "sorting_date": "1700-02-10",
+    "uid": 249
   },
   {
     "title": "La Nicopoli",
     "composer": "Bernardo Borgognini",
     "writer": "Francesco Rossi",
     "venue": "San Fantin",
-    "sorting_date": "1700-10-23"
+    "sorting_date": "1700-10-23",
+    "uid": 250
   },
   {
     "title": "L'Aristeo",
     "composer": "Antonio Pollarolo",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Cassiano",
-    "sorting_date": "1700-11-12"
+    "sorting_date": "1700-11-12",
+    "uid": 251
   },
   {
     "title": "Rossane, imperatrice degli Assiri",
     "composer": "multiple composers",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1700-11-12"
+    "sorting_date": "1700-11-12",
+    "uid": 252
   },
   {
     "title": "II delirio comune",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1700-12-11"
+    "sorting_date": "1700-12-11",
+    "uid": 253
   },
   {
     "title": "Diomede punito da Alcide",
     "composer": "Tomaso Albinoni",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1700-12-12"
+    "sorting_date": "1700-12-12",
+    "uid": 254
   },
   {
     "title": "Griselda",
     "composer": "Antonio Pollarolo",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1701-01-04"
+    "sorting_date": "1701-01-04",
+    "uid": 255
   },
   {
     "title": "Il Pericle in Samo",
     "composer": "multiple composers",
     "writer": "Francesco Rossi",
     "venue": "San Fantin",
-    "sorting_date": "1701-01-08"
+    "sorting_date": "1701-01-08",
+    "uid": 256
   },
   {
     "title": "Catone uticense",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1701-01-13"
+    "sorting_date": "1701-01-13",
+    "uid": 257
   },
   {
     "title": "L'inganno innocente",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1701-01-17"
+    "sorting_date": "1701-01-17",
+    "uid": 258
   },
   {
     "title": "L'Orfeo",
     "composer": "Nicola Giglio",
     "writer": "Andrea Minelli",
     "venue": "San Fantin",
-    "sorting_date": "1701-11-29"
+    "sorting_date": "1701-11-29",
+    "uid": 259
   },
   {
     "title": "L'arte in gara con l'arte",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1702-02-04"
+    "sorting_date": "1702-02-04",
+    "uid": 260
   },
   {
     "title": "La vittoria nella costanza",
     "composer": "Giuseppe Boniventi",
     "writer": "Francesco Passarini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1702-02-05"
+    "sorting_date": "1702-02-05",
+    "uid": 261
   },
   {
     "title": "Tiberio, imperatore d'Oriente",
     "composer": "Francesco Gasparini",
     "writer": "Gio. Domenico Pallavicini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1702-02-19"
+    "sorting_date": "1702-02-19",
+    "uid": 262
   },
   {
     "title": "L'ingratitudine gastigata",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1702-02-22"
+    "sorting_date": "1702-02-22",
+    "uid": 263
   },
   {
     "title": "La pastorella al soglio",
     "composer": "multiple composers",
     "writer": "Giulio Cesare Corradi",
     "venue": "San Cassiano",
-    "sorting_date": "1702-10-25"
+    "sorting_date": "1702-10-25",
+    "uid": 264
   },
   {
     "title": "Demetrio e Tolomeo",
     "composer": "Antonio Pollarolo",
     "writer": "Antonio Marchi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1702-11-16"
+    "sorting_date": "1702-11-16",
+    "uid": 265
   },
   {
     "title": "Amar per vendetta",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Giovanni Battista Neri",
     "venue": "San Moise",
-    "sorting_date": "1702-11-28"
+    "sorting_date": "1702-11-28",
+    "uid": 266
   },
   {
     "title": "Gli imenei stabiliti dal caso",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1702-12-26"
+    "sorting_date": "1702-12-26",
+    "uid": 267
   },
   {
     "title": "L'odio e l'amor",
     "composer": "Carlo Francesco Pollarolo and others",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1702-12-27"
+    "sorting_date": "1702-12-27",
+    "uid": 268
   },
   {
     "title": "Gli amanti generosi",
     "composer": "Benedetto Vinaccesi",
     "writer": "Giovanni Pietro Candi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1703-01-05"
+    "sorting_date": "1703-01-05",
+    "uid": 269
   },
   {
     "title": "L'onor al cimento",
     "composer": "Teofilo Orgiani",
     "writer": "Girolamo Colatelli",
     "venue": "San Fantin",
-    "sorting_date": "1703-01-15"
+    "sorting_date": "1703-01-15",
+    "uid": 270
   },
   {
     "title": "Venceslao",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1703-02-07"
+    "sorting_date": "1703-02-07",
+    "uid": 271
   },
   {
     "title": "L'Almansore in Alimena",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giovanni Matteo Giannini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1703-02-10"
+    "sorting_date": "1703-02-10",
+    "uid": 272
   },
   {
     "title": "La forza vinta dall'onore",
     "composer": "Nicolò Le Mixte",
     "writer": "Andrea Minelli",
     "venue": "San Moise",
-    "sorting_date": "1703-10-20"
+    "sorting_date": "1703-10-20",
+    "uid": 273
   },
   {
     "title": "Le finezze d'amore",
     "composer": "Nicola Giglio",
     "writer": "Andrea Minelli",
     "venue": "San Fantin",
-    "sorting_date": "1703-11-05"
+    "sorting_date": "1703-11-05",
+    "uid": 274
   },
   {
     "title": "Il miglior d'ogni amore",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1703-11-07"
+    "sorting_date": "1703-11-07",
+    "uid": 275
   },
   {
     "title": "Farnace",
     "composer": "Antonio Caldara",
     "writer": "Lorenzo Morari",
     "venue": "Sant' Angelo",
-    "sorting_date": "1703-11-19"
+    "sorting_date": "1703-11-19",
+    "uid": 276
   },
   {
     "title": "Il giorno di notte",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Matteo Noris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1703-12-26"
+    "sorting_date": "1703-12-26",
+    "uid": 277
   },
   {
     "title": "La fede tradita e vendicata",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1704-01-05"
+    "sorting_date": "1704-01-05",
+    "uid": 278
   },
   {
     "title": "Pirro",
     "composer": "Giuseppe Aldrovandini",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1704-01-07"
+    "sorting_date": "1704-01-07",
+    "uid": 279
   },
   {
     "title": "Il trofeo dell'innocenza",
     "composer": "Nicolò Le Mixte",
     "writer": "Andrea Minelli",
     "venue": "San Moise",
-    "sorting_date": "1704-01-07"
+    "sorting_date": "1704-01-07",
+    "uid": 280
   },
   {
     "title": "Il pastore d'Anfriso",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1704-01-12"
+    "sorting_date": "1704-01-12",
+    "uid": 281
   },
   {
     "title": "La vendetta disarmata dall'amore",
     "composer": "Girolamo Polani",
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1704-11-02"
+    "sorting_date": "1704-11-02",
+    "uid": 282
   },
   {
     "title": "La maschera levata al vitio",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1704-11-04"
+    "sorting_date": "1704-11-04",
+    "uid": 283
   },
   {
     "title": "Virginio console",
     "composer": "Antonio Giannettini",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1704-11-10"
+    "sorting_date": "1704-11-10",
+    "uid": 284
   },
   {
     "title": "La fortuna per dote",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1704-11-29"
+    "sorting_date": "1704-11-29",
+    "uid": 285
   },
   {
     "title": "La Fredegonda",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1705-01-10"
+    "sorting_date": "1705-01-10",
+    "uid": 286
   },
   {
     "title": "L'enigma disciolto",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giovanni Battista Neri",
     "venue": "San Fantin",
-    "sorting_date": "1705-01-12"
+    "sorting_date": "1705-01-12",
+    "uid": 287
   },
   {
     "title": "Artaserse",
     "composer": "Antonio Giannettini",
     "writer": "Apostolo Zeno by Pietro Pariati",
     "venue": "Sant' Angelo",
-    "sorting_date": "1705-01-16"
+    "sorting_date": "1705-01-16",
+    "uid": 288
   },
   {
     "title": "Il Dafni",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1705-01-30"
+    "sorting_date": "1705-01-30",
+    "uid": 289
   },
   {
     "title": "Il principato custodito dalla frode",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1705-02-02"
+    "sorting_date": "1705-02-02",
+    "uid": 290
   },
   {
     "title": "Antioco",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno by Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1705-11-10"
+    "sorting_date": "1705-11-10",
+    "uid": 291
   },
   {
     "title": "La fede ne' tradimenti",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Gigli",
     "venue": "San Fantin",
-    "sorting_date": "1705-11-11"
+    "sorting_date": "1705-11-11",
+    "uid": 292
   },
   {
     "title": "Flavio Bertarido",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Stefano Ghisi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1705-12-01"
+    "sorting_date": "1705-12-01",
+    "uid": 293
   },
   {
     "title": "Creso tolto a le fiamme",
     "composer": "Girolamo Polani",
     "writer": "Aurelio Aureli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1705-12-12"
+    "sorting_date": "1705-12-12",
+    "uid": 294
   },
   {
     "title": "Ambleto",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno by Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1705-12-26"
+    "sorting_date": "1705-12-26",
+    "uid": 295
   },
   {
     "title": "La regina creduta re",
     "composer": "Giovanni Bononcini",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1706-01-09"
+    "sorting_date": "1706-01-09",
+    "uid": 296
   },
   {
     "title": "Filippo, re della Grecia",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Pietro Giorgio Barziza",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1706-01-16"
+    "sorting_date": "1706-01-16",
+    "uid": 297
   },
   {
     "title": "Statira",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno by Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1706-02-03"
+    "sorting_date": "1706-02-03",
+    "uid": 298
   },
   {
     "title": "La Fillirosa",
     "composer": "multiple composers",
     "writer": "Angelo Bergonzini",
     "venue": "San Fantin",
-    "sorting_date": "1706-11-02"
+    "sorting_date": "1706-11-02",
+    "uid": 299
   },
   {
     "title": "Paride in Ida",
     "composer": "Agostino Bonaventura Colletti",
     "writer": "Francesco Mazzari",
     "venue": "Sant' Angelo",
-    "sorting_date": "1706-11-15"
+    "sorting_date": "1706-11-15",
+    "uid": 300
   },
   {
     "title": "Sidonio",
     "composer": "Antonio Lotti",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1706-11-20"
+    "sorting_date": "1706-11-20",
+    "uid": 301
   },
   {
     "title": "L'Ifigenia",
     "composer": "Agostino Bonaventura Colletti",
     "writer": "Aurelio Aureli, Pietro Riva",
     "venue": "Sant' Angelo",
-    "sorting_date": "1707-01-04"
+    "sorting_date": "1707-01-04",
+    "uid": 302
   },
   {
     "title": "Taican, re della Cina",
     "composer": "Francesco Gasparini",
     "writer": "Urbano Rizzi",
     "venue": "San Cassiano",
-    "sorting_date": "1707-01-04"
+    "sorting_date": "1707-01-04",
+    "uid": 303
   },
   {
     "title": "Il Mitridate Eupatore",
     "composer": "Alessandro Scarlatti",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1707-01-05"
+    "sorting_date": "1707-01-05",
+    "uid": 304
   },
   {
     "title": "Il trionfo dell'innocenza",
     "composer": "multiple composers",
     "writer": "Francesco Rossi",
     "venue": "San Fantin",
-    "sorting_date": "1707-01-05"
+    "sorting_date": "1707-01-05",
+    "uid": 305
   },
   {
     "title": "La fede tra gl'inganni",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1707-01-29"
+    "sorting_date": "1707-01-29",
+    "uid": 306
   },
   {
     "title": "Il trionfo della liberta",
     "composer": "Alessandro Scarlatti",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1707-02-05"
+    "sorting_date": "1707-02-05",
+    "uid": 307
   },
   {
     "title": "Achille placato",
     "composer": "Antonio Lotti",
     "writer": "Urbano Rizzi",
     "venue": "San Cassiano",
-    "sorting_date": "1707-02-05"
+    "sorting_date": "1707-02-05",
+    "uid": 308
   },
   {
     "title": "Vindice la pazzia della vendetta",
     "composer": "Girolamo Polani",
     "writer": "Bartolomeo Pedoni",
     "venue": "San Fantin",
-    "sorting_date": "1707-02-05"
+    "sorting_date": "1707-02-05",
+    "uid": 309
   },
   {
     "title": "Armida abbandonata",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1707-11-10"
+    "sorting_date": "1707-11-10",
+    "uid": 310
   },
   {
     "title": "Anfitrione",
     "composer": "Francesco Gasparini",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1707-11-12"
+    "sorting_date": "1707-11-12",
+    "uid": 311
   },
   {
     "title": "La Rosilda",
     "composer": "Girolamo Polani",
     "writer": "Bartolomeo Pedoni",
     "venue": "San Fantin",
-    "sorting_date": "1707-11-14"
+    "sorting_date": "1707-11-14",
+    "uid": 312
   },
   {
     "title": "Il selvaggio eroe",
     "composer": "Antonio Caldara",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1707-11-20"
+    "sorting_date": "1707-11-20",
+    "uid": 313
   },
   {
     "title": "L'amor generoso",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1707-12-01"
+    "sorting_date": "1707-12-01",
+    "uid": 314
   },
   {
     "title": "La Partenope",
     "composer": "Antonio Caldara",
     "writer": "Silvio Stampiglia",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1707-12-26"
+    "sorting_date": "1707-12-26",
+    "uid": 315
   },
   {
     "title": "Teuzzone",
     "composer": "Antonio Lotti",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1707-12-27"
+    "sorting_date": "1707-12-27",
+    "uid": 316
   },
   {
     "title": "Armida al campo",
     "composer": "Giuseppe Boniventi",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1708-01-26"
+    "sorting_date": "1708-01-26",
+    "uid": 317
   },
   {
     "title": "Alessandro in Susa",
     "composer": "Luigi Mancia",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1708-01-28"
+    "sorting_date": "1708-01-28",
+    "uid": 318
   },
   {
     "title": "Flavio Anicio Olibrio",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno by Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1708-01-30"
+    "sorting_date": "1708-01-30",
+    "uid": 319
   },
   {
     "title": "La virti trionfante d'amore vendicativo",
     "composer": "Girolamo Polani",
     "writer": "Bartolomeo Pedoni",
     "venue": "San Fantin",
-    "sorting_date": "1708-02-05"
+    "sorting_date": "1708-02-05",
+    "uid": 320
   },
   {
     "title": "Il cieco geloso",
     "composer": "Girolamo Polani",
     "writer": "Aurelio Aureli",
     "venue": "San Fantin",
-    "sorting_date": "1708-10-17"
+    "sorting_date": "1708-10-17",
+    "uid": 321
   },
   {
     "title": "Arrenione",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1708-11-08"
+    "sorting_date": "1708-11-08",
+    "uid": 322
   },
   {
     "title": "Astarto",
     "composer": "Tomaso Albinoni",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1708-11-11"
+    "sorting_date": "1708-11-11",
+    "uid": 323
   },
   {
     "title": "Sofonisba",
     "composer": "Antonio Caldara",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1708-11-24"
+    "sorting_date": "1708-11-24",
+    "uid": 324
   },
   {
     "title": "Il tradimento tradito",
     "composer": "Tomaso Albinoni",
     "writer": "Giovanni Battista Candi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1709-01-05"
+    "sorting_date": "1709-01-05",
+    "uid": 325
   },
   {
     "title": "La pace fra Pompeiani",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Aurelio Aureli",
     "venue": "San Fantin",
-    "sorting_date": "1709-01-05"
+    "sorting_date": "1709-01-05",
+    "uid": 326
   },
   {
     "title": "Il falso Tiberino",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1709-01-12"
+    "sorting_date": "1709-01-12",
+    "uid": 327
   },
   {
     "title": "Il vincitor generoso",
     "composer": "Antonio Lotti",
     "writer": "Francesco Briani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1709-01-12"
+    "sorting_date": "1709-01-12",
+    "uid": 328
   },
   {
     "title": "Engelberta",
     "composer": "Tomaso Albinoni (Acts 1-3), Francesco Gasparini (Acts 4, 5)",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1709-01-26"
+    "sorting_date": "1709-01-26",
+    "uid": 329
   },
   {
     "title": "Edvige, regina d'Ungheria",
     "composer": null,
     "writer": "Tomaso Malipiero",
     "venue": "Sant' Angelo",
-    "sorting_date": "1709-01-26"
+    "sorting_date": "1709-01-26",
+    "uid": 330
   },
   {
     "title": "Il tradimento premiato",
     "composer": "Girolamo Polani",
     "writer": "Giovanni Battista Candi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1709-11-03"
+    "sorting_date": "1709-11-03",
+    "uid": 331
   },
   {
     "title": "La principessa fedele",
     "composer": "Francesco Gasparini",
     "writer": "Agostino Piovene",
     "venue": "San Cassiano",
-    "sorting_date": "1709-11-10"
+    "sorting_date": "1709-11-10",
+    "uid": 332
   },
   {
     "title": "Ama pit che men si crede",
     "composer": "Antonio Lotti",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1709-11-23"
+    "sorting_date": "1709-11-23",
+    "uid": 333
   },
   {
     "title": "L'Aretusa",
     "composer": "Clemente Monari",
     "writer": "Pietro d' Averara",
     "venue": "San Fantin",
-    "sorting_date": "1709-11-25"
+    "sorting_date": "1709-11-25",
+    "uid": 334
   },
   {
     "title": "L'Endimione",
     "composer": "Giuseppe Boniventi",
     "writer": "Francesco Mazzari",
     "venue": "Sant' Angelo",
-    "sorting_date": "1709-12-01"
+    "sorting_date": "1709-12-01",
+    "uid": 335
   },
   {
     "title": "Agrippina",
     "composer": "Georg Frideric Handel",
     "writer": "Vincenzo Grimani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1709-12-26"
+    "sorting_date": "1709-12-26",
+    "uid": 336
   },
   {
     "title": "Ciro",
     "composer": "Tomaso Albinoni",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1709-12-27"
+    "sorting_date": "1709-12-27",
+    "uid": 337
   },
   {
     "title": "Arato in Sparta",
     "composer": "Girolamo Polani",
     "writer": "Nicolò Minato",
     "venue": "Sant' Angelo",
-    "sorting_date": "1710-01-04"
+    "sorting_date": "1710-01-04",
+    "uid": 338
   },
   {
     "title": "Le vicende d'amor e di fortuna",
     "composer": null,
     "writer": "Gio. Domenico Pallavicino",
     "venue": "San Fantin",
-    "sorting_date": "1710-01-18"
+    "sorting_date": "1710-01-18",
+    "uid": 339
   },
   {
     "title": "Il comando non inteso et ubbidito",
     "composer": "Antonio Lotti",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1710-02-08"
+    "sorting_date": "1710-02-08",
+    "uid": 340
   },
   {
     "title": "Sesostri, re d'Egitto",
     "composer": "Francesco Gasparini",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1710-02-09"
+    "sorting_date": "1710-02-09",
+    "uid": 341
   },
   {
     "title": "Berengario, re d'Italia",
     "composer": "Girolamo Polani",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1710-02-15"
+    "sorting_date": "1710-02-15",
+    "uid": 342
   },
   {
     "title": "L'amor tirannico",
     "composer": "Francesco Gasparini",
     "writer": "Domenico Lalli",
     "venue": "San Cassiano",
-    "sorting_date": "1710-11-08"
+    "sorting_date": "1710-11-08",
+    "uid": 343
   },
   {
     "title": "L' Erginia immascherata",
     "composer": "diverse composers",
     "writer": "Antonio Marchi",
     "venue": "San Fantin",
-    "sorting_date": "1710-11-08"
+    "sorting_date": "1710-11-08",
+    "uid": 344
   },
   {
     "title": "Isacio tiranno",
     "composer": "Antonio Lotti",
     "writer": "Matteo Noris, rev. Francesco Briani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1710-11-24"
+    "sorting_date": "1710-11-24",
+    "uid": 345
   },
   {
     "title": "L'ingannator ingannato",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Antonio Marchi",
     "venue": "San Samuele",
-    "sorting_date": "1710-11-29"
+    "sorting_date": "1710-11-29",
+    "uid": 346
   },
   {
     "title": "Non son Quella e la difesa",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Giorgio Antonio Falier",
     "venue": "Sant' Angelo",
-    "sorting_date": "1710-11-29"
+    "sorting_date": "1710-11-29",
+    "uid": 347
   },
   {
     "title": "Il tiranno eroe",
     "composer": "Tomaso Albinoni",
     "writer": "Vincenzo Cassani",
     "venue": "San Cassiano",
-    "sorting_date": "1710-12-26"
+    "sorting_date": "1710-12-26",
+    "uid": 348
   },
   {
     "title": "La costanza fortunata in amore",
     "composer": null,
     "writer": "Francesco Maria Piccioli",
     "venue": "San Fantin",
-    "sorting_date": "1711-01-10"
+    "sorting_date": "1711-01-10",
+    "uid": 349
   },
   {
     "title": "Il tradimento, traditor di se stesso",
     "composer": "Antonio Lotti",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1711-01-17"
+    "sorting_date": "1711-01-17",
+    "uid": 350
   },
   {
     "title": "Tamerlano",
     "composer": "Francesco Gasparini",
     "writer": "Agostino Piovene",
     "venue": "San Cassiano",
-    "sorting_date": "1711-01-24"
+    "sorting_date": "1711-01-24",
+    "uid": 351
   },
   {
     "title": "Le gare di politica e d'amore",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Antonio Salvi",
     "venue": "San Samuele",
-    "sorting_date": "1711-02-04"
+    "sorting_date": "1711-02-04",
+    "uid": 352
   },
   {
     "title": "Circe delusa",
     "composer": "Giuseppe Boniventi",
     "writer": "Giorgio Antonio Falier",
     "venue": "Sant' Angelo",
-    "sorting_date": "1711-02-05"
+    "sorting_date": "1711-02-05",
+    "uid": 353
   },
   {
     "title": "Armida in Damasco",
     "composer": "Giacomo Rampini",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1711-10-17"
+    "sorting_date": "1711-10-17",
+    "uid": 354
   },
   {
     "title": "Costantino",
     "composer": "Francesco Gasparini",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1711-11-11"
+    "sorting_date": "1711-11-11",
+    "uid": 355
   },
   {
     "title": "La forza del sangue",
     "composer": "Antonio Lotti",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1711-11-14"
+    "sorting_date": "1711-11-14",
+    "uid": 356
   },
   {
     "title": "Elisa",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1711-11-25"
+    "sorting_date": "1711-11-25",
+    "uid": 357
   },
   {
     "title": "Lacostanza in cimento con la crudelta",
     "composer": "Floriano Arresti",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1711-12-29"
+    "sorting_date": "1711-12-29",
+    "uid": 358
   },
   {
     "title": "Merope",
     "composer": "Francesco Gasparini",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1712-01-09"
+    "sorting_date": "1712-01-09",
+    "uid": 359
   },
   {
     "title": "Publio Cornelio Scipione",
     "composer": "Carlo Fr. Pollarolo",
     "writer": "Agostino Piovene",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1712-01-09"
+    "sorting_date": "1712-01-09",
+    "uid": 360
   },
   {
     "title": "Arsinoe vendicata",
     "composer": "Giovanni Maria Ruggieri",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1712-02-02"
+    "sorting_date": "1712-02-02",
+    "uid": 361
   },
   {
     "title": "Le gare generose",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Zaniboni",
     "venue": "San Cassiano",
-    "sorting_date": "1712-11-05"
+    "sorting_date": "1712-11-05",
+    "uid": 362
   },
   {
     "title": "L'infedeltà punita",
     "composer": "C. F. Pollarolo, Antonio Lotti",
     "writer": "Giuseppe Palomba",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1712-11-15"
+    "sorting_date": "1712-11-15",
+    "uid": 363
   },
   {
     "title": "La gloria trionfante d'amore",
     "composer": "Giacomo Rampini",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1712-11-22"
+    "sorting_date": "1712-11-22",
+    "uid": 364
   },
   {
     "title": "Spurio Postumio",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Agostino Piovene",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1712-12-26"
+    "sorting_date": "1712-12-26",
+    "uid": 365
   },
   {
     "title": "I veri amici",
     "composer": "Andrea Paulati'",
     "writer": "Francesco Silvani, rev. Domenico Lalli",
     "venue": "San Cassiano",
-    "sorting_date": "1712-12-26"
+    "sorting_date": "1712-12-26",
+    "uid": 366
   },
   {
     "title": "Le passioni per troppo amore",
     "composer": "Johann David Heinichen",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1713-01-28"
+    "sorting_date": "1713-01-28",
+    "uid": 367
   },
   {
     "title": "Porsena",
     "composer": "Antonio Lotti",
     "writer": "Agostino Piovene",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1713-02-04"
+    "sorting_date": "1713-02-04",
+    "uid": 368
   },
   {
     "title": "Calfurnia",
     "composer": "Johann David Heinichen",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1713-02-07"
+    "sorting_date": "1713-02-07",
+    "uid": 369
   },
   {
     "title": "La verita nell'inganno",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1713-02-07"
+    "sorting_date": "1713-02-07",
+    "uid": 370
   },
   {
     "title": "Orlando furioso",
     "composer": "Giovanni Alberto Ristori",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1713-11-09"
+    "sorting_date": "1713-11-09",
+    "uid": 371
   },
   {
     "title": "Irene augusta",
     "composer": "Antonio Lotti",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1713-11-22"
+    "sorting_date": "1713-11-22",
+    "uid": 372
   },
   {
     "title": "Semiramide",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1714-01-06"
+    "sorting_date": "1714-01-06",
+    "uid": 373
   },
   {
     "title": "Rodomonte sdegnato",
     "composer": "Michel Angelo Gasparini",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1714-01-20"
+    "sorting_date": "1714-01-20",
+    "uid": 374
   },
   {
     "title": "Pallade trionfante in Arcadia",
     "composer": "Gio. Alberto Ristori",
     "writer": "Otto Mandelli",
     "venue": "San Samuele",
-    "sorting_date": "1714-01-27"
+    "sorting_date": "1714-01-27",
+    "uid": 375
   },
   {
     "title": "Orlando finto pazzo",
     "composer": "Antonio Vivaldi",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1714-11-11"
+    "sorting_date": "1714-11-11",
+    "uid": 376
   },
   {
     "title": "Orlando furioso",
     "composer": "Gio. Alberto Ristori",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1714-12-26"
+    "sorting_date": "1714-12-26",
+    "uid": 377
   },
   {
     "title": "Marsia deluso",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Agostino Piovene",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1714-12-26"
+    "sorting_date": "1714-12-26",
+    "uid": 378
   },
   {
     "title": "Gl' amici rivali",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Giovanni Battista Neri",
     "venue": "San Fantin",
-    "sorting_date": "1714-12-29"
+    "sorting_date": "1714-12-29",
+    "uid": 379
   },
   {
     "title": "Lucio Papirio",
     "composer": "Luca Antonio Predieri",
     "writer": "Antonio Salvi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1715-01-12"
+    "sorting_date": "1715-01-12",
+    "uid": 380
   },
   {
     "title": "Polidoro",
     "composer": "Antonio Lotti",
     "writer": "Agostino Piovene",
     "venue": "SS. Giovanni e Paolo",
-    "sorting_date": "1715-02-04"
+    "sorting_date": "1715-02-04",
+    "uid": 381
   },
   {
     "title": "L'amante impazzito",
     "composer": "Francesco Gasparini",
     "writer": "Marc' Antonio Gasparini",
     "venue": "San Fantin",
-    "sorting_date": "1715-02-04"
+    "sorting_date": "1715-02-04",
+    "uid": 382
   },
   {
     "title": "Nerone fatto Cesare",
     "composer": "Antonio Vivaldi, eight others",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1715-02-19"
+    "sorting_date": "1715-02-19",
+    "uid": 383
   },
   {
     "title": "Laomedonte",
     "composer": "Lorenzo Baseggio",
     "writer": "Giovanni Battista Guizzardi",
     "venue": "San Moise",
-    "sorting_date": "1715-10-26"
+    "sorting_date": "1715-10-26",
+    "uid": 384
   },
   {
     "title": "Alessandro fra le amazzoni",
     "composer": "Fortunato Chelleri",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1715-10-27"
+    "sorting_date": "1715-10-27",
+    "uid": 385
   },
   {
     "title": "La fede tradita e vendicata",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "San Moise",
-    "sorting_date": "1715-11-16"
+    "sorting_date": "1715-11-16",
+    "uid": 386
   },
   {
     "title": "Foca superbo",
     "composer": "Antonio Lotti",
     "writer": "Antonio Maria Lucchini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1715-12-26"
+    "sorting_date": "1715-12-26",
+    "uid": 387
   },
   {
     "title": "L'amor di figlio non conosciuto",
     "composer": "Tomaso Albinoni",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1716-01-04"
+    "sorting_date": "1716-01-04",
+    "uid": 388
   },
   {
     "title": "Il più fedele fra i vassalli",
     "composer": "Francesco Gasparini",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1716-01-15"
+    "sorting_date": "1716-01-15",
+    "uid": 389
   },
   {
     "title": "La costanza trionfante degl'amori e degl'odi",
     "composer": "Antonio Vivaldi",
     "writer": "Antonio Marchi",
     "venue": "San Moise",
-    "sorting_date": "1716-01-19"
+    "sorting_date": "1716-01-19",
+    "uid": 390
   },
   {
     "title": "Il Germanico",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Pietro Giorgio Barziza",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1716-01-25"
+    "sorting_date": "1716-01-25",
+    "uid": 391
   },
   {
     "title": "Ottone",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Girolamo Frigimelica-Roberti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1716-02-08"
+    "sorting_date": "1716-02-08",
+    "uid": 392
   },
   {
     "title": "La costanza combattuta in amore",
     "composer": "Giovanni Porta",
     "writer": "Francesco Silvani",
     "venue": "San Moise",
-    "sorting_date": "1716-10-17"
+    "sorting_date": "1716-10-17",
+    "uid": 393
   },
   {
     "title": "Arsilda, regina di Ponto",
     "composer": "Antonio Vivaldi",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1716-10-27"
+    "sorting_date": "1716-10-27",
+    "uid": 394
   },
   {
     "title": "Ariodante",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1716-11-14"
+    "sorting_date": "1716-11-14",
+    "uid": 395
   },
   {
     "title": "Penelope la casta",
     "composer": "Fortunato Chelleri",
     "writer": "Matteo Noris",
     "venue": "Sant' Angelo",
-    "sorting_date": "1716-12-28"
+    "sorting_date": "1716-12-28",
+    "uid": 396
   },
   {
     "title": "La virti coronata",
     "composer": "Reinhard Keiser",
     "writer": "Domenico David",
     "venue": "San Moise",
-    "sorting_date": "1717-01-04"
+    "sorting_date": "1717-01-04",
+    "uid": 397
   },
   {
     "title": "Alessandro Severo",
     "composer": "Antonio Lotti",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1717-01-17"
+    "sorting_date": "1717-01-17",
+    "uid": 398
   },
   {
     "title": "L'incoronazione di Dario",
     "composer": "Antonio Vivaldi",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1717-01-23"
+    "sorting_date": "1717-01-23",
+    "uid": 399
   },
   {
     "title": "Chi la fa Vaspetta",
     "composer": "Girolamo Polani",
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1717-01-25"
+    "sorting_date": "1717-01-25",
+    "uid": 400
   },
   {
     "title": "L'ambizione castigata",
     "composer": null,
     "writer": "Francesco Mazzari",
     "venue": "San Fantin",
-    "sorting_date": "1717-02-06"
+    "sorting_date": "1717-02-06",
+    "uid": 401
   },
   {
     "title": "Tieteberga",
     "composer": "Antonio Vivaldi",
     "writer": "Antonio Maria Lucchini",
     "venue": "San Moise",
-    "sorting_date": "1717-10-16"
+    "sorting_date": "1717-10-16",
+    "uid": 402
   },
   {
     "title": "L'innocenza riconosciuta",
     "composer": "Carlo Fr. Pollarolo",
     "writer": "Tomaso Malipiero",
     "venue": "Sant' Angelo",
-    "sorting_date": "1717-10-27"
+    "sorting_date": "1717-10-27",
+    "uid": 403
   },
   {
     "title": "L'Argippo",
     "composer": "Giovanni Porta",
     "writer": "Domenico Lalli",
     "venue": "San Cassiano",
-    "sorting_date": "1717-10-31"
+    "sorting_date": "1717-10-31",
+    "uid": 404
   },
   {
     "title": "Eumene",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1717-11-13"
+    "sorting_date": "1717-11-13",
+    "uid": 405
   },
   {
     "title": "II vinto trionfante del vincitore",
     "composer": "Antonio Vivaldi and others",
     "writer": "Antonio Marchi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1717-11-22"
+    "sorting_date": "1717-11-22",
+    "uid": 406
   },
   {
     "title": "Arsace",
     "composer": "Michel Angelo Gasparini",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1717-12-26"
+    "sorting_date": "1717-12-26",
+    "uid": 407
   },
   {
     "title": "Meleagro",
     "composer": "Tomaso Albinoni",
     "writer": "Pietro Antonio Bernardoni",
     "venue": "Sant' Angelo",
-    "sorting_date": "1717-12-27"
+    "sorting_date": "1717-12-27",
+    "uid": 408
   },
   {
     "title": "Bertoldo",
     "composer": "Giovanni Battista Bassani",
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1718-01-11"
+    "sorting_date": "1718-01-11",
+    "uid": 409
   },
   {
     "title": "Farnace",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Domenico Lalli",
     "venue": "San Cassiano",
-    "sorting_date": "1718-01-11"
+    "sorting_date": "1718-01-11",
+    "uid": 410
   },
   {
     "title": "Cleomene",
     "composer": "Tomaso Albinoni",
     "writer": "Vincenzo Cassani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1718-01-22"
+    "sorting_date": "1718-01-22",
+    "uid": 411
   },
   {
     "title": "La virti tra nemici",
     "composer": "Giuseppe Boniventi",
     "writer": "Giovanni Battista Abbati",
     "venue": "San Moise",
-    "sorting_date": "1718-01-24"
+    "sorting_date": "1718-01-24",
+    "uid": 412
   },
   {
     "title": "Il vecchio deluso",
     "composer": null,
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1718-02-16"
+    "sorting_date": "1718-02-16",
+    "uid": 413
   },
   {
     "title": "Antigona",
     "composer": "Giuseppe Orlandini",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Cassiano",
-    "sorting_date": "1718-02-13"
+    "sorting_date": "1718-02-13",
+    "uid": 414
   },
   {
     "title": "Armida al campo d'Egitto",
     "composer": "Antonio Vivaldi",
     "writer": "Giovanni Palazzi",
     "venue": "San Moise",
-    "sorting_date": "1718-02-15"
+    "sorting_date": "1718-02-15",
+    "uid": 415
   },
   {
     "title": "L'amor di figlia",
     "composer": "Giovanni Porta",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1718-10-29"
+    "sorting_date": "1718-10-29",
+    "uid": 416
   },
   {
     "title": "Il Lamano",
     "composer": "Michel Angelo Gasparini",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1718-12-26"
+    "sorting_date": "1718-12-26",
+    "uid": 417
   },
   {
     "title": "Amalasunta",
     "composer": "Fortunato Chelleri",
     "writer": "Giacomo Gabrieli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1718-12-27"
+    "sorting_date": "1718-12-27",
+    "uid": 418
   },
   {
     "title": "Astianatte",
     "composer": "Antonio Maria Bononcini",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1719-01-04"
+    "sorting_date": "1719-01-04",
+    "uid": 419
   },
   {
     "title": "Artabano, re de' Parti",
     "composer": "Antonio Vivaldi",
     "writer": "Antonio Marchi",
     "venue": "San Moise",
-    "sorting_date": "1719-01-12"
+    "sorting_date": "1719-01-12",
+    "uid": 420
   },
   {
     "title": "Ifigenia in Tauride",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1719-01-21"
+    "sorting_date": "1719-01-21",
+    "uid": 421
   },
   {
     "title": "Il pentimento generoso",
     "composer": "Andrea Stefano Fiore",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1719-02-04"
+    "sorting_date": "1719-02-04",
+    "uid": 422
   },
   {
     "title": "Le pazzie degli amanti",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1719-02-07"
+    "sorting_date": "1719-02-07",
+    "uid": 423
   },
   {
     "title": "Arianna abbandonata",
     "composer": "Giuseppe Boniventi",
     "writer": "Angelo Schietti",
     "venue": "San Moise",
-    "sorting_date": "1719-10-25"
+    "sorting_date": "1719-10-25",
+    "uid": 424
   },
   {
     "title": "La caduta di Gelone",
     "composer": "Giuseppe Maria Buini",
     "writer": "Francesco Rossi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1719-11-11"
+    "sorting_date": "1719-11-11",
+    "uid": 425
   },
   {
     "title": "Leucippe e Teonoe",
     "composer": "Antonio Pollarolo",
     "writer": "Pietro Maria Suarez",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1719-11-18"
+    "sorting_date": "1719-11-18",
+    "uid": 426
   },
   {
     "title": "La pace per amore",
     "composer": "Fortunato Chelleri, Gius. Maria Buini",
     "writer": "Angelo Schietti",
     "venue": "San Moise",
-    "sorting_date": "1719-12-26"
+    "sorting_date": "1719-12-26",
+    "uid": 427
   },
   {
     "title": "La sorte nell'amore",
     "composer": null,
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1719-12-27"
+    "sorting_date": "1719-12-27",
+    "uid": 428
   },
   {
     "title": "Paride",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Francesco Muazzo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1720-01-13"
+    "sorting_date": "1720-01-13",
+    "uid": 429
   },
   {
     "title": "La figlia che canta",
     "composer": "Antonio Pollarolo",
     "writer": "Francesco Passarini",
     "venue": "San Fantin",
-    "sorting_date": "1720-01-15"
+    "sorting_date": "1720-01-15",
+    "uid": 430
   },
   {
     "title": "Armida delusa",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1720-01-24"
+    "sorting_date": "1720-01-24",
+    "uid": 431
   },
   {
     "title": "Griselda",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Apostolo Zeno",
     "venue": "San Samuele",
-    "sorting_date": "1720-05-08"
+    "sorting_date": "1720-05-08",
+    "uid": 432
   },
   {
     "title": "Gl'inganni fortunati",
     "composer": "Giuseppe Maria Buini",
     "writer": "Belisario Valeriani",
     "venue": "San Moise",
-    "sorting_date": "1720-05-08"
+    "sorting_date": "1720-05-08",
+    "uid": 433
   },
   {
     "title": "Il Filindo",
     "composer": "Giuseppe Maria Buini",
     "writer": "Dom. Maria Creta",
     "venue": "San Moise",
-    "sorting_date": "1720-10-19"
+    "sorting_date": "1720-10-19",
+    "uid": 434
   },
   {
     "title": "La verita in cimento",
     "composer": "Antonio Vivaldi",
     "writer": "Giovanni Palazzi and Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1720-10-26"
+    "sorting_date": "1720-10-26",
+    "uid": 435
   },
   {
     "title": "Teodorico",
     "composer": "Giovanni Porta",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1720-11-19"
+    "sorting_date": "1720-11-19",
+    "uid": 436
   },
   {
     "title": "Lucio Papirio dittatore",
     "composer": "Antonio Pollarolo",
     "writer": "Agostino Piovene",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1720-12-26"
+    "sorting_date": "1720-12-26",
+    "uid": 437
   },
   {
     "title": "Filippo, re di Macedonia",
     "composer": "Giuseppe Boniventi",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1720-12-27"
+    "sorting_date": "1720-12-27",
+    "uid": 438
   },
   {
     "title": "L'Arsacide",
     "composer": "Fortunato Chelleri",
     "writer": "Antonio Zaniboni",
     "venue": "San Moise",
-    "sorting_date": "1720-12-28"
+    "sorting_date": "1720-12-28",
+    "uid": 439
   },
   {
     "title": "Antigona",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Benedetto Pasqualigo",
     "venue": "Sant' Angelo",
-    "sorting_date": "1721-01-15"
+    "sorting_date": "1721-01-15",
+    "uid": 440
   },
   {
     "title": "Cleofile",
     "composer": "Giuseppe Maria Buini",
     "writer": "Antonio Zaniboni",
     "venue": "San Moise",
-    "sorting_date": "1721-01-27"
+    "sorting_date": "1721-01-27",
+    "uid": 441
   },
   {
     "title": "Nerone",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Agostino Piovene",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1721-02-11"
+    "sorting_date": "1721-02-11",
+    "uid": 442
   },
   {
     "title": "Il pastor fido",
     "composer": "Carlo Luigi Pietro Grua",
     "writer": "Benedetto Pasqualigo",
     "venue": "Sant' Angelo",
-    "sorting_date": "1721-02-11"
+    "sorting_date": "1721-02-11",
+    "uid": 443
   },
   {
     "title": "L'inganno fortunato",
     "composer": "Giuseppe Boniventi",
     "writer": "G. B. Sara by Bartolomeo Pavieri",
     "venue": "San Moise",
-    "sorting_date": "1721-10-11"
+    "sorting_date": "1721-10-11",
+    "uid": 444
   },
   {
     "title": "Cimene",
     "composer": "Girolamo Bassani and Matteo (?) Lucchini",
     "writer": "Benedetto Pasqualigo",
     "venue": "Sant' Angelo",
-    "sorting_date": "1721-10-18"
+    "sorting_date": "1721-10-18",
+    "uid": 445
   },
   {
     "title": "Plautilla",
     "composer": "Antonio Pollarolo",
     "writer": "Vincenzo Cassani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1721-11-22"
+    "sorting_date": "1721-11-22",
+    "uid": 446
   },
   {
     "title": "La fede ne' tradimenti",
     "composer": "Carlo Luigi Pietro Grua",
     "writer": "Girolamo Gigli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1721-11-26"
+    "sorting_date": "1721-11-26",
+    "uid": 447
   },
   {
     "title": "L'amore per forza",
     "composer": "Girolamo Bassani",
     "writer": "Bartolomeo Pavieri",
     "venue": "San Moise",
-    "sorting_date": "1721-12-02"
+    "sorting_date": "1721-12-02",
+    "uid": 448
   },
   {
     "title": "Gl' eccessi della gelosia",
     "composer": "Tomaso Albinoni",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1721-12-27"
+    "sorting_date": "1721-12-27",
+    "uid": 449
   },
   {
     "title": "L'Ifide greca",
     "composer": "Pietro Scarpari",
     "writer": "Nicolo Minato",
     "venue": "San Moise",
-    "sorting_date": "1722-01-07"
+    "sorting_date": "1722-01-07",
+    "uid": 450
   },
   {
     "title": "Giulio Flavio Crispo",
     "composer": "Giovanni Maria Capelli",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1722-01-17"
+    "sorting_date": "1722-01-17",
+    "uid": 451
   },
   {
     "title": "L'Argippo",
     "composer": "Giovanni Porta",
     "writer": "Domenico Lalli",
     "venue": "San Moise",
-    "sorting_date": "1722-02-05"
+    "sorting_date": "1722-02-05",
+    "uid": 452
   },
   {
     "title": "L'innocenza difesa",
     "composer": "Fortunato Chelleri",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1722-02-07"
+    "sorting_date": "1722-02-07",
+    "uid": 453
   },
   {
     "title": "Venceslao",
     "composer": "Giovanni Porta",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1722-02-07"
+    "sorting_date": "1722-02-07",
+    "uid": 454
   },
   {
     "title": "L'amor tirannico",
     "composer": "Fortunato Chelleri (Acts 1, 2) and Gio. Porta (Act 3)",
     "writer": "Domenico Lalli",
     "venue": "San Samuele",
-    "sorting_date": "1722-05-13"
+    "sorting_date": "1722-05-13",
+    "uid": 455
   },
   {
     "title": "Gl'inganni felici",
     "composer": "Giuseppe Maria Buini",
     "writer": "Apostolo Zeno",
     "venue": "San Moise",
-    "sorting_date": "1722-10-24"
+    "sorting_date": "1722-10-24",
+    "uid": 456
   },
   {
     "title": "L'Arminio",
     "composer": "Carlo Francesco Pollarolo",
     "writer": "Antonio Salvi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1722-11-20"
+    "sorting_date": "1722-11-20",
+    "uid": 457
   },
   {
     "title": "Romolo e Tazio",
     "composer": "Carlo Luigi Pietro Grua",
     "writer": "Vincenzo Cassani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1722-11-28"
+    "sorting_date": "1722-11-28",
+    "uid": 458
   },
   {
     "title": "Timocrate",
     "composer": "Leonardo Leo",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1722-12-26"
+    "sorting_date": "1722-12-26",
+    "uid": 459
   },
   {
     "title": "Eumene",
     "composer": "Tomaso Albinoni",
     "writer": "Apostolo Zeno",
     "venue": "San Moise",
-    "sorting_date": "1722-12-27"
+    "sorting_date": "1722-12-27",
+    "uid": 460
   },
   {
     "title": "Mitridate, re di Ponto",
     "composer": "Giovanni Maria Capelli",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1723-01-05"
+    "sorting_date": "1723-01-05",
+    "uid": 461
   },
   {
     "title": "I veri amici",
     "composer": "Tomaso Albinoni",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1723-01-25"
+    "sorting_date": "1723-01-25",
+    "uid": 462
   },
   {
     "title": "Venceslao",
     "composer": "G. Porta, A. Pollarolo and G. Capelli",
     "writer": "Apostolo Zeno",
     "venue": "San Moise",
-    "sorting_date": "1723-02-03"
+    "sorting_date": "1723-02-03",
+    "uid": 463
   },
   {
     "title": "Bajazette",
     "composer": "Francesco Gasparini",
     "writer": "Agostino Piovene",
     "venue": "San Samuele",
-    "sorting_date": "1723-05-05"
+    "sorting_date": "1723-05-05",
+    "uid": 464
   },
   {
     "title": "L'Ermengarda",
     "composer": "Tomaso Albinoni",
     "writer": "Anton Maria Lucchini",
     "venue": "San Moise",
-    "sorting_date": "1723-10-10"
+    "sorting_date": "1723-10-10",
+    "uid": 465
   },
   {
     "title": "Gli equivoci d'amore e d'innocenza",
     "composer": "Francesco Gasparini",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1723-11-20"
+    "sorting_date": "1723-11-20",
+    "uid": 466
   },
   {
     "title": "Armida abbandonata",
     "composer": "Giuseppe Maria Buini",
     "writer": "Francesco Silvani",
     "venue": "San Moise",
-    "sorting_date": "1723-11-27"
+    "sorting_date": "1723-11-27",
+    "uid": 467
   },
   {
     "title": "Il più fedel fra gli amici",
     "composer": "Michel Angelo Gasparini",
     "writer": "Giovanni Battista Guizzardi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1723-12-26"
+    "sorting_date": "1723-12-26",
+    "uid": 468
   },
   {
     "title": "Gli sforzi d'ambizione e d'amore",
     "composer": "Giovanni Porta",
     "writer": "Anton Maria Lucchini",
     "venue": "San Moise",
-    "sorting_date": "1724-01-05"
+    "sorting_date": "1724-01-05",
+    "uid": 469
   },
   {
     "title": "Ipermestra",
     "composer": "Geminiano Giacomelli",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1724-02-05"
+    "sorting_date": "1724-02-05",
+    "uid": 470
   },
   {
     "title": "Antigono, tutore di Filippo",
     "composer": "Tomaso Albinoni",
     "writer": "Giovanni Piazzon",
     "venue": "San Moise",
-    "sorting_date": "1724-02-15"
+    "sorting_date": "1724-02-15",
+    "uid": 471
   },
   {
     "title": "Scipione nelle Spagne",
     "composer": "Tomaso Albinoni",
     "writer": "Apostolo Zeno",
     "venue": "San Samuele",
-    "sorting_date": "1724-05-17"
+    "sorting_date": "1724-05-17",
+    "uid": 472
   },
   {
     "title": "Laodice",
     "composer": "Tomaso Albinoni",
     "writer": "Angelo Schietti",
     "venue": "San Moise",
-    "sorting_date": "1724-10-14"
+    "sorting_date": "1724-10-14",
+    "uid": 473
   },
   {
     "title": "Antigona",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Cassiano",
-    "sorting_date": "1724-11-07"
+    "sorting_date": "1724-11-07",
+    "uid": 474
   },
   {
     "title": "La Mariane",
     "composer": "Giovanni Porta",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1724-11-16"
+    "sorting_date": "1724-11-16",
+    "uid": 475
   },
   {
     "title": "Il trionfo della virti",
     "composer": "Gio. Francesco Brusa",
     "writer": "Pietro d'Averara",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1724-11-18"
+    "sorting_date": "1724-11-18",
+    "uid": 476
   },
   {
     "title": "Il nemico amante",
     "composer": "Fortunato Chelleri",
     "writer": "Angelo Schietti",
     "venue": "San Moise",
-    "sorting_date": "1724-12-09"
+    "sorting_date": "1724-12-09",
+    "uid": 477
   },
   {
     "title": "Ifigenia in Tauride",
     "composer": "Leonardo Vinei!",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1724-12-26"
+    "sorting_date": "1724-12-26",
+    "uid": 478
   },
   {
     "title": "Seleuco",
     "composer": "Giovanni Zuccari",
     "writer": "Pietro Pariati",
     "venue": "Sant' Angelo",
-    "sorting_date": "1724-12-26"
+    "sorting_date": "1724-12-26",
+    "uid": 479
   },
   {
     "title": "La Didone abbandonata",
     "composer": "Tomaso Albinoni",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1724-12-26"
+    "sorting_date": "1724-12-26",
+    "uid": 480
   },
   {
     "title": "Agide, re di Sparta",
     "composer": "Giovanni Porta",
     "writer": "Luisa Bergalli",
     "venue": "San Moise",
-    "sorting_date": "1724-12-26"
+    "sorting_date": "1724-12-26",
+    "uid": 481
   },
   {
     "title": "Berenice",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1725-01-20"
+    "sorting_date": "1725-01-20",
+    "uid": 482
   },
   {
     "title": "Ulisse",
     "composer": "Giovanni Porta",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1725-01-29"
+    "sorting_date": "1725-01-29",
+    "uid": 483
   },
   {
     "title": "La Rosmira fedele",
     "composer": "Leonardo Vinci",
     "writer": "Silvio Stampiglia",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1725-01-31"
+    "sorting_date": "1725-01-31",
+    "uid": 484
   },
   {
     "title": "Gli sdegni cangiati in amore",
     "composer": "Giuseppe Maria Buini",
     "writer": "G. M. Buini (?) from Francesco Silvani",
     "venue": "San Moise",
-    "sorting_date": "1725-02-03"
+    "sorting_date": "1725-02-03",
+    "uid": 485
   },
   {
     "title": "L'amor eroico",
     "composer": "Giovanni Francesco Brusa",
     "writer": "Pietro Pariati",
     "venue": "San Samuele",
-    "sorting_date": "1725-05-09"
+    "sorting_date": "1725-05-09",
+    "uid": 486
   },
   {
     "title": "L'inganno trionfante in amore",
     "composer": "Antonio Vivaldi",
     "writer": "Gio. Maria Ruggieri",
     "venue": "Sant' Angelo",
-    "sorting_date": "1725-11-17"
+    "sorting_date": "1725-11-17",
+    "uid": 487
   },
   {
     "title": "Alcina delusa da Ruggero",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Marchi",
     "venue": "San Cassiano",
-    "sorting_date": "1725-11-24"
+    "sorting_date": "1725-11-24",
+    "uid": 488
   },
   {
     "title": "Siface",
     "composer": "Nicolò Porpora",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1725-12-26"
+    "sorting_date": "1725-12-26",
+    "uid": 489
   },
   {
     "title": "Turia Lucrezia",
     "composer": "Antonio Pollarolo",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1725-12-27"
+    "sorting_date": "1725-12-27",
+    "uid": 490
   },
   {
     "title": "_L'inganno innocente",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1725-12-28"
+    "sorting_date": "1725-12-28",
+    "uid": 491
   },
   {
     "title": "Cunegonda",
     "composer": "Antonio Vivaldi",
     "writer": "Agostino Piovene",
     "venue": "Sant' Angelo",
-    "sorting_date": "1726-01-29"
+    "sorting_date": "1726-01-29",
+    "uid": 492
   },
   {
     "title": "Siroe, re di Persia",
     "composer": "Leonardo Vinci",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1726-02-02"
+    "sorting_date": "1726-02-02",
+    "uid": 493
   },
   {
     "title": "La fede tradita e vendicata",
     "composer": "Antonio Vivaldi",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1726-02-16"
+    "sorting_date": "1726-02-16",
+    "uid": 494
   },
   {
     "title": "Amore e Sdegno",
     "composer": "Luigi Tavelli",
     "writer": "Michel Angiolo Boccardi'",
     "venue": "San Cassiano",
-    "sorting_date": "1726-02-20"
+    "sorting_date": "1726-02-20",
+    "uid": 495
   },
   {
     "title": "I rivali generosi",
     "composer": "Giuseppe Vignatti",
     "writer": "Apostolo Zeno",
     "venue": "San Samuele",
-    "sorting_date": "1726-05-26"
+    "sorting_date": "1726-05-26",
+    "uid": 496
   },
   {
     "title": "Le frenesie d'amore",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Moise",
-    "sorting_date": "1726-05-26"
+    "sorting_date": "1726-05-26",
+    "uid": 497
   },
   {
     "title": "Imeneo in Atene",
     "composer": "Nicolò Porpora",
     "writer": "Silvio Stampiglia",
     "venue": "San Samuele",
-    "sorting_date": "1726-09-20"
+    "sorting_date": "1726-09-20",
+    "uid": 498
   },
   {
     "title": "Amor indovino",
     "composer": "Antonio Cortona",
     "writer": "Giovanni Battista Neri",
     "venue": "San Moise",
-    "sorting_date": "1726-10-26"
+    "sorting_date": "1726-10-26",
+    "uid": 499
   },
   {
     "title": "Dorilla in Tempe",
     "composer": "Antonio Vivaldi",
     "writer": "Anton Maria Lucchini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1726-11-09"
+    "sorting_date": "1726-11-09",
+    "uid": 500
   },
   {
     "title": "I trionfo di Flavio Olibrio",
     "composer": "Giovanni Porta",
     "writer": "Pietro Pariati",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1726-11-25"
+    "sorting_date": "1726-11-25",
+    "uid": 501
   },
   {
     "title": "Il trionfo d'Armida",
     "composer": "Tomaso Albinoni",
     "writer": "Girolamo Colatelli",
     "venue": "San Moise",
-    "sorting_date": "1726-12-02"
+    "sorting_date": "1726-12-02",
+    "uid": 502
   },
   {
     "title": "Meride e Selinunte",
     "composer": "Nicolò Porpora",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1726-12-26"
+    "sorting_date": "1726-12-26",
+    "uid": 503
   },
   {
     "title": "Medea e Giasone",
     "composer": "Francesco Brusa",
     "writer": "Giovanni Palazzi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1726-12-27"
+    "sorting_date": "1726-12-27",
+    "uid": 504
   },
   {
     "title": "L'Adalvaldo furioso",
     "composer": "Giacomo Maccari",
     "writer": "Anton Maria Lucchini",
     "venue": "San Moise",
-    "sorting_date": "1727-01-07"
+    "sorting_date": "1727-01-07",
+    "uid": 505
   },
   {
     "title": "Aldiso",
     "composer": "Giovanni Porta",
     "writer": "Claudio Nicola Stampa",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1727-02-02"
+    "sorting_date": "1727-02-02",
+    "uid": 506
   },
   {
     "title": "Farnace",
     "composer": "Antonio Vivaldi",
     "writer": "Anton Maria Lucchini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1727-02-10"
+    "sorting_date": "1727-02-10",
+    "uid": 507
   },
   {
     "title": "L'Egeste",
     "composer": "Antonio Cortona",
     "writer": "Carlo Pagani-Cesa",
     "venue": "San Moise",
-    "sorting_date": "1727-02-12"
+    "sorting_date": "1727-02-12",
+    "uid": 508
   },
   {
     "title": "L'incostanza schernita",
     "composer": "Tomaso Albinoni",
     "writer": "Vincenzo Cassani",
     "venue": "San Samuele",
-    "sorting_date": "1727-05-21"
+    "sorting_date": "1727-05-21",
+    "uid": 509
   },
   {
     "title": "Albumazar",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Salvatore",
-    "sorting_date": "1727-05-21"
+    "sorting_date": "1727-05-21",
+    "uid": 510
   },
   {
     "title": "Le Srenesie d'amore",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Salvatore",
-    "sorting_date": "1727-06-01"
+    "sorting_date": "1727-06-01",
+    "uid": 511
   },
   {
     "title": "Il Bertarido, re de' longobardi",
     "composer": "Giuseppe Boniventi",
     "writer": "Antonio Salvi",
     "venue": "San Cassiano",
-    "sorting_date": "1727-10-25"
+    "sorting_date": "1727-10-25",
+    "uid": 512
   },
   {
     "title": "Il regno galante",
     "composer": "Giovanni Reali",
     "writer": "Michel Angiolo Boccardi",
     "venue": "San Moise",
-    "sorting_date": "1727-11-08"
+    "sorting_date": "1727-11-08",
+    "uid": 513
   },
   {
     "title": "Orlando [furioso]",
     "composer": "Antonio Vivaldi",
     "writer": "Grazio Braccioli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1727-11-15"
+    "sorting_date": "1727-11-15",
+    "uid": 514
   },
   {
     "title": "Arianna e Teseo",
     "composer": "Nicolò Porpora",
     "writer": "Pietro Pariati",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1727-11-22"
+    "sorting_date": "1727-11-22",
+    "uid": 515
   },
   {
     "title": "Farnace",
     "composer": "Antonio Vivaldi",
     "writer": "Anton Maria Lucchini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1727-12-10"
+    "sorting_date": "1727-12-10",
+    "uid": 516
   },
   {
     "title": "Ormisda",
     "composer": "Bartolomeo Cordans",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1727-12-28"
+    "sorting_date": "1727-12-28",
+    "uid": 517
   },
   {
     "title": "Amore e fortuna",
     "composer": "Giovanni Porta",
     "writer": "Francesco Passarini",
     "venue": "San Moise",
-    "sorting_date": "1727-12-31"
+    "sorting_date": "1727-12-31",
+    "uid": 518
   },
   {
     "title": "Argeno",
     "composer": "Leonardo Leo",
     "writer": "Orlandini for Bologna",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1728-01-17"
+    "sorting_date": "1728-01-17",
+    "uid": 519
   },
   {
     "title": "Rosilena ed Oronta",
     "composer": "Antonio Vivaldi",
     "writer": "Giovanni Palazzi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1728-01-19"
+    "sorting_date": "1728-01-19",
+    "uid": 520
   },
   {
     "title": "Griselda",
     "composer": "Tomaso Albinoni",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1728-01-26"
+    "sorting_date": "1728-01-26",
+    "uid": 521
   },
   {
     "title": "Gli odi delusi dal sangue",
     "composer": "Baldassare Galuppi (Acts 1, 3), Giovanni Battista Pescetti (Act 2)",
     "writer": "Anton Maria Lucchini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1728-02-04"
+    "sorting_date": "1728-02-04",
+    "uid": 522
   },
   {
     "title": "Nel perdono la vendetta",
     "composer": "Giovanni Porta",
     "writer": "Carlo Pagani-Cesa",
     "venue": "San Moise",
-    "sorting_date": "1728-05-05"
+    "sorting_date": "1728-05-05",
+    "uid": 523
   },
   {
     "title": "Nerina",
     "composer": "Antonio Pollarolo",
     "writer": "Domenico Lalli",
     "venue": "San Samuele",
-    "sorting_date": "1728-05-05"
+    "sorting_date": "1728-05-05",
+    "uid": 524
   },
   {
     "title": "Le due rivali in amore",
     "composer": "Tomaso Albinoni",
     "writer": "Aurelio Aureli",
     "venue": "San Moise",
-    "sorting_date": "1728-11-06"
+    "sorting_date": "1728-11-06",
+    "uid": 525
   },
   {
     "title": "Ezio",
     "composer": "Nicolò Porpora",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1728-11-21"
+    "sorting_date": "1728-11-21",
+    "uid": 526
   },
   {
     "title": "Catone in Utica",
     "composer": "Leonardo Leo",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1728-12-26"
+    "sorting_date": "1728-12-26",
+    "uid": 527
   },
   {
     "title": "Gianguir",
     "composer": "Geminiano Giacomelli",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1728-12-27"
+    "sorting_date": "1728-12-27",
+    "uid": 528
   },
   {
     "title": "Doriclea repudiata da Creso",
     "composer": "Giovanni Porta",
     "writer": "Giovanni Battista Corte",
     "venue": "San Moise",
-    "sorting_date": "1729-01-05"
+    "sorting_date": "1729-01-05",
+    "uid": 529
   },
   {
     "title": "Filandro",
     "composer": "Tomaso Albinoni",
     "writer": "Vincenzo Cassani",
     "venue": "San Moise",
-    "sorting_date": "1729-01-24"
+    "sorting_date": "1729-01-24",
+    "uid": 530
   },
   {
     "title": "Adelaide",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Antonio Salvi",
     "venue": "San Cassiano",
-    "sorting_date": "1729-02-08"
+    "sorting_date": "1729-02-08",
+    "uid": 531
   },
   {
     "title": "Semiramide riconosciuta",
     "composer": "Nicolò Porpora",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1729-02-12"
+    "sorting_date": "1729-02-12",
+    "uid": 532
   },
   {
     "title": "Sulpizia fedele",
     "composer": "Antonio Pollarolo",
     "writer": "Giovanni Boldini",
     "venue": "San Samuele",
-    "sorting_date": "1729-05-22"
+    "sorting_date": "1729-05-22",
+    "uid": 533
   },
   {
     "title": "Dorinda",
     "composer": "Giovanni Battista Pescetti and Baldassare Galuppi",
     "writer": "Benedetto Pasqualigo",
     "venue": "San Samuele",
-    "sorting_date": "1729-06-06"
+    "sorting_date": "1729-06-06",
+    "uid": 534
   },
   {
     "title": "La Dori",
     "composer": "multiple composers",
     "writer": "Pietro d'Averara",
     "venue": "Santa Margherita",
-    "sorting_date": "1729-10-31"
+    "sorting_date": "1729-10-31",
+    "uid": 535
   },
   {
     "title": "I tre difensori della patria",
     "composer": "Giovanni Battista Pescetti",
     "writer": "Adriano Morselli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1729-11-05"
+    "sorting_date": "1729-11-05",
+    "uid": 536
   },
   {
     "title": "Belmira in Creta",
     "composer": "Antonio Galeazzi",
     "writer": "Girolamo Giusti",
     "venue": "San Moise",
-    "sorting_date": "1729-11-16"
+    "sorting_date": "1729-11-16",
+    "uid": 537
   },
   {
     "title": "Onorio",
     "composer": "Francesco Ciampi",
     "writer": "Domenico Lalli, Giovanni Boldini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1729-11-27"
+    "sorting_date": "1729-11-27",
+    "uid": 538
   },
   {
     "title": "La generosita di Tiberio",
     "composer": "Santo Lapis (Acts 1, 2), Bartolomeo Cordans (Act 3)",
     "writer": "Nicolò Minato",
     "venue": "San Cassiano",
-    "sorting_date": "1729-12-10"
+    "sorting_date": "1729-12-10",
+    "uid": 539
   },
   {
     "title": "Mitridate",
     "composer": "Giovanni Antonio Giai",
     "writer": "Apostolo Zeno by Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1729-12-26"
+    "sorting_date": "1729-12-26",
+    "uid": 540
   },
   {
     "title": "L'odio placato",
     "composer": "Baldassare Galuppi",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1729-12-27"
+    "sorting_date": "1729-12-27",
+    "uid": 541
   },
   {
     "title": "Li stratagemi amorosi",
     "composer": "Tomaso Albinoni",
     "writer": "Francesco Passarini",
     "venue": "San Moise",
-    "sorting_date": "1730-01-04"
+    "sorting_date": "1730-01-04",
+    "uid": 542
   },
   {
     "title": "La fede in cimento",
     "composer": "Santo Lapis",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1730-01-15"
+    "sorting_date": "1730-01-15",
+    "uid": 543
   },
   {
     "title": "Selim, gran Signor de' Turchi",
     "composer": "diverse composers",
     "writer": "Antonio Lucchini",
     "venue": "Santa Margherita",
-    "sorting_date": "1730-01-22"
+    "sorting_date": "1730-01-22",
+    "uid": 544
   },
   {
     "title": "Idaspe",
     "composer": "Riccardo Broschi",
     "writer": "Giovanni Battista Candi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1730-01-25"
+    "sorting_date": "1730-01-25",
+    "uid": 545
   },
   {
     "title": "L'Elenia",
     "composer": "Tomaso Albinoni",
     "writer": "Luisa Bergalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1730-01-28"
+    "sorting_date": "1730-01-28",
+    "uid": 546
   },
   {
     "title": "Statira",
     "composer": "Tomaso Albinoni",
     "writer": "Apostolo Zeno and Pietro Pariati",
     "venue": "Sant' Angelo",
-    "sorting_date": "1730-02-09"
+    "sorting_date": "1730-02-09",
+    "uid": 547
   },
   {
     "title": "Artaserse",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1730-02-11"
+    "sorting_date": "1730-02-11",
+    "uid": 548
   },
   {
     "title": "Dalisa",
     "composer": "Johann Adolf Hasse",
     "writer": "Nicolò Minato",
     "venue": "San Samuele",
-    "sorting_date": "1730-05-17"
+    "sorting_date": "1730-05-17",
+    "uid": 549
   },
   {
     "title": "La Silvia",
     "composer": "Bartolomeo Cordans",
     "writer": "Enrico Bissarri",
     "venue": "San Moise",
-    "sorting_date": "1730-10-29"
+    "sorting_date": "1730-10-29",
+    "uid": 550
   },
   {
     "title": "L'inganno felice",
     "composer": "diverse composers",
     "writer": "Francesco de Lemene",
     "venue": "Santa Margherita",
-    "sorting_date": "1730-10-29"
+    "sorting_date": "1730-10-29",
+    "uid": 551
   },
   {
     "title": "Didone abbandonata",
     "composer": "Domenico Sarri",
     "writer": "Giovanni Boldini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1730-11-24"
+    "sorting_date": "1730-11-24",
+    "uid": 552
   },
   {
     "title": "Il trionfo della costanza in Statira",
     "composer": "Antonio Galeazzi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1731-01-04"
+    "sorting_date": "1731-01-04",
+    "uid": 553
   },
   {
     "title": "Massimiano",
     "composer": "Giuseppe Maria Orlandini",
     "writer": "Pietro Pariati",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1731-01-06"
+    "sorting_date": "1731-01-06",
+    "uid": 554
   },
   {
     "title": "Romilda",
     "composer": "Bartolomeo Cordans",
     "writer": "Carlo Pagani-Cesa",
     "venue": "San Moise",
-    "sorting_date": "1731-01-06"
+    "sorting_date": "1731-01-06",
+    "uid": 555
   },
   {
     "title": "Armida al campo d'Egitto",
     "composer": "Antonio Vivaldi",
     "writer": "Giovanni Palazzi",
     "venue": "Santa Margherita",
-    "sorting_date": "1731-01-20"
+    "sorting_date": "1731-01-20",
+    "uid": 556
   },
   {
     "title": "L'odio vinto dalla costanza",
     "composer": "Antonio Vivaldi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1731-01-25"
+    "sorting_date": "1731-01-25",
+    "uid": 557
   },
   {
     "title": "Siroe, re di Persia",
     "composer": "Leonardo Vinci",
     "writer": "Pietro Metastasio, rev. Giovanni Boldini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1731-01-27"
+    "sorting_date": "1731-01-27",
+    "uid": 558
   },
   {
     "title": "Li sponsali d'Enea",
     "composer": "Bartolomeo Cordans",
     "writer": "Francesco Passarini, rev. Gio. Boldini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1731-05-02"
+    "sorting_date": "1731-05-02",
+    "uid": 559
   },
   {
     "title": "Artanaganamenone",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Moise",
-    "sorting_date": "1731-05-02"
+    "sorting_date": "1731-05-02",
+    "uid": 560
   },
   {
     "title": "Venere placata",
     "composer": "François Courcelle",
     "writer": "Claudio Nicola Stampa",
     "venue": "San Samuele",
-    "sorting_date": "1731-05-02"
+    "sorting_date": "1731-05-02",
+    "uid": 561
   },
   {
     "title": "Fidarsi e bene",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Moise",
-    "sorting_date": "1731-05-09"
+    "sorting_date": "1731-05-09",
+    "uid": 562
   },
   {
     "title": "Annibale",
     "composer": "Nicol Porpora",
     "writer": "Filippo Vanstryp",
     "venue": "Sant' Angelo",
-    "sorting_date": "1731-11-14"
+    "sorting_date": "1731-11-14",
+    "uid": 563
   },
   {
     "title": "Scipione il giovane",
     "composer": "Luca Antonio Predieri",
     "writer": "Gio. Francesco Bortolotti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1731-11-19"
+    "sorting_date": "1731-11-19",
+    "uid": 564
   },
   {
     "title": "La Rodelinda",
     "composer": "Bartolomeo Cordans",
     "writer": "Antonio Salvi, rev. Pietro Chechia",
     "venue": "San Moise",
-    "sorting_date": "1731-12-11"
+    "sorting_date": "1731-12-11",
+    "uid": 565
   },
   {
     "title": "Epaminonda",
     "composer": "Geminiano Giacomelli",
     "writer": "multiple authors",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1731-12-26"
+    "sorting_date": "1731-12-26",
+    "uid": 566
   },
   {
     "title": "Nino",
     "composer": "François Courcelle",
     "writer": "Vincenzo Cassani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1731-12-27"
+    "sorting_date": "1731-12-27",
+    "uid": 567
   },
   {
     "title": "Alessandro nell' Indie",
     "composer": "Giovanni Battista Pescetti",
     "writer": "Pietro Metastasio",
     "venue": "Sant' Angelo",
-    "sorting_date": "1732-01-30"
+    "sorting_date": "1732-01-30",
+    "uid": 568
   },
   {
     "title": "Gl'evenimenti di Ruggiero",
     "composer": "Tomaso Albinoni",
     "writer": "Antonio Marchi",
     "venue": "San Moise",
-    "sorting_date": "1732-02-06"
+    "sorting_date": "1732-02-06",
+    "uid": 569
   },
   {
     "title": "Il Demetrio",
     "composer": "Johann Adolf Hasse",
     "writer": "Giovanni Boldini",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1732-02-10"
+    "sorting_date": "1732-02-10",
+    "uid": 570
   },
   {
     "title": "Le metamorfosi odiamorosi in Birba trionfale nelle gare delle terre amanti",
     "composer": "Salvatore Apolloni",
     "writer": "Antonio Gori",
     "venue": "San Samuele",
-    "sorting_date": "1732-02-21"
+    "sorting_date": "1732-02-21",
+    "uid": 571
   },
   {
     "title": "Euristeo",
     "composer": "Johann Adolf Hasse",
     "writer": "Domenico Lalli",
     "venue": "San Samuele",
-    "sorting_date": "1732-05-21"
+    "sorting_date": "1732-05-21",
+    "uid": 572
   },
   {
     "title": "Chi non fa non falla",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1732-05-21"
+    "sorting_date": "1732-05-21",
+    "uid": 573
   },
   {
     "title": "L'ortolana contessa",
     "composer": "Giuseppe Maria Buini and others",
     "writer": "Giuseppe Maria Buini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1732-06-02"
+    "sorting_date": "1732-06-02",
+    "uid": 574
   },
   {
     "title": "L'Ardelinda",
     "composer": "Tomaso Albinoni",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1732-11-06"
+    "sorting_date": "1732-11-06",
+    "uid": 575
   },
   {
     "title": "L'Issipile",
     "composer": "Giovanni Porta",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1732-11-22"
+    "sorting_date": "1732-11-22",
+    "uid": 576
   },
   {
     "title": "La caduta di Leone",
     "composer": "Giuseppe Antonio Paganelli",
     "writer": "Carlo Pagani-Cesa",
     "venue": "Sant' Angelo",
-    "sorting_date": "1732-12-05"
+    "sorting_date": "1732-12-05",
+    "uid": 577
   },
   {
     "title": "Nitocri",
     "composer": "Giuseppe Sellitti",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1732-12-26"
+    "sorting_date": "1732-12-26",
+    "uid": 578
   },
   {
     "title": "Argenide",
     "composer": "Baldassare Galuppi",
     "writer": "Girolamo or Alvise Giusti",
     "venue": "Sant' Angelo",
-    "sorting_date": "1733-01-15"
+    "sorting_date": "1733-01-15",
+    "uid": 579
   },
   {
     "title": "Adriano in Siria",
     "composer": "Geminiano Giacomelli",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1733-01-30"
+    "sorting_date": "1733-01-30",
+    "uid": 580
   },
   {
     "title": "Tigrane",
     "composer": "Giuseppe Antonio Paganelli",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1733-02-10"
+    "sorting_date": "1733-02-10",
+    "uid": 581
   },
   {
     "title": "L'ambizione depressa",
     "composer": "Baldassare Galuppi",
     "writer": "Giuseppe Papis",
     "venue": "Sant' Angelo",
-    "sorting_date": "1733-05-13"
+    "sorting_date": "1733-05-13",
+    "uid": 582
   },
   {
     "title": "Ginevra",
     "composer": "Giuseppe Sellitti",
     "writer": "Antonio Salvi, rev. Giovanni Boldini",
     "venue": "San Samuele",
-    "sorting_date": "1733-05-13"
+    "sorting_date": "1733-05-13",
+    "uid": 583
   },
   {
     "title": "Montezuma",
     "composer": "Antonio Vivaldi",
     "writer": "Girolamo or Alvise Giusti",
     "venue": "Sant' Angelo",
-    "sorting_date": "1733-11-14"
+    "sorting_date": "1733-11-14",
+    "uid": 584
   },
   {
     "title": "Berenice",
     "composer": "Francesco Araya",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1733-12-26"
+    "sorting_date": "1733-12-26",
+    "uid": 585
   },
   {
     "title": "Candalide",
     "composer": "Tomaso Albinoni",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1734-01-05"
+    "sorting_date": "1734-01-05",
+    "uid": 586
   },
   {
     "title": "Dorilla in Tempe",
     "composer": "Antonio Vivaldi",
     "writer": "Ant. Maria Lucchini, rev. Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1734-01-26"
+    "sorting_date": "1734-01-26",
+    "uid": 587
   },
   {
     "title": "Artaserse",
     "composer": "Johann Adolf Hasse, rev. Baldassare Galuppi",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1734-01-30"
+    "sorting_date": "1734-01-30",
+    "uid": 588
   },
   {
     "title": "L'Olimpiade",
     "composer": "Antonio Vivaldi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1734-02-17"
+    "sorting_date": "1734-02-17",
+    "uid": 589
   },
   {
     "title": "Merope",
     "composer": "Geminiano Giacomelli",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1734-02-20"
+    "sorting_date": "1734-02-20",
+    "uid": 590
   },
   {
     "title": "Tirsi",
     "composer": null,
     "writer": "Pietro Chechia",
     "venue": "San Moise",
-    "sorting_date": "1734-02-22"
+    "sorting_date": "1734-02-22",
+    "uid": 591
   },
   {
     "title": "La ninfa Apollo",
     "composer": "Baldassare Galuppi",
     "writer": "Giovanni Boldini",
     "venue": "San Samuele",
-    "sorting_date": "1734-05-30"
+    "sorting_date": "1734-05-30",
+    "uid": 592
   },
   {
     "title": "Tamiri",
     "composer": "Baldassare Galuppi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1734-11-17"
+    "sorting_date": "1734-11-17",
+    "uid": 593
   },
   {
     "title": "Demofoonte",
     "composer": "Gaetano Maria Schiassi",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1734-12-26"
+    "sorting_date": "1734-12-26",
+    "uid": 594
   },
   {
     "title": "Lucio Vero",
     "composer": "Francesco Araya",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1735-01-04"
+    "sorting_date": "1735-01-04",
+    "uid": 595
   },
   {
     "title": "L'Anagilda",
     "composer": "Antonio Gaetano Pampani",
     "writer": "Antonio Zaniboni",
     "venue": "San Cassiano",
-    "sorting_date": "1735-01-05"
+    "sorting_date": "1735-01-05",
+    "uid": 596
   },
   {
     "title": "La clemenza di Tito",
     "composer": "Leonardo Leo",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1735-01-29"
+    "sorting_date": "1735-01-29",
+    "uid": 597
   },
   {
     "title": "Caio Fabrizio",
     "composer": "Johann Adolf Hasse",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1735-02-12"
+    "sorting_date": "1735-02-12",
+    "uid": 598
   },
   {
     "title": "Griselda",
     "composer": "Antonio Vivaldi",
     "writer": "Apostolo Zeno by Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1735-05-18"
+    "sorting_date": "1735-05-18",
+    "uid": 599
   },
   {
     "title": "L'inganno scoperto",
     "composer": "Antonio Vivaldi",
     "writer": "Alvise Giusti",
     "venue": "Sant' Angelo",
-    "sorting_date": "1735-11-12"
+    "sorting_date": "1735-11-12",
+    "uid": 600
   },
   {
     "title": "Cesare in Egitto",
     "composer": "Geminiano Giacomelli",
     "writer": "Giacomo Francesco Bussani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1735-11-24"
+    "sorting_date": "1735-11-24",
+    "uid": 601
   },
   {
     "title": "Venceslao",
     "composer": null,
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1735-12-26"
+    "sorting_date": "1735-12-26",
+    "uid": 602
   },
   {
     "title": "Elisa, regina di Tiro",
     "composer": "Baldassare Galuppi",
     "writer": "Domenico Lalli",
     "venue": "Sant' Angelo",
-    "sorting_date": "1735-12-27"
+    "sorting_date": "1735-12-27",
+    "uid": 603
   },
   {
     "title": "L'Alessandro nell' Indie",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio, rev. Michel Angiolo Boccardi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1736-01-28"
+    "sorting_date": "1736-01-28",
+    "uid": 604
   },
   {
     "title": "Mandane",
     "composer": "Ignazio Fiorillo",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1736-02-04"
+    "sorting_date": "1736-02-04",
+    "uid": 605
   },
   {
     "title": "La generosita politica",
     "composer": "Giovanni Maria Marchi",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1736-05-09"
+    "sorting_date": "1736-05-09",
+    "uid": 606
   },
   {
     "title": "La Zoe",
     "composer": "Luca Antonio Predieri",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1736-11-10"
+    "sorting_date": "1736-11-10",
+    "uid": 607
   },
   {
     "title": "Ergilda",
     "composer": "Baldassare Galuppi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1736-11-12"
+    "sorting_date": "1736-11-12",
+    "uid": 608
   },
   {
     "title": "L'Arsace",
     "composer": "Geminiano Giacomelli",
     "writer": "Giovanni Boldini",
     "venue": "San Cassiano",
-    "sorting_date": "1736-12-26"
+    "sorting_date": "1736-12-26",
+    "uid": 609
   },
   {
     "title": "Ciro riconosciuto",
     "composer": "Baldassare Galuppi",
     "writer": "Pietro Metastasio",
     "venue": "Sant' Angelo",
-    "sorting_date": "1737-01-05"
+    "sorting_date": "1737-01-05",
+    "uid": 610
   },
   {
     "title": "Il Demetrio",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1737-01-15"
+    "sorting_date": "1737-01-15",
+    "uid": 611
   },
   {
     "title": "Lugrezia romana in Costantinopoli",
     "composer": "Giacomo Maccari",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1737-02-09"
+    "sorting_date": "1737-02-09",
+    "uid": 612
   },
   {
     "title": "Artaserse Longimano",
     "composer": "Gaetano Antonio Pampani",
     "writer": "Giovanni Boldini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1737-02-19"
+    "sorting_date": "1737-02-19",
+    "uid": 613
   },
   {
     "title": "L'Alvilda",
     "composer": "Baldassare Galuppi",
     "writer": "Domenico Lalli",
     "venue": "San Samuele",
-    "sorting_date": "1737-05-29"
+    "sorting_date": "1737-05-29",
+    "uid": 614
   },
   {
     "title": "Ezio",
     "composer": "Giovanni Battista Lampugnani",
     "writer": "Pietro Metastasio",
     "venue": "Sant' Angelo",
-    "sorting_date": "1737-11-16"
+    "sorting_date": "1737-11-16",
+    "uid": 615
   },
   {
     "title": "Rosbale",
     "composer": "Nicolò Porpora",
     "writer": "Claudio Nicola Stampa",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1737-11-23"
+    "sorting_date": "1737-11-23",
+    "uid": 616
   },
   {
     "title": "Demofoonte",
     "composer": "Gaetano Latilla",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1737-12-26"
+    "sorting_date": "1737-12-26",
+    "uid": 617
   },
   {
     "title": "L'oracolo in Messenia",
     "composer": "Antonio Vivaldi",
     "writer": "Apostolo Zeno",
     "venue": "Sant' Angelo",
-    "sorting_date": "1737-12-28"
+    "sorting_date": "1737-12-28",
+    "uid": 618
   },
   {
     "title": "L'Alessandro nell'Indie",
     "composer": "Johann Adolf Hasse",
     "writer": "Michel Angiolo Boccardi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1738-01-15"
+    "sorting_date": "1738-01-15",
+    "uid": 619
   },
   {
     "title": "Rosmira",
     "composer": "Antonio Vivaldi et al",
     "writer": "Silvio Stampiglia",
     "venue": "Sant' Angelo",
-    "sorting_date": "1738-01-27"
+    "sorting_date": "1738-01-27",
+    "uid": 620
   },
   {
     "title": "Gianguir",
     "composer": "Antonio Giai",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1738-02-08"
+    "sorting_date": "1738-02-08",
+    "uid": 621
   },
   {
     "title": "Armida al campo d'Egitto",
     "composer": "Antonio Vivaldi",
     "writer": "Giovanni Palazzi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1738-02-12"
+    "sorting_date": "1738-02-12",
+    "uid": 622
   },
   {
     "title": "Angelica",
     "composer": "Giovanni Battista Lampugnani",
     "writer": "Carlo Vedova",
     "venue": "San Samuele",
-    "sorting_date": "1738-05-11"
+    "sorting_date": "1738-05-11",
+    "uid": 623
   },
   {
     "title": "L'Olimpiade",
     "composer": "Giovanni Battista Pergolesi",
     "writer": "Carlo Goldoni",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1738-11-22"
+    "sorting_date": "1738-11-22",
+    "uid": 624
   },
   {
     "title": "Argenide",
     "composer": "Pietro Chiarini",
     "writer": "Alvise or Girolamo Giusti",
     "venue": "Sant' Angelo",
-    "sorting_date": "1738-11-29"
+    "sorting_date": "1738-11-29",
+    "uid": 625
   },
   {
     "title": "Alessandro Severo",
     "composer": "Andrea Bernasconi",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1738-12-27"
+    "sorting_date": "1738-12-27",
+    "uid": 626
   },
   {
     "title": "Achille in Sciro",
     "composer": "Pietro Chiarini",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1739-01-10"
+    "sorting_date": "1739-01-10",
+    "uid": 627
   },
   {
     "title": "Viriate",
     "composer": "Johann Adolf Hasse",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1739-01-24"
+    "sorting_date": "1739-01-24",
+    "uid": 628
   },
   {
     "title": "Creusa",
     "composer": "Pietro Leone Cardena",
     "writer": "Urbano Rizzi",
     "venue": "San Samuele",
-    "sorting_date": "1739-05-06"
+    "sorting_date": "1739-05-06",
+    "uid": 629
   },
   {
     "title": "Feraspe",
     "composer": "Antonio Vivaldi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1739-11-07"
+    "sorting_date": "1739-11-07",
+    "uid": 630
   },
   {
     "title": "Farnace",
     "composer": "Rinaldo di Capua",
     "writer": "Carlo Goldoni",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1739-11-21"
+    "sorting_date": "1739-11-21",
+    "uid": 631
   },
   {
     "title": "Ottone",
     "composer": "Gennaro d'Alessandro",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1739-12-26"
+    "sorting_date": "1739-12-26",
+    "uid": 632
   },
   {
     "title": "Candaspe, regina de' sciti",
     "composer": "Giovanni Battista Casali",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1739-12-30"
+    "sorting_date": "1739-12-30",
+    "uid": 633
   },
   {
     "title": "Cleonice",
     "composer": "Johann Adolf Hasse",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1740-01-27"
+    "sorting_date": "1740-01-27",
+    "uid": 634
   },
   {
     "title": "Adriano in Siria",
     "composer": "Antonio Giai",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1740-02-06"
+    "sorting_date": "1740-02-06",
+    "uid": 635
   },
   {
     "title": "Tullo Ostilio",
     "composer": "Giovanni Battista Pescetti",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1740-02-19"
+    "sorting_date": "1740-02-19",
+    "uid": 636
   },
   {
     "title": "Gustavo primo, re di Svezia",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1740-05-25"
+    "sorting_date": "1740-05-25",
+    "uid": 637
   },
   {
     "title": "Zenobia",
     "composer": "Guglielmo Sbacci",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1740-11-12"
+    "sorting_date": "1740-11-12",
+    "uid": 638
   },
   {
     "title": "Candace, overo Li veri amici",
     "composer": "Gio. Battista Lampugnani",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1740-11-19"
+    "sorting_date": "1740-11-19",
+    "uid": 639
   },
   {
     "title": "Oronte, re de' sciti",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1740-12-26"
+    "sorting_date": "1740-12-26",
+    "uid": 640
   },
   {
     "title": "Artamene",
     "composer": "Tomaso Albinoni et al",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1740-12-26"
+    "sorting_date": "1740-12-26",
+    "uid": 641
   },
   {
     "title": "Berenice",
     "composer": "Baldassare Galuppi",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1741-01-27"
+    "sorting_date": "1741-01-27",
+    "uid": 642
   },
   {
     "title": "Didone abbandonata",
     "composer": "Andrea Bernasconi",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1741-01-28"
+    "sorting_date": "1741-01-28",
+    "uid": 643
   },
   {
     "title": "Statira",
     "composer": "Pietro Chiarini",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1741-05-10"
+    "sorting_date": "1741-05-10",
+    "uid": 644
   },
   {
     "title": "Il vincitor di se stesso",
     "composer": "Ignazio Fiorillo",
     "writer": "Antonio Zaniboni",
     "venue": "Sant' Angelo",
-    "sorting_date": "1741-11-04"
+    "sorting_date": "1741-11-04",
+    "uid": 645
   },
   {
     "title": "Tigrane",
     "composer": "Giuseppe Arena",
     "writer": "Francesco Silvani",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1741-11-18"
+    "sorting_date": "1741-11-18",
+    "uid": 646
   },
   {
     "title": "Merope",
     "composer": "Niccold Jommelli",
     "writer": "Bartolomeo Vitturi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1741-12-26"
+    "sorting_date": "1741-12-26",
+    "uid": 647
   },
   {
     "title": "Ambleto",
     "composer": "Giuseppe Carcani",
     "writer": "Apostolo Zeno and Pietro Pariati",
     "venue": "Sant' Angelo",
-    "sorting_date": "1741-12-26"
+    "sorting_date": "1741-12-26",
+    "uid": 648
   },
   {
     "title": "Statira",
     "composer": "Nicolò Porpora",
     "writer": "Carlo Goldoni",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1742-01-24"
+    "sorting_date": "1742-01-24",
+    "uid": 649
   },
   {
     "title": "Cirene",
     "composer": "Pietro Pellegrini",
     "writer": "Silvio Stampiglia",
     "venue": "Sant' Angelo",
-    "sorting_date": "1742-01-30"
+    "sorting_date": "1742-01-30",
+    "uid": 650
   },
   {
     "title": "La Zanina, maga per amore",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Moise",
-    "sorting_date": "1742-05-02"
+    "sorting_date": "1742-05-02",
+    "uid": 651
   },
   {
     "title": "Demetrio [or Cleonice]",
     "composer": "Christoph Willibald von Gluck",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1742-05-02"
+    "sorting_date": "1742-05-02",
+    "uid": 652
   },
   {
     "title": "Artaserse",
     "composer": "Giuseppe Antonio Paganelli",
     "writer": "Pietro Metastasio",
     "venue": "San Salvatore",
-    "sorting_date": "1742-05-02"
+    "sorting_date": "1742-05-02",
+    "uid": 653
   },
   {
     "title": "Bajazet",
     "composer": "Andrea Bernasconi",
     "writer": "Giacomo San Vitale",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1742-10-15"
+    "sorting_date": "1742-10-15",
+    "uid": 654
   },
   {
     "title": "Barsina",
     "composer": "Giuseppe Antonio Paganelli",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1742-11-10"
+    "sorting_date": "1742-11-10",
+    "uid": 655
   },
   {
     "title": "Semiramide",
     "composer": "Niccole Jommelli",
     "writer": "Domenico Fabris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1742-12-26"
+    "sorting_date": "1742-12-26",
+    "uid": 656
   },
   {
     "title": "Atalo",
     "composer": "Giovanni Chintzer",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1742-12-27"
+    "sorting_date": "1742-12-27",
+    "uid": 657
   },
   {
     "title": "Ambleto",
     "composer": "Giuseppe Carcani",
     "writer": "Pietro Pariati",
     "venue": "Sant' Angelo",
-    "sorting_date": "1743-01-19"
+    "sorting_date": "1743-01-19",
+    "uid": 658
   },
   {
     "title": "Alessandro nell' Indie",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1743-01-19"
+    "sorting_date": "1743-01-19",
+    "uid": 659
   },
   {
     "title": "Engelberta",
     "composer": "Giuseppe Antonio Paganelli",
     "writer": "Pietro Pariati",
     "venue": "San Cassiano",
-    "sorting_date": "1743-02-04"
+    "sorting_date": "1743-02-04",
+    "uid": 660
   },
   {
     "title": "Siroe",
     "composer": "Gennaro Manna",
     "writer": "Domenico Fabris",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1743-02-09"
+    "sorting_date": "1743-02-09",
+    "uid": 661
   },
   {
     "title": "La Contessina",
     "composer": "Giacomo Maccari",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1743-02-13"
+    "sorting_date": "1743-02-13",
+    "uid": 662
   },
   {
     "title": "Ezio",
     "composer": "Giovanni Battista Lampugnani",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1743-05-22"
+    "sorting_date": "1743-05-22",
+    "uid": 663
   },
   {
     "title": "La finta cameriera",
     "composer": "Gaetano Latilla",
     "writer": "Giovanni Barlocci",
     "venue": "Sant' Angelo",
-    "sorting_date": "1743-05-22"
+    "sorting_date": "1743-05-22",
+    "uid": 664
   },
   {
     "title": "Il troiano schernito in Cartagine nascente e moribonda",
     "composer": null,
     "writer": "Giuseppe Imer",
     "venue": "San Samuele",
-    "sorting_date": "1743-11-09"
+    "sorting_date": "1743-11-09",
+    "uid": 665
   },
   {
     "title": "Meride e Selinunte",
     "composer": "Pietro Chiarini",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1743-12-26"
+    "sorting_date": "1743-12-26",
+    "uid": 666
   },
   {
     "title": "La finta cameriera",
     "composer": "Gaetano Latilla",
     "writer": "Giovanni Barlocci",
     "venue": "San Moise",
-    "sorting_date": "1743-12-26"
+    "sorting_date": "1743-12-26",
+    "uid": 667
   },
   {
     "title": "Temistocle",
     "composer": "Andrea Bernasconi et al",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1744-01-11"
+    "sorting_date": "1744-01-11",
+    "uid": 668
   },
   {
     "title": "La Fiammetta",
     "composer": null,
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1744-01-15"
+    "sorting_date": "1744-01-15",
+    "uid": 669
   },
   {
     "title": "Artaserse",
     "composer": "Domenico (Domingo) Terradellas",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1744-02-06"
+    "sorting_date": "1744-02-06",
+    "uid": 670
   },
   {
     "title": "Orazio",
     "composer": "Gaetano Latilla, Pietro Auletta and others",
     "writer": "Antonio Palomba",
     "venue": "San Moise",
-    "sorting_date": "1744-02-06"
+    "sorting_date": "1744-02-06",
+    "uid": 671
   },
   {
     "title": "La finta schiava",
     "composer": "Giacomo Maccari",
     "writer": "Francesco Silvani et al",
     "venue": "Sant' Angelo",
-    "sorting_date": "1744-05-13"
+    "sorting_date": "1744-05-13",
+    "uid": 672
   },
   {
     "title": "Cesare in Egitto",
     "composer": "Antonio Colombo",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1744-05-13"
+    "sorting_date": "1744-05-13",
+    "uid": 673
   },
   {
     "title": "Origille",
     "composer": "Antonio Palella",
     "writer": "Antonio Palomba",
     "venue": "San Moise",
-    "sorting_date": "1744-10-18"
+    "sorting_date": "1744-10-18",
+    "uid": 674
   },
   {
     "title": "Madama Ciana",
     "composer": "Gaetano Latilla",
     "writer": "Giovanni Barlocci",
     "venue": "San Cassiano",
-    "sorting_date": "1744-11-03"
+    "sorting_date": "1744-11-03",
+    "uid": 675
   },
   {
     "title": "Don Saverio",
     "composer": "Giuseppe d' Avossa",
     "writer": "Antonio Palomba",
     "venue": "San Moise",
-    "sorting_date": "1744-11-14"
+    "sorting_date": "1744-11-14",
+    "uid": 676
   },
   {
     "title": "Ipermestra",
     "composer": "Christoph Willibald von Gluck",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1744-11-21"
+    "sorting_date": "1744-11-21",
+    "uid": 677
   },
   {
     "title": "La liberta nociva",
     "composer": "Rinaldo di Capua",
     "writer": "Giovanni Barlocci",
     "venue": "San Cassiano",
-    "sorting_date": "1744-11-22"
+    "sorting_date": "1744-11-22",
+    "uid": 678
   },
   {
     "title": "L'ambizione delusa",
     "composer": "Rinaldo di Capua",
     "writer": "Giovanni Barlocci",
     "venue": "San Cassiano",
-    "sorting_date": "1744-12-05"
+    "sorting_date": "1744-12-05",
+    "uid": 679
   },
   {
     "title": "Semiramide riconosciuta",
     "composer": "Johann Adolf Hasse",
     "writer": "Simone Falconio Pratoli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1744-12-26"
+    "sorting_date": "1744-12-26",
+    "uid": 680
   },
   {
     "title": "La finta cameriera",
     "composer": "Baldassare Galuppi",
     "writer": "Giovanni Barlocci and others",
     "venue": "San Cassiano",
-    "sorting_date": "1744-12-26"
+    "sorting_date": "1744-12-26",
+    "uid": 681
   },
   {
     "title": "Emira",
     "composer": "Leonardo Leo",
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1745-01-16"
+    "sorting_date": "1745-01-16",
+    "uid": 682
   },
   {
     "title": "La forza d'amore",
     "composer": "Baldassare Galuppi",
     "writer": "Demetrio Panicelli",
     "venue": "San Cassiano",
-    "sorting_date": "1745-01-30"
+    "sorting_date": "1745-01-30",
+    "uid": 683
   },
   {
     "title": "Antigono",
     "composer": "Andrea Bernasconi",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1745-02-13"
+    "sorting_date": "1745-02-13",
+    "uid": 684
   },
   {
     "title": "Nicoraste, re di Tracia",
     "composer": "Giovanni Battista Pattoni",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1745-05-22"
+    "sorting_date": "1745-05-22",
+    "uid": 685
   },
   {
     "title": "L'Olimpiade",
     "composer": "Ignazio Fiorillo",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1745-05-22"
+    "sorting_date": "1745-05-22",
+    "uid": 686
   },
   {
     "title": "Lo scialaquatore alla fiera",
     "composer": "Giuseppe Orlandini et al",
     "writer": "Ambrosio Borghese",
     "venue": "San Cassiano",
-    "sorting_date": "1745-10-04"
+    "sorting_date": "1745-10-04",
+    "uid": 687
   },
   {
     "title": "Il Pandolfo",
     "composer": "Giuseppe Scolari",
     "writer": "Giovanni Barlocci",
     "venue": "San Samuele",
-    "sorting_date": "1745-10-05"
+    "sorting_date": "1745-10-05",
+    "uid": 688
   },
   {
     "title": "I rigiri delle cantarine",
     "composer": "Francesco Maggiore",
     "writer": "Bartolomeo Vitturi",
     "venue": "San Cassiano",
-    "sorting_date": "1745-11-26"
+    "sorting_date": "1745-11-26",
+    "uid": 689
   },
   {
     "title": "Ariodante",
     "composer": "Georg Christoph Wagenseil",
     "writer": "Antonio Salvi",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1745-11-26"
+    "sorting_date": "1745-11-26",
+    "uid": 690
   },
   {
     "title": "Sofonisba",
     "composer": "Niccole Jommelli",
     "writer": "Anton Maria and Girolamo Zanetti",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1745-12-26"
+    "sorting_date": "1745-12-26",
+    "uid": 691
   },
   {
     "title": "Orlando furioso",
     "composer": null,
     "writer": "Grazio Braccioli",
     "venue": "San Moise",
-    "sorting_date": "1745-12-26"
+    "sorting_date": "1745-12-26",
+    "uid": 692
   },
   {
     "title": "La vedova accorta",
     "composer": "Ferdinando Bertoni et al",
     "writer": "Ambrosio Borghese",
     "venue": "San Cassiano",
-    "sorting_date": "1746-01-15"
+    "sorting_date": "1746-01-15",
+    "uid": 693
   },
   {
     "title": "Armida abbandonata",
     "composer": "Andrea Adolfati et al",
     "writer": "Francesco Silvani",
     "venue": "San Moise",
-    "sorting_date": "1746-01-22"
+    "sorting_date": "1746-01-22",
+    "uid": 694
   },
   {
     "title": "Artaserse",
     "composer": "Girolamo Abbos",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1746-01-28"
+    "sorting_date": "1746-01-28",
+    "uid": 695
   },
   {
     "title": "La fata meravigliosa",
     "composer": "Giuseppe Scolari",
     "writer": "Ambrosio Borghese",
     "venue": "San Cassiano",
-    "sorting_date": "1746-02-08"
+    "sorting_date": "1746-02-08",
+    "uid": 696
   },
   {
     "title": "Armida al campo",
     "composer": "multiple composers",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1746-05-18"
+    "sorting_date": "1746-05-18",
+    "uid": 697
   },
   {
     "title": "La facendiera",
     "composer": null,
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1746-05-18"
+    "sorting_date": "1746-05-18",
+    "uid": 698
   },
   {
     "title": "Orazio [e] Curiazio",
     "composer": "Ferdinando Bertoni",
     "writer": "Simeone Antonio Sografi",
     "venue": "San Samuele",
-    "sorting_date": "1746-05-18"
+    "sorting_date": "1746-05-18",
+    "uid": 699
   },
   {
     "title": "Cesare in Egitto",
     "composer": "Antonio Colombo",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1746-10-08"
+    "sorting_date": "1746-10-08",
+    "uid": 700
   },
   {
     "title": "Zenobia",
     "composer": "Girolamo Michelli",
     "writer": "Pietro Metastasio",
     "venue": "San Moise",
-    "sorting_date": "1746-10-22"
+    "sorting_date": "1746-10-22",
+    "uid": 701
   },
   {
     "title": "Alcibiade",
     "composer": "Giuseppe Carcani",
     "writer": "Gaetano Roccaforte",
     "venue": "San Cassiano",
-    "sorting_date": "1746-10-29"
+    "sorting_date": "1746-10-29",
+    "uid": 702
   },
   {
     "title": "Scipione nelle Spagne",
     "composer": "Baldassare Galuppi",
     "writer": null,
     "venue": "Sant' Angelo",
-    "sorting_date": "1746-11-05"
+    "sorting_date": "1746-11-05",
+    "uid": 703
   },
   {
     "title": "Tito Manlio",
     "composer": "Niccole Jommelli",
     "writer": "Matteo Noris et al",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1746-11-12"
+    "sorting_date": "1746-11-12",
+    "uid": 704
   },
   {
     "title": "Armida",
     "composer": "Ferdinando Bertoni",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1746-12-26"
+    "sorting_date": "1746-12-26",
+    "uid": 705
   },
   {
     "title": "Il Demetrio",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1746-12-26"
+    "sorting_date": "1746-12-26",
+    "uid": 706
   },
   {
     "title": "Il Catone in Utica",
     "composer": "Niccold Jommelli",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1746-12-26"
+    "sorting_date": "1746-12-26",
+    "uid": 707
   },
   {
     "title": "L'Olimpiade",
     "composer": "Giuseppe Scolari",
     "writer": "Pietro Metastasio",
     "venue": "San Moise",
-    "sorting_date": "1747-01-15"
+    "sorting_date": "1747-01-15",
+    "uid": 708
   },
   {
     "title": "Caio Marzio Coriolano",
     "composer": "Pietro Pulli",
     "writer": "Abbot Zaccaria Seriman",
     "venue": "San Cassiano",
-    "sorting_date": "1747-01-21"
+    "sorting_date": "1747-01-21",
+    "uid": 709
   },
   {
     "title": "Pompeo in Armenia",
     "composer": "Giuseppe Scarlatti",
     "writer": "Bartolomeo Vitturi",
     "venue": "Sant' Angelo",
-    "sorting_date": "1747-01-21"
+    "sorting_date": "1747-01-21",
+    "uid": 710
   },
   {
     "title": "Ezio",
     "composer": "Giovanni Battista Pescetti",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1747-01-28"
+    "sorting_date": "1747-01-28",
+    "uid": 711
   },
   {
     "title": "La caduta d'Amulio",
     "composer": "Antonio Gaetano Pampani",
     "writer": "Carlo Gandini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1747-02-06"
+    "sorting_date": "1747-02-06",
+    "uid": 712
   },
   {
     "title": "Tigrane",
     "composer": "Giovanni Battista Lampugnani",
     "writer": "Francesco Silvani",
     "venue": "Sant' Angelo",
-    "sorting_date": "1747-05-10"
+    "sorting_date": "1747-05-10",
+    "uid": 713
   },
   {
     "title": "La finta pazza",
     "composer": null,
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1747-05-10"
+    "sorting_date": "1747-05-10",
+    "uid": 714
   },
   {
     "title": "Achille in Sciro",
     "composer": "Gioan Battista Runcher",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1747-05-10"
+    "sorting_date": "1747-05-10",
+    "uid": 715
   },
   {
     "title": "Il protettore alla moda",
     "composer": null,
     "writer": "Giuseppe Maria Buini",
     "venue": "San Moise",
-    "sorting_date": "1747-10-28"
+    "sorting_date": "1747-10-28",
+    "uid": 716
   },
   {
     "title": "L'Arminio",
     "composer": "Baldassare Galuppi",
     "writer": "Antonio Salvi",
     "venue": "San Cassiano",
-    "sorting_date": "1747-11-04"
+    "sorting_date": "1747-11-04",
+    "uid": 717
   },
   {
     "title": "Il re dispietato",
     "composer": null,
     "writer": null,
     "venue": "Sant' Angelo",
-    "sorting_date": "1747-11-11"
+    "sorting_date": "1747-11-11",
+    "uid": 718
   },
   {
     "title": "La vanita delusa",
     "composer": null,
     "writer": "Antonio Gori",
     "venue": "San Moise",
-    "sorting_date": "1747-12-26"
+    "sorting_date": "1747-12-26",
+    "uid": 719
   },
   {
     "title": "L' Adriano",
     "composer": "Vincenzo Ciampi",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1748-01-16"
+    "sorting_date": "1748-01-16",
+    "uid": 720
   },
   {
     "title": "La finta pazzia di Diana",
     "composer": "Luca Antonio Predieri",
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1748-01-23"
+    "sorting_date": "1748-01-23",
+    "uid": 721
   },
   {
     "title": "Ipermestra",
     "composer": "Ferdinando Bertoni",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1748-05-22"
+    "sorting_date": "1748-05-22",
+    "uid": 722
   },
   {
     "title": "Li tre cicisbei ridicoli",
     "composer": "Natale Resta",
     "writer": "Carlo Antonio Vasini",
     "venue": "Sant' Angelo",
-    "sorting_date": "1748-05-22"
+    "sorting_date": "1748-05-22",
+    "uid": 723
   },
   {
     "title": "Orazio",
     "composer": "Pietro Auletta",
     "writer": "Antonio Palomba",
     "venue": "Sant' Angelo",
-    "sorting_date": "1748-05-29"
+    "sorting_date": "1748-05-29",
+    "uid": 724
   },
   {
     "title": "La semplice spiritosa",
     "composer": "Giovanni (?) Fiorini",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1748-11-04"
+    "sorting_date": "1748-11-04",
+    "uid": 725
   },
   {
     "title": "Clotilde",
     "composer": "Baldassare Galuppi",
     "writer": "Francesco Passarini",
     "venue": "San Cassiano",
-    "sorting_date": "1748-11-09"
+    "sorting_date": "1748-11-09",
+    "uid": 726
   },
   {
     "title": "Evergete",
     "composer": "Lorenzo Gibelli",
     "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1748-11-16"
+    "sorting_date": "1748-11-16",
+    "uid": 727
   },
   {
     "title": "La scuola moderna",
     "composer": "Giovanni Fiorini",
     "writer": "A. Palomba",
     "venue": "San Moise",
-    "sorting_date": "1748-11-30"
+    "sorting_date": "1748-11-30",
+    "uid": 728
   },
   {
     "title": "Demofoonte",
     "composer": "Johann Adolf Hasse",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1748-12-26"
+    "sorting_date": "1748-12-26",
+    "uid": 729
   },
   {
     "title": "Camilla, regina de' volsci",
     "composer": null,
     "writer": "Silvio Stampiglia",
     "venue": "San Cassiano",
-    "sorting_date": "1748-12-28"
+    "sorting_date": "1748-12-28",
+    "uid": 730
   },
   {
     "title": "Bertoldo, Bertoldino, e Cacasenno",
     "composer": "Vincenzo Ciampi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1749-01-04"
+    "sorting_date": "1749-01-04",
+    "uid": 731
   },
   {
     "title": "Il vello d'oro",
     "composer": "Giuseppe Scolari",
     "writer": "Matteo Zanetti",
     "venue": "San Cassiano",
-    "sorting_date": "1749-01-22"
+    "sorting_date": "1749-01-22",
+    "uid": 732
   },
   {
     "title": "Anagilda",
     "composer": null,
     "writer": "Girolamo Gigli",
     "venue": "San Moise",
-    "sorting_date": "1749-01-29"
+    "sorting_date": "1749-01-29",
+    "uid": 733
   },
   {
     "title": "La commedia in commedia",
     "composer": "Rinaldo di Capua",
     "writer": "Giovanni Barlocci",
     "venue": "San Cassiano",
-    "sorting_date": "1749-02-02"
+    "sorting_date": "1749-02-02",
+    "uid": 734
   },
   {
     "title": "Leucippo",
     "composer": "Johann Adolf Hasse",
     "writer": "Giovanni Claudio Pasquini",
     "venue": "San Samuele",
-    "sorting_date": "1749-05-14"
+    "sorting_date": "1749-05-14",
+    "uid": 735
   },
   {
     "title": "Tra due litiganti il terzo gode",
     "composer": "Gio. Battista Pescetti",
     "writer": "Giovanni Battista Lorenzi",
     "venue": "San Cassiano",
-    "sorting_date": "1749-05-14"
+    "sorting_date": "1749-05-14",
+    "uid": 736
   },
   {
     "title": "L'Arcadia in Brenta",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "Sant' Angelo",
-    "sorting_date": "1749-05-14"
+    "sorting_date": "1749-05-14",
+    "uid": 737
   },
   {
     "title": "Il finto principe",
     "composer": "multiple composers",
     "writer": "Carlo Goldoni",
     "venue": "San Cassiano",
-    "sorting_date": "1749-11-01"
+    "sorting_date": "1749-11-01",
+    "uid": 738
   },
   {
     "title": "Il negligente",
     "composer": "Vincenzo Ciampi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1749-11-11"
+    "sorting_date": "1749-11-11",
+    "uid": 739
   },
   {
     "title": "L'Arcadia in Brenta",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1749-11-13"
+    "sorting_date": "1749-11-13",
+    "uid": 740
   },
   {
     "title": "Ciro riconosciuto",
     "composer": "Niccole Jommelli",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1749-11-15"
+    "sorting_date": "1749-11-15",
+    "uid": 741
   },
   {
     "title": "Il protettore alla moda",
     "composer": "Giuseppe Maria Buini",
     "writer": "Giuseppe Maria Buini",
     "venue": "San Cassiano",
-    "sorting_date": "1749-11-29"
+    "sorting_date": "1749-11-29",
+    "uid": 742
   },
   {
     "title": "Siroe",
     "composer": "Gioacchino Cocchi",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1749-12-26"
+    "sorting_date": "1749-12-26",
+    "uid": 743
   },
   {
     "title": "Arcifanfano, re dei matti",
     "composer": "Baldassare Galuppi*",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1749-12-27"
+    "sorting_date": "1749-12-27",
+    "uid": 744
   },
   {
     "title": "Alcimena, principessa dell'isole fortunate, ossia L'amore fortunato ne' suoi disprezzi",
     "composer": "Baldassare Galuppi",
     "writer": "Pietro Chiari",
     "venue": "San Cassiano",
-    "sorting_date": "1750-01-10"
+    "sorting_date": "1750-01-10",
+    "uid": 745
   },
   {
     "title": "Artaserse",
     "composer": "Antonio Gaetano Pampani",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1750-01-24"
+    "sorting_date": "1750-01-24",
+    "uid": 746
   },
   {
     "title": "Il mondo della luna",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1750-01-29"
+    "sorting_date": "1750-01-29",
+    "uid": 747
   },
   {
     "title": "Ernelinda",
     "composer": "Francesco Gasparini and Antonio Vivaldi",
     "writer": "Francesco Silvani",
     "venue": "San Cassiano",
-    "sorting_date": "1750-01-31"
+    "sorting_date": "1750-01-31",
+    "uid": 748
   },
   {
     "title": "Imeneo in Atene",
     "composer": "Domenico (Domingo) Terradellas",
     "writer": "Silvio Stampiglia",
     "venue": "San Samuele",
-    "sorting_date": "1750-05-06"
+    "sorting_date": "1750-05-06",
+    "uid": 749
   },
   {
     "title": "Amore in tarantola",
     "composer": "Gaetano Latilla",
     "writer": "Carlo Vaccini",
     "venue": "San Moise",
-    "sorting_date": "1750-11-13"
+    "sorting_date": "1750-11-13",
+    "uid": 750
   },
   {
     "title": "Il mondo alla roversa, o sia Le donne che comandano",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Cassiano",
-    "sorting_date": "1750-11-14"
+    "sorting_date": "1750-11-14",
+    "uid": 751
   },
   {
     "title": "Merope",
     "composer": "David Perez",
     "writer": "Apostolo Zeno",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1750-11-19"
+    "sorting_date": "1750-11-19",
+    "uid": 752
   },
   {
     "title": "Il paese della Cuccagna",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1750-12-01"
+    "sorting_date": "1750-12-01",
+    "uid": 753
   },
   {
     "title": "Arianna e Teseo",
     "composer": "Girolamo Abbos",
     "writer": "Pietro Pariati",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1750-12-26"
+    "sorting_date": "1750-12-26",
+    "uid": 754
   },
   {
     "title": "Arcifanfano, re de' matti",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Moise",
-    "sorting_date": "1750-12-26"
+    "sorting_date": "1750-12-26",
+    "uid": 755
   },
   {
     "title": "La mascherata",
     "composer": "Gioacchino Cocchi",
     "writer": "Carlo Goldoni",
     "venue": "San Cassiano",
-    "sorting_date": "1750-12-27"
+    "sorting_date": "1750-12-27",
+    "uid": 756
   },
   {
     "title": "L'opera in prova alla moda",
     "composer": "Gaetano Latilla",
     "writer": "Giovanni Fiorini",
     "venue": "San Moise",
-    "sorting_date": "1751-01-23"
+    "sorting_date": "1751-01-23",
+    "uid": 757
   },
   {
     "title": "Didone abbandonata",
     "composer": "Gennaro Manna",
     "writer": "Pietro Metastasio",
     "venue": "San Giovanni Grisostomo",
-    "sorting_date": "1751-01-30"
+    "sorting_date": "1751-01-30",
+    "uid": 758
   },
   {
     "title": "Le donne vendicate",
     "composer": "Gioacchino Cocchi",
     "writer": "Gioacchino Cocchi",
     "venue": "San Cassiano",
-    "sorting_date": "1751-01-30"
+    "sorting_date": "1751-01-30",
+    "uid": 759
   },
   {
     "title": "Demetrio",
     "composer": "David Perez",
     "writer": "Pietro Metastasio",
     "venue": "San Samuele",
-    "sorting_date": "1751-05-19"
+    "sorting_date": "1751-05-19",
+    "uid": 760
   },
   {
     "title": "Statira",
     "composer": "Francesco Maggiore et al",
     "writer": "Carlo Goldoni",
     "venue": "Sant' Angelo",
-    "sorting_date": "1751-05-19"
+    "sorting_date": "1751-05-19",
+    "uid": 761
   },
   {
     "title": "La pastorella al soglio",
     "composer": "Gaetano Latilla",
     "writer": "Giovanni Carlo Pagani-Cesa",
     "venue": "San Moise",
-    "sorting_date": "1751-05-19"
+    "sorting_date": "1751-05-19",
+    "uid": 762
   },
   {
     "title": "Griselda",
     "composer": "Gaetano Latilla",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1751-11-11"
+    "sorting_date": "1751-11-11",
+    "uid": 763
   },
   {
     "title": "Il conte Caramella",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1751-11-13"
+    "sorting_date": "1751-11-13",
+    "uid": 764
   },
   {
     "title": "Gl'impostori",
     "composer": "Gaetano Latilla",
     "writer": null,
     "venue": "San Moise",
-    "sorting_date": "1751-11-15"
+    "sorting_date": "1751-11-15",
+    "uid": 765
   },
   {
     "title": "Le pescatrici",
     "composer": "Ferdinando Bertoni",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1751-12-26"
+    "sorting_date": "1751-12-26",
+    "uid": 766
   },
   {
     "title": "L'isola d'amore",
     "composer": "Gaetano Latilla",
     "writer": "Gasparo Gozzi",
     "venue": "San Moise",
-    "sorting_date": "1751-12-26"
+    "sorting_date": "1751-12-26",
+    "uid": 767
   },
   {
     "title": "Venceslao",
     "composer": "Antonio Gaetano Pampani",
     "writer": "Apostolo Zeno",
     "venue": "San Cassiano",
-    "sorting_date": "1752-01-10"
+    "sorting_date": "1752-01-10",
+    "uid": 768
   },
   {
     "title": "Le virtuose ridicole",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1752-01-17"
+    "sorting_date": "1752-01-17",
+    "uid": 769
   },
   {
     "title": "L' Adriano in Siria",
     "composer": "Giuseppe Scarlatti",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1752-01-26"
+    "sorting_date": "1752-01-26",
+    "uid": 770
   },
   {
     "title": "I tre cicisbei ridicoli",
     "composer": "Natale Resta",
     "writer": "Carlo Antonio Vasini",
     "venue": "San Moise",
-    "sorting_date": "1752-02-03"
+    "sorting_date": "1752-02-03",
+    "uid": 771
   },
   {
     "title": "Antigono",
     "composer": "Ferdinando Bertoni",
     "writer": "Pietro Metastasio",
     "venue": "San Moise",
-    "sorting_date": "1752-11-04"
+    "sorting_date": "1752-11-04",
+    "uid": 772
   },
   {
     "title": "I portentosi effeti della Madre Natura",
     "composer": "Gius. Scarlatti",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1752-11-11"
+    "sorting_date": "1752-11-11",
+    "uid": 773
   },
   {
     "title": "L' Olimpiade",
     "composer": "Gaetano Latilla",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1752-11-18"
+    "sorting_date": "1752-11-18",
+    "uid": 774
   },
   {
     "title": "La Calamita de' Cuori",
     "composer": "Baldassare Galuppi",
     "writer": "Carlo Goldoni",
     "venue": "San Samuele",
-    "sorting_date": "1752-12-26"
+    "sorting_date": "1752-12-26",
+    "uid": 775
   },
   {
     "title": "Alessandro nell' Indie",
     "composer": "Gaetano Latilla et al",
     "writer": "Pietro Metastasio",
     "venue": "San Cassiano",
-    "sorting_date": "1752-12-26"
+    "sorting_date": "1752-12-26",
+    "uid": 776
   },
   {
     "title": "Il re pastore",
     "composer": "Giuseppe Sarti",
     "writer": "Pietro Metastasio",
     "venue": "San Moise",
-    "sorting_date": "1752-12-28"
+    "sorting_date": "1752-12-28",
+    "uid": 777
   }
 ]
