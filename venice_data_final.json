@@ -2298,7 +2298,7 @@
   {
     "title": "Artaserse",
     "composer": "Antonio Giannettini",
-    "writer": "Apostolo Zeno by Pietro Pariati",
+    "writer": "Pietro Pariati",
     "venue": "Sant' Angelo",
     "sorting_date": "1705-01-16",
     "uid": 288
@@ -2322,7 +2322,7 @@
   {
     "title": "Antioco",
     "composer": "Francesco Gasparini",
-    "writer": "Apostolo Zeno by Pietro Pariati",
+    "writer": "Pietro Pariati",
     "venue": "San Cassiano",
     "sorting_date": "1705-11-10",
     "uid": 291
@@ -2354,7 +2354,7 @@
   {
     "title": "Ambleto",
     "composer": "Francesco Gasparini",
-    "writer": "Apostolo Zeno by Pietro Pariati",
+    "writer": "Pietro Pariati",
     "venue": "San Cassiano",
     "sorting_date": "1705-12-26",
     "uid": 295
@@ -2378,7 +2378,7 @@
   {
     "title": "Statira",
     "composer": "Francesco Gasparini",
-    "writer": "Apostolo Zeno by Pietro Pariati",
+    "writer": "Pietro Pariati",
     "venue": "San Cassiano",
     "sorting_date": "1706-02-03",
     "uid": 298
@@ -2546,7 +2546,7 @@
   {
     "title": "Flavio Anicio Olibrio",
     "composer": "Francesco Gasparini",
-    "writer": "Apostolo Zeno by Pietro Pariati",
+    "writer": "Pietro Pariati",
     "venue": "San Cassiano",
     "sorting_date": "1708-01-30",
     "uid": 319
@@ -3546,7 +3546,7 @@
   {
     "title": "L'inganno fortunato",
     "composer": "Giuseppe Boniventi",
-    "writer": "G. B. Sara by Bartolomeo Pavieri",
+    "writer": " Bartolomeo Pavieri",
     "venue": "San Moise",
     "sorting_date": "1721-10-11",
     "uid": 444
@@ -4314,7 +4314,7 @@
   {
     "title": "Mitridate",
     "composer": "Giovanni Antonio Giai",
-    "writer": "Apostolo Zeno by Domenico Lalli",
+    "writer": "Domenico Lalli",
     "venue": "San Giovanni Grisostomo",
     "sorting_date": "1729-12-26",
     "uid": 540
@@ -4786,7 +4786,7 @@
   {
     "title": "Griselda",
     "composer": "Antonio Vivaldi",
-    "writer": "Apostolo Zeno by Carlo Goldoni",
+    "writer": "Carlo Goldoni",
     "venue": "San Samuele",
     "sorting_date": "1735-05-18",
     "uid": 599
