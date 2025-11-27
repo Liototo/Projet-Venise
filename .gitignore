@@ -2,3 +2,4 @@
 /.vscode
 venice_data.json
 NER demo/.vscode/settings.json
+/__pycache__

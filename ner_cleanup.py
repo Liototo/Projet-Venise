@@ -6,6 +6,7 @@ undesired_entities = [
     "St. Stephen's",    # Markers of time periods an opera was performed in during a certain year
     "St. Martin's",
     "St. Luke's",
+    "St. Andrew's",
     "Ascension",
     "Bonlini",          # Musicologists the opera list is based on
     "Groppo",
@@ -13,16 +14,34 @@ undesired_entities = [
     "Galvani",
     "Galvani SSal",
     "Wiel",
+    "Alm",
     "Giovanni",         # Not enough information to accurately identify the entities
     "Angelo",
     "Paolo",
     "Gio",
     "Marc",
     "Pietro",
-    "Giovanni Rossi",   # Unusable for various reasons
+    "Grimani",
+    "Massi",
+    "Pollarolo",
+    "Alexander",
+    "Gasparini",
+    "Ferdinand",
+    "Antonio",
+    "Europe",
+    "Giuseppe",
+    "Giovanni Rossi",   # Entities mostly found in footnotes -> impossible to link to right entries
+    "San Marco",
+    "Notatorio",
+    "Johann Friedrich",
+    "Stieger",
+    "Rosand",
     "Arias",            # Elements wrongly identified as entities
+    "Aria",
     "US",
     "Performed",
+    "Performed at",
+    "M1 Performed",
     "Diario",
     "La",
     "pp",
@@ -34,6 +53,9 @@ undesired_entities = [
     "Suppl",
     "Repertoire",
     "Carteggio da Venezia",
+    "Opera",
+    "Opernlexikon",
+    "Florentine Theater"
 ]
 
 
@@ -41,13 +63,11 @@ undesired_entities = [
 
 probably_good_entities = [
     "Naples",               # Cities/Regions other than Venice
-    "Neapolitan",
     "Rome",
     "London",
     "Vienna",
     "Bologna",
     "Mantua",
-    "Mantuan",
     "Milan",
     "Florence",
     "Verona",
@@ -59,30 +79,108 @@ probably_good_entities = [
     "England",
     "France",
     "Prague",
+    "Spain",
+    "Poland",
+    "Ferrara",
+    "Bavaria",
+    "Sicily",
+    "Turin",
+    "Austria",
+    "Genoa",
+    "Germany",
+    "Brescia",
+    "Brunswick",
+    "Munich",
+    "Egypt",
+    "Parma",
+    "Treviso",
+    "Saxony",
+    "Persia",
+    "Macedonia",
     "Pietro Metastasio",    # The composers/librettists of the operas
-    "Metastasio",
     "Antonio Vivaldi",
-    "Vivaldi",
     "Francesco Silvani",
-    "Silvani",
     "Carlo Francesco Pollarolo",
     "Apostolo Zeno",
-    "Zeno",
-    "Goldoni",
+    "Carlo Goldoni",
     "Tomaso Albinoni",
-    "Albinoni",
-    "Grimani",
-    "Antonio Ziani",
-    "Caldara",
-    "Handel",
-    "Galuppi",
+    "Marc' Antonio Ziani",
+    "Antonio Caldara",
+    "Georg Frideric Handel",
+    "Giuseppe Galuppi",
     "Domenico Lalli",
     "Carlo Pallavicino",
     "Francesco Gasparini",
-    "Hasse",
+    "Johann Adolf Hasse",
+    "Nicolò Porpora",
+    "Giuseppe Orlandini",
+    "Pietro Pariati",
+    "Geminiano Giacomelli",
+    "Antonio Sartorio",
+    "Niccolò Jommelli",
+    "Aurelio Aureli",
+    "Antonio Lotti",
+    "Giuseppe Maria Buini",
+    "Nicolò Minato",
+    "Antonio Salvi",
+    "Giovanni Porta",
     "San Cassiano",     # The theaters
     "San Salvatore",
     "San Samuele",
+    "San Giovanni",
+    "San Fantin",
+    "Faustina Bordoni", # Other people linked to the theater world (actors, foreign playwrights, etc.)
+    "Pierre Corneille",
+    "Domenico Cecchi",
+    "Ferdinand Carlo Gonzaga", # People operas are dedicated to
 ]
 
-STOPPED AT HASSE
+# A list of similar entities to merge
+entity_synonyms = {
+    "Naples": ["Naples", "Neapolitan"],
+    "Mantua": ["Mantua", "Mantuan"],
+    "Florence": ["Florence", "Florentine"],
+    "Padua": ["Padua", "Paduan", "Padua.\n"],
+    "Pietro Metastasio": ["Pietro Metastasio", "Metastasio", "Pietro Metastasio\nPerformed", "Pietro Metastasio'"],
+    "Antonio Vivaldi": ["Antonio Vivaldi", "Vivaldi"],
+    "Francesco Silvani": ["Francesco Silvani", "Silvani", "Francesco Silvani'", "Francesco Silvani\nPerformed"],
+    "Carlo Francesco Pollarolo": ["Carlo Francesco Pollarolo", "C. F. Pollarolo"],
+    "Apostolo Zeno": ["Apostolo Zeno", "Zeno", "Apostolo Zeno\nPerformed"],
+    "Carlo Goldoni": ["Carlo Goldoni", "Goldoni", "Ca' Goldoni", "Carlo Goldoni\nPerformed"],
+    "Tomaso Albinoni": ["Tomaso Albinoni", "Albinoni"],
+    "Marc' Antonio Ziani": ["Antonio Ziani", "M. A. Ziani"],
+    "Antonio Caldara": ["Antonio Caldara", "Caldara"],
+    "Domenico Lalli": ["Domenico Lalli", "Lalli", "Domenico Lalli\nPerformed"],
+    "Carlo Pallavicino": ["Carlo Pallavicino", "Pallavicino"],
+    "San Cassiano": ["San Cassiano", "San Cassiano's"],
+    "San Salvatore": ["San Salvatore", "San Salvatore's", "San\nSalvatore"],
+    "Nicolò Porpora": ["Porpora", "Nicold Porpora", "Nicole Porpora"],
+    "Giuseppe Orlandini": ["Giuseppe Orlandini", "Giuseppe Maria Orlandini", "Orlandini"],
+    "Pietro Pariati": ["Pietro Pariati", "Pariati", "Pietro Pariati'"],
+    "San Giovanni Grisostomo": ["San Giovanni Grisostomo", "San Giovanni", "San Giovanni\nGrisostomo"],
+    "Geminiano Giacomelli": ["Geminiano Giacomelli", "Giacomelli"],
+    "Antonio Sartorio": ["Antonio Sartorio", "Sartorio"],
+    "Niccolò Jommelli": ["Jommelli", "Niccold Jommelli", "Niccole Jommelli"],
+    "Saxony": ["Saxony", "Saxon"],
+    "Aurelio Aureli": ["Aurelio Aureli", "Aureli", "Aurelio Aureli\nPerformed"],
+    "Pierre Corneille": ["Pierre Corneille", "Corneille", "Pierre Corneille's"],
+    "Antonio Lotti": ["Antonio Lotti", "Lotti"],
+    "Giuseppe Maria Buini": ["Giuseppe Maria Buini", "Buini", "Maria Buini", "Giuseppe Maria Buini\nPerformed"],
+    "Nicolò Minato": ["Minato", "Nicole Minato", "Nicold Minato\nPerformed", "Nicold Minato"],
+    "Ferdinand Carlo Gonzaga": ["Carlo Gonzaga"],
+    "Antonio Salvi": ["Antonio Salvi", "Salvi", "Antonio Salvi\nPerformed"],
+    "Giovanni Porta": ["Porta"],
+    "Georg Frideric Handel": ["Handel"],
+    "Giuseppe Galuppi": ["Galuppi"],
+    "Johann Adolf Hasse": ["Hasse"]
+}
+
+# A list of questionable entities
+
+questionable_entities = {
+    "Orlando", # Characters from plays
+    "Mithridates",
+    "Darius"
+}
+
+STOPPED AT MACEDONIA
