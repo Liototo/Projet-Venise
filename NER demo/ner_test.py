@@ -19,7 +19,8 @@ for ent in doc.ents:
     if ent.label_ in ["PERSON", "GPE", "LOC", "DATE"]:
         results.append({
             "text": ent.text,
-            "label": ent.label_
+            "label": ent.label_,
+            "context": ent.sent.text
         })
 
 print(f'Done! {len(results)} entities found\n')

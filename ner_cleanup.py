@@ -2,17 +2,20 @@
 
 undesired_entities = [
     "Venice",           # The city everything happens in, not very interesting
+    "the Venetian Republic",
     "Italy",
     "St. Stephen's",    # Markers of time periods an opera was performed in during a certain year
     "St. Martin's",
     "St. Luke's",
     "St. Andrew's",
     "Ascension",
+    "Advent",
     "Bonlini",          # Musicologists the opera list is based on
     "Groppo",
     "Groppo MS",
     "Galvani",
     "Galvani SSal",
+    "Galvani SMoi",
     "Wiel",
     "Alm",
     "Giovanni",         # Not enough information to accurately identify the entities
@@ -30,12 +33,19 @@ undesired_entities = [
     "Antonio",
     "Europe",
     "Giuseppe",
+    "Scarlatti",
     "Giovanni Rossi",   # Entities mostly found in footnotes -> impossible to link to right entries
     "San Marco",
     "Notatorio",
     "Johann Friedrich",
     "Stieger",
     "Rosand",
+    "Busta",
+    "Riccoboni",
+    "N. Weaver",
+    "Allacci",
+    "Ortolani",
+    "Vavoulis",
     "Arias",            # Elements wrongly identified as entities
     "Aria",
     "US",
@@ -55,7 +65,8 @@ undesired_entities = [
     "Carteggio da Venezia",
     "Opera",
     "Opernlexikon",
-    "Florentine Theater"
+    "Florentine Theater",
+    "Nc"
 ]
 
 
@@ -97,6 +108,8 @@ probably_good_entities = [
     "Saxony",
     "Persia",
     "Macedonia",
+    "Denmark",
+    "Armenia",
     "Pietro Metastasio",    # The composers/librettists of the operas
     "Antonio Vivaldi",
     "Francesco Silvani",
@@ -132,6 +145,8 @@ probably_good_entities = [
     "Faustina Bordoni", # Other people linked to the theater world (actors, foreign playwrights, etc.)
     "Pierre Corneille",
     "Domenico Cecchi",
+    "Antonio Bernacchi",
+    "Giovanni Paita",
     "Ferdinand Carlo Gonzaga", # People operas are dedicated to
 ]
 
@@ -171,8 +186,9 @@ entity_synonyms = {
     "Antonio Salvi": ["Antonio Salvi", "Salvi", "Antonio Salvi\nPerformed"],
     "Giovanni Porta": ["Porta"],
     "Georg Frideric Handel": ["Handel"],
-    "Giuseppe Galuppi": ["Galuppi"],
-    "Johann Adolf Hasse": ["Hasse"]
+    "Baldassare Galuppi": ["Baldassare Galuppi", "Baldassare", "Galuppi"],
+    "Johann Adolf Hasse": ["Hasse"],
+    "Giovanni Paita": ["Giovanni Paita", "Paita"]
 }
 
 # A list of questionable entities
@@ -180,7 +196,9 @@ entity_synonyms = {
 questionable_entities = {
     "Orlando", # Characters from plays
     "Mithridates",
-    "Darius"
+    "Darius",
+    "Zenobia",
+    "Stateira"
 }
 
-STOPPED AT MACEDONIA
+# STOPPED AT VAVOULIS

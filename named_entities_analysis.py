@@ -13,10 +13,6 @@ for target, keys in entity_synonyms.items():
             del data[k]
     data[target] = data.get(target, []) + combined
 
-# Remove duplicate entries for each entity
-for key in data:
-    data[key] = list(dict.fromkeys(data[key]))
-
 # Remove undesired entities
 data = {k: v for k, v in data.items() if k not in undesired_entities}
 
