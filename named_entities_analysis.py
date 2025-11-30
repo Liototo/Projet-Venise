@@ -26,8 +26,25 @@ for key, items in data.items():
         by_uid[int(item["uid"])].append(item["context"])
     merged[key] = dict(by_uid)
 
+# Sort entity occurrences by opera id
+for key, items in merged.items():
+    merged[key] = dict(sorted(items.items()))
+
+
 # Sort entities by number of occurences; only keeps the 100 most frequent 
 occurrences = (sorted(merged.items(), key=lambda item: len(item[1]), reverse=True))[:100]
 
+final_results = []
+
+# Turn the list into an explicit data structure
+for i in range(len(occurrences)):
+    entity_data = {
+        "entity": occurrences[i][0],
+        "type": None, # Will be filled manually
+        "entries": occurrences[i][1]
+    }
+
+    final_results.append(entity_data)
+
 with open("entity_occurrences.json", "w", encoding="utf-8") as file:
-    json.dump(occurrences, file, indent=2)
+    json.dump(final_results, file, indent=2)
