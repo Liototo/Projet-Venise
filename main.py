@@ -61,7 +61,7 @@ for entry in entries:
                 "uid": opera_id,
                 "context": re.sub("\n", " ", ent.sent.text)
             }
-            named_entities[ent.text][opera_id].append(occurrence)
+            named_entities[ent.text].append(occurrence)
 
     opera_id += 1
 

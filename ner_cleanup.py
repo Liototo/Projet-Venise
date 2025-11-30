@@ -1,4 +1,4 @@
-# A handmade list of frequent entities picked up by the NER that are inaccurate or provide irrelevant information
+# A list of frequent entities picked up by the NER that are inaccurate or provide irrelevant information
 
 undesired_entities = [
     "Venice",           # The city everything happens in, not very interesting
@@ -16,6 +16,7 @@ undesired_entities = [
     "Galvani",
     "Galvani SSal",
     "Galvani SMoi",
+    "Galvani SAng",
     "Wiel",
     "Alm",
     "Giovanni",         # Not enough information to accurately identify the entities
@@ -34,6 +35,9 @@ undesired_entities = [
     "Europe",
     "Giuseppe",
     "Scarlatti",
+    "Sant",
+    "Marquis",
+    "Rinaldo",
     "Giovanni Rossi",   # Entities mostly found in footnotes -> impossible to link to right entries
     "San Marco",
     "Notatorio",
@@ -46,6 +50,10 @@ undesired_entities = [
     "Allacci",
     "Ortolani",
     "Vavoulis",
+    "Strohm",
+    "Legrenzi",
+    "Mancini",
+    "Fondo Awvisi",
     "Arias",            # Elements wrongly identified as entities
     "Aria",
     "US",
@@ -66,8 +74,78 @@ undesired_entities = [
     "Opera",
     "Opernlexikon",
     "Florentine Theater",
-    "Nc"
+    "Nc",
+    "al",
+    "Nob",
+    "GO",
+    "Ser",
+    "I-Nc",
+    "Veneto",
+    "Orlando", # Characters from plays
+    "Mithridates",
+    "Darius",
+    "Zenobia",
+    "Stateira",
+    "Tigranes",
+    "Demetrio",
+    "Jupiter"
 ]
+
+
+# A list of similar entities to merge
+
+entity_synonyms = {
+    "Naples": ["Naples", "Neapolitan"],
+    "Mantua": ["Mantua", "Mantuan"],
+    "Florence": ["Florence", "Florentine"],
+    "Padua": ["Padua", "Paduan", "Padua.\n"],
+    "Pietro Metastasio": ["Pietro Metastasio", "Metastasio", "Pietro Metastasio\nPerformed", "Pietro Metastasio'"],
+    "Antonio Vivaldi": ["Antonio Vivaldi", "Vivaldi"],
+    "Francesco Silvani": ["Francesco Silvani", "Silvani", "Francesco Silvani'", "Francesco Silvani\nPerformed"],
+    "Carlo Francesco Pollarolo": ["Carlo Francesco Pollarolo", "C. F. Pollarolo"],
+    "Apostolo Zeno": ["Apostolo Zeno", "Zeno", "Apostolo Zeno\nPerformed"],
+    "Carlo Goldoni": ["Carlo Goldoni", "Goldoni", "Ca' Goldoni", "Carlo Goldoni\nPerformed"],
+    "Tomaso Albinoni": ["Tomaso Albinoni", "Albinoni"],
+    "Marc' Antonio Ziani": ["Antonio Ziani", "M. A. Ziani"],
+    "Antonio Caldara": ["Antonio Caldara", "Caldara"],
+    "Domenico Lalli": ["Domenico Lalli", "Lalli", "Domenico Lalli\nPerformed"],
+    "Carlo Pallavicino": ["Carlo Pallavicino", "Pallavicino"],
+    "San Cassiano": ["San Cassiano", "San Cassiano's"],
+    "San Salvatore": ["San Salvatore", "San Salvatore's", "San\nSalvatore"],
+    "Nicolo Porpora": ["Porpora", "Nicold Porpora", "Nicole Porpora"],
+    "Giuseppe Orlandini": ["Giuseppe Orlandini", "Giuseppe Maria Orlandini", "Orlandini"],
+    "Pietro Pariati": ["Pietro Pariati", "Pariati", "Pietro Pariati'"],
+    "San Giovanni Grisostomo": ["San Giovanni Grisostomo", "San Giovanni", "San Giovanni\nGrisostomo"],
+    "Geminiano Giacomelli": ["Geminiano Giacomelli", "Giacomelli"],
+    "Antonio Sartorio": ["Antonio Sartorio", "Sartorio"],
+    "Niccolo Jommelli": ["Jommelli", "Niccold Jommelli", "Niccole Jommelli"],
+    "Saxony": ["Saxony", "Saxon"],
+    "Aurelio Aureli": ["Aurelio Aureli", "Aureli", "Aurelio Aureli\nPerformed"],
+    "Pierre Corneille": ["Pierre Corneille", "Corneille", "Pierre Corneille's"],
+    "Antonio Lotti": ["Antonio Lotti", "Lotti"],
+    "Giuseppe Maria Buini": ["Giuseppe Maria Buini", "Buini", "Maria Buini", "Giuseppe Maria Buini\nPerformed"],
+    "Nicolo Minato": ["Minato", "Nicole Minato", "Nicold Minato\nPerformed", "Nicold Minato"],
+    "Ferdinand Carlo Gonzaga": ["Carlo Gonzaga"],
+    "Antonio Salvi": ["Antonio Salvi", "Salvi", "Antonio Salvi\nPerformed"],
+    "Giovanni Porta": ["Porta"],
+    "Georg Frideric Handel": ["Handel"],
+    "Baldassare Galuppi": ["Baldassare Galuppi", "Baldassare", "Galuppi"],
+    "Johann Adolf Hasse": ["Hasse"],
+    "Giovanni Paita": ["Giovanni Paita", "Paita"],
+    "Nicolo Grimaldi": ["Nicola Grimaldi", "Grimaldi"],
+    "Antonio Denzio": ["Antonio Denzio", "Denzio"],
+    "Antonio Barbieri": ["Antonio Barbieri", "Barbieri"],
+    "Carlo Broschi": ["Carlo Broschi", "Broschi"],
+    "Giulio Cesare Corradi": ["Giulio Cesare Corradi", "Corradi", "Giulio Cesare Corradi\nPerformed"],
+    "Diamante Scarabelli": ["Diamante Scarabelli", "Scarabelli"],
+    "Leonardo Vinci": ["Leonardo Vinci", "Vinci"],
+    "Lucia Facchinelli": ["Lucia Facchinelli", "Facchinelli"],
+    "Giacomo Francesco Bussani": ["Giacomo Francesco Bussani", "Bussani"],
+    "Alessandro Scarlatti": ["Alessandro Scarlatti", "Scarlatti"],
+    "Francesco de Castris": ["Francesco de Castris", "de Castris", "Francesco\nde Castris"],
+    "Giovanni Morselli": ["Giovanni Morselli", "Morselli"],
+    "Luca Antonio Predieri": ["Predieri", "Antonio Predieri", "L. A. Predieri", "L.\nA. Predieri"]
+}
 
 
 # A list of the valid entities that were extracted
@@ -110,6 +188,10 @@ probably_good_entities = [
     "Macedonia",
     "Denmark",
     "Armenia",
+    "Graz",
+    "Piazzola",
+    "Ravena",
+    "Hungary",
     "Pietro Metastasio",    # The composers/librettists of the operas
     "Antonio Vivaldi",
     "Francesco Silvani",
@@ -137,68 +219,33 @@ probably_good_entities = [
     "Nicolò Minato",
     "Antonio Salvi",
     "Giovanni Porta",
+    "Giulio Cesare Corradi",
+    "Antonio Pollarolo",
+    "Leonardo Vinci",
+    "Giacomo Francesco Bussani",
+    "Alessandro Scarlatti",
+    "Giovanni Morselli",
+    "Luca Antonio Predieri",
+    "Francesco Rossi",
     "San Cassiano",     # The theaters
     "San Salvatore",
     "San Samuele",
     "San Giovanni",
     "San Fantin",
+    "San Moise",
     "Faustina Bordoni", # Other people linked to the theater world (actors, foreign playwrights, etc.)
     "Pierre Corneille",
     "Domenico Cecchi",
     "Antonio Bernacchi",
     "Giovanni Paita",
+    "Nicolò Grimaldi",
+    "Antonio Denzio",
+    "Antonio Barbieri",
+    "Carlo Broschi",
+    "Tomaso Boni",
+    "Diamante Scarabelli",
+    "Antonio Ristorini",
+    "Lucia Facchinelli",
+    "Francesco de Castris",
     "Ferdinand Carlo Gonzaga", # People operas are dedicated to
 ]
-
-# A list of similar entities to merge
-entity_synonyms = {
-    "Naples": ["Naples", "Neapolitan"],
-    "Mantua": ["Mantua", "Mantuan"],
-    "Florence": ["Florence", "Florentine"],
-    "Padua": ["Padua", "Paduan", "Padua.\n"],
-    "Pietro Metastasio": ["Pietro Metastasio", "Metastasio", "Pietro Metastasio\nPerformed", "Pietro Metastasio'"],
-    "Antonio Vivaldi": ["Antonio Vivaldi", "Vivaldi"],
-    "Francesco Silvani": ["Francesco Silvani", "Silvani", "Francesco Silvani'", "Francesco Silvani\nPerformed"],
-    "Carlo Francesco Pollarolo": ["Carlo Francesco Pollarolo", "C. F. Pollarolo"],
-    "Apostolo Zeno": ["Apostolo Zeno", "Zeno", "Apostolo Zeno\nPerformed"],
-    "Carlo Goldoni": ["Carlo Goldoni", "Goldoni", "Ca' Goldoni", "Carlo Goldoni\nPerformed"],
-    "Tomaso Albinoni": ["Tomaso Albinoni", "Albinoni"],
-    "Marc' Antonio Ziani": ["Antonio Ziani", "M. A. Ziani"],
-    "Antonio Caldara": ["Antonio Caldara", "Caldara"],
-    "Domenico Lalli": ["Domenico Lalli", "Lalli", "Domenico Lalli\nPerformed"],
-    "Carlo Pallavicino": ["Carlo Pallavicino", "Pallavicino"],
-    "San Cassiano": ["San Cassiano", "San Cassiano's"],
-    "San Salvatore": ["San Salvatore", "San Salvatore's", "San\nSalvatore"],
-    "Nicolò Porpora": ["Porpora", "Nicold Porpora", "Nicole Porpora"],
-    "Giuseppe Orlandini": ["Giuseppe Orlandini", "Giuseppe Maria Orlandini", "Orlandini"],
-    "Pietro Pariati": ["Pietro Pariati", "Pariati", "Pietro Pariati'"],
-    "San Giovanni Grisostomo": ["San Giovanni Grisostomo", "San Giovanni", "San Giovanni\nGrisostomo"],
-    "Geminiano Giacomelli": ["Geminiano Giacomelli", "Giacomelli"],
-    "Antonio Sartorio": ["Antonio Sartorio", "Sartorio"],
-    "Niccolò Jommelli": ["Jommelli", "Niccold Jommelli", "Niccole Jommelli"],
-    "Saxony": ["Saxony", "Saxon"],
-    "Aurelio Aureli": ["Aurelio Aureli", "Aureli", "Aurelio Aureli\nPerformed"],
-    "Pierre Corneille": ["Pierre Corneille", "Corneille", "Pierre Corneille's"],
-    "Antonio Lotti": ["Antonio Lotti", "Lotti"],
-    "Giuseppe Maria Buini": ["Giuseppe Maria Buini", "Buini", "Maria Buini", "Giuseppe Maria Buini\nPerformed"],
-    "Nicolò Minato": ["Minato", "Nicole Minato", "Nicold Minato\nPerformed", "Nicold Minato"],
-    "Ferdinand Carlo Gonzaga": ["Carlo Gonzaga"],
-    "Antonio Salvi": ["Antonio Salvi", "Salvi", "Antonio Salvi\nPerformed"],
-    "Giovanni Porta": ["Porta"],
-    "Georg Frideric Handel": ["Handel"],
-    "Baldassare Galuppi": ["Baldassare Galuppi", "Baldassare", "Galuppi"],
-    "Johann Adolf Hasse": ["Hasse"],
-    "Giovanni Paita": ["Giovanni Paita", "Paita"]
-}
-
-# A list of questionable entities
-
-questionable_entities = {
-    "Orlando", # Characters from plays
-    "Mithridates",
-    "Darius",
-    "Zenobia",
-    "Stateira"
-}
-
-# STOPPED AT VAVOULIS
