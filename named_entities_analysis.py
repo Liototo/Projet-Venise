@@ -5,7 +5,7 @@ from ner_cleanup import undesired_entities, entity_synonyms
 with open("ner_results.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
-# Merge "entity synonyms", e.g. occurences of "Vivaldi" and "Antonio Vivaldi"
+# Merge "entity synonyms" (e.g. occurences of "Vivaldi" and "Antonio Vivaldi)"
 for target, keys in entity_synonyms.items():
     combined = []
     for k in keys:

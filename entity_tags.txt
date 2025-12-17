@@ -1,5 +1,0 @@
-Location: LOC
-Composer/Librettist: COMP_LIBR
-Theater: THEA
-Actoress: ACT
-Other: MISC

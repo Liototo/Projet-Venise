@@ -19,12 +19,8 @@ entries = re.split(r"(?m)^\s*Listed as*s", text)
 entries = [e.strip() for e in entries if e.strip()]
 entries.pop()
 
-print('Loading NER model...')
-
 # Load NER model
 nlp = spacy.load("en_core_web_sm")
-
-print('Done!\n')
 
 # Regex patterns used to extract data
 title_pattern = r"(?m)^(?:\d{4}/\d{1,2}\s+)?(.+?)\bMusic"
@@ -36,12 +32,13 @@ date_pattern = r"SORTING DATE:\s*(\d{4}-\d{1,2}-\d{1,2})"
 re_results = []
 named_entities = defaultdict(list)
 
-opera_id = 1
-
-print('Running regex extraction and NER...')
+opera_id = 0
 
 # Uses regex patterns + NER to extract all relevant data
 for entry in entries:
+
+    opera_id += 1
+
     data = {
         "uid": opera_id,
         "title": clean(re.search(title_pattern, entry, re.IGNORECASE).group(1) if re.search(title_pattern, entry) else None),
@@ -63,12 +60,8 @@ for entry in entries:
             }
             named_entities[ent.text].append(occurrence)
 
-    opera_id += 1
-
+# Write data in JSON files
 with open("venice_data.json", "w") as file:
     json.dump(re_results, file, indent=2)
-
-print('Done!\n')
-
 with open("ner_results.json", "w") as file:
     json.dump(named_entities, file, indent=2)

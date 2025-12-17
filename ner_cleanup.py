@@ -1,5 +1,4 @@
 # A list of frequent entities picked up by the NER that are inaccurate or provide irrelevant information
-
 undesired_entities = [
     "Venice",           # The city everything happens in, not very interesting
     "the Venetian Republic",
@@ -93,7 +92,6 @@ undesired_entities = [
 
 
 # A list of similar entities to merge
-
 entity_synonyms = {
     "Naples": ["Naples", "Neapolitan"],
     "Mantua": ["Mantua", "Mantuan"],
@@ -146,106 +144,3 @@ entity_synonyms = {
     "Giovanni Morselli": ["Giovanni Morselli", "Morselli"],
     "Luca Antonio Predieri": ["Predieri", "Antonio Predieri", "L. A. Predieri", "L.\nA. Predieri"]
 }
-
-
-# A list of the valid entities that were extracted
-
-probably_good_entities = [
-    "Naples",               # Cities/Regions other than Venice
-    "Rome",
-    "London",
-    "Vienna",
-    "Bologna",
-    "Mantua",
-    "Milan",
-    "Florence",
-    "Verona",
-    "Modena",
-    "Paris",
-    "Dresden",
-    "Padua",
-    "Vicenza",
-    "England",
-    "France",
-    "Prague",
-    "Spain",
-    "Poland",
-    "Ferrara",
-    "Bavaria",
-    "Sicily",
-    "Turin",
-    "Austria",
-    "Genoa",
-    "Germany",
-    "Brescia",
-    "Brunswick",
-    "Munich",
-    "Egypt",
-    "Parma",
-    "Treviso",
-    "Saxony",
-    "Persia",
-    "Macedonia",
-    "Denmark",
-    "Armenia",
-    "Graz",
-    "Piazzola",
-    "Ravena",
-    "Hungary",
-    "Pietro Metastasio",    # The composers/librettists of the operas
-    "Antonio Vivaldi",
-    "Francesco Silvani",
-    "Carlo Francesco Pollarolo",
-    "Apostolo Zeno",
-    "Carlo Goldoni",
-    "Tomaso Albinoni",
-    "Marc' Antonio Ziani",
-    "Antonio Caldara",
-    "Georg Frideric Handel",
-    "Giuseppe Galuppi",
-    "Domenico Lalli",
-    "Carlo Pallavicino",
-    "Francesco Gasparini",
-    "Johann Adolf Hasse",
-    "Nicolò Porpora",
-    "Giuseppe Orlandini",
-    "Pietro Pariati",
-    "Geminiano Giacomelli",
-    "Antonio Sartorio",
-    "Niccolò Jommelli",
-    "Aurelio Aureli",
-    "Antonio Lotti",
-    "Giuseppe Maria Buini",
-    "Nicolò Minato",
-    "Antonio Salvi",
-    "Giovanni Porta",
-    "Giulio Cesare Corradi",
-    "Antonio Pollarolo",
-    "Leonardo Vinci",
-    "Giacomo Francesco Bussani",
-    "Alessandro Scarlatti",
-    "Giovanni Morselli",
-    "Luca Antonio Predieri",
-    "Francesco Rossi",
-    "San Cassiano",     # The theaters
-    "San Salvatore",
-    "San Samuele",
-    "San Giovanni",
-    "San Fantin",
-    "San Moise",
-    "Faustina Bordoni", # Other people linked to the theater world (actors, foreign playwrights, etc.)
-    "Pierre Corneille",
-    "Domenico Cecchi",
-    "Antonio Bernacchi",
-    "Giovanni Paita",
-    "Nicolò Grimaldi",
-    "Antonio Denzio",
-    "Antonio Barbieri",
-    "Carlo Broschi",
-    "Tomaso Boni",
-    "Diamante Scarabelli",
-    "Antonio Ristorini",
-    "Lucia Facchinelli",
-    "Francesco de Castris",
-    "Ferdinand Carlo Gonzaga", # People operas are dedicated to
-]
